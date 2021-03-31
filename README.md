@@ -11,7 +11,7 @@ Goal: Investigate DPS practices by analysing descriptions of crimes, particularl
 ```
 conda env create -f environment.yml
 ```
-3. Activate the environment.
+3. [Activate](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) the environment.
 ```
 conda activate dps
 ```
