@@ -35,7 +35,7 @@ conda env create -f environment.yml
 ```
 conda activate dps
 ```
-4. Run scripts.
+4. Run scripts. For example:
 ```
 python scrape.py
 ```
