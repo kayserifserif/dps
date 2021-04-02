@@ -4,6 +4,10 @@ Database of USC DPS crime alerts. Links to individual notices are scraped from t
 
 Goal: Investigate DPS practices by analysing descriptions of crimes, particularly the "suspects". Reflect on the relationship between USC and surrounding community, especially of low-income people of color.
 
+## [Clery Act](https://clerycenter.org/policy-resources/the-clery-act/)
+Consumer protection law that aims to provide transparency around campus crime policy and statistics. 
+[Understanding Clery Statistics](https://clerycenter.org/wp-content/uploads/2017/03/0618_Understanding-Clery-Statistics.pdf)
+
 ## Setup
 
 1. Install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
