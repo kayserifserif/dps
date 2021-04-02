@@ -1,16 +1,24 @@
-Robberies
-2018-10-15T12:01:18-07:00
-https://dps.usc.edu/robberies/
+SUMMARY: Robberies
+POST DATE: 2018-10-15T12:01:18-07:00
+URL: https://dps.usc.edu/robberies/
+ALERT #: CA 2018-010
 
-ALERT #: CA2018-010
-REPORTED OFFENSES: Robbery
-DATE & TIME OF OCCURRENCE: October 14, 2018 at 12:30 A.M. (Case #1804045)
-LOCATION: The 1200 Block of West 37th Drive (off campus)
-INCIDENT #1 NARRATIVE: Victim, a student, was attending a party with friends. While victim was dancing by himself, he was approached by Suspect 1 who demanded his property. As the victim raised his hands, backed up and indicated he did not want trouble, Suspects 2 and 3 got behind the victim, one on his left and the other on his right side and began to grab his wallet which was in his rear pocket. The victim did not resist and the suspects fled the scene.
-SUSPECTS DESCRIPTION: Suspect # 1: is described as male, Black, brown eyes, approximately 5’8, 170 lbs. medium build, dark skinned. Suspect # 2: is described as a male Black, brown eyes, approximately 6’2, 150 lbs., thin build, dark skinned. Suspect # 3: is described as a male, Black, brown eyes, dark skinned.
-SUSPECT VEHICLE: None.
-DATE & TIME OF OCCURRENCE: October 14, 2018 at 2:00 A.M. (Case #1804038)
-LOCATION: The 1200 Block of West 37th Street (off campus)
-INCIDENT #2 NARRATIVE: Victim, a student, stated that while he was attending a partywith friends he was approached by Suspect 1 (described below) who introduced himself as “Breezie” and began asking the victim his age and what school he attended. The conversation was brief. Approximately 30 minutes later as the victim was leaving the party, he observed Breezie who gestured to him to come over and talk to him. The victim went over to Breezie who then asked the victim if he had Instagram. As the victim reached into his pocket to get his phone, Breezie grabbed the victim’s phone and ran off with it. The victim turned around and told two males standing nearby on his left and right side, later identified as Suspects 2 and 3 (described below) that his phone had been stolen. Suspects 2 and 3 apologized to the victim and then simultaneously reached into the victim’s pockets and stole his wallet and keys and then fled the scene.
-SUSPECT DESCRIPTION: Suspect #1: Described as male, Black, approximately 5’8/160lbs/19-21 years of age. Suspect #2: Described as male, Black, approximately 6’2/210/19-21 years of age. Suspect #3: Described as male, Black, approximately 5/10/unknown weight/19-21 years of age
-SUSPECT VEHICLE: None.
+DPS CASE #: 1804045
+INCIDENT DATE: 2018-10-14 00:30
+INCIDENT LOCATION: 1200 block of W 37th Dr, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: Victim, a student, was attending a party with friends. While victim was dancing by himself, he was approached by Suspect #1 who demanded his property. As the victim raised his hands, backed up and indicated he did not want trouble, Suspects 2 and 3 got behind the victim, one on his left and the other on his right side and began to grab his wallet which was in his rear pocket. The victim did not resist and the suspects fled the scene.
+SUSPECT DESCRIPTION: Male, Black, brown eyes, approximately 5’8, 170 lbs. medium build, dark skinned.
+SUSPECT DESCRIPTION: Male Black, brown eyes, approximately 6’2, 150 lbs., thin build, dark skinned.
+SUSPECT DESCRIPTION: Male, Black, brown eyes, dark skinned.
+SUSPECT VEHICLE: None
+
+DPS CASE #: 1804038
+INCIDENT DATE: 2018-10-14 02:00
+INCIDENT LOCATION: 1200 block of W 37th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: Victim, a student, stated that while he was attending a partywith friends he was approached by Suspect #1 (described below) who introduced himself as “Breezie” and began asking the victim his age and what school he attended. The conversation was brief. Approximately 30 minutes later as the victim was leaving the party, he observed Breezie who gestured to him to come over and talk to him. The victim went over to Breezie who then asked the victim if he had Instagram. As the victim reached into his pocket to get his phone, Breezie grabbed the victim’s phone and ran off with it. The victim turned around and told two males standing nearby on his left and right side, later identified as Suspects 2 and 3 (described below) that his phone had been stolen. Suspects 2 and 3 apologized to the victim and then simultaneously reached into the victim’s pockets and stole his wallet and keys and then fled the scene.
+SUSPECT DESCRIPTION: Male, Black, approximately 5’8/160lbs/19-21 years of age. 
+SUSPECT DESCRIPTION: Male, Black, approximately 6’2/210/19-21 years of age. 
+SUSPECT DESCRIPTION: Male, Black, approximately 5/10/unknown weight/19-21 years of age.
+SUSPECT VEHICLE: None

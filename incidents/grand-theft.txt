@@ -1,9 +1,10 @@
-Grand Theft
-2020-06-16T17:18:15-07:00
-https://dps.usc.edu/grand-theft/
+SUMMARY: Grand Theft
+POST DATE: 2020-06-16T17:18:15-07:00
+URL: https://dps.usc.edu/grand-theft/
+ALERT #: TW 2020-013
 
-ALERT TW#: 2020-013
+INCIDENT DATE: 2020-06-16 14:20
+INCIDENT LOCATION: Royal Street Parking Structure at 649 W 34th St, Los Angeles, CA 90089
+INCIDENT OFF CAMPUS: False
 INCIDENT DESCRIPTION: The female victim (former USC student) was standing on the roof of the Royal Street Parking Structure and set her purse on the ground. The suspect stole the purse and ran down the stairs of the parking structure. The victim last saw the suspect running on 34th Street behind Leavey Library. USC Department of Public Safety (DPS) officers later recovered the stolen purse, although it was missing some of its contents.
-DATE & TIME OF OCCURRENCE: June 16, 2020 at 2:20 p.m.
-LOCATION: Royal Street Parking Structure at 649 W. 34th St. (on-campus)
-SUSPECT DESCRIPTION: The suspect is a 20-25-year old Black male who wore black clothing with an orange stripe down the center. He is between 5 feet 10 inches and 6 feet tall and rode a skateboard.
+SUSPECT DESCRIPTION: 20-25-year old Black male who wore black clothing with an orange stripe down the center. He is between 5 feet 10 inches and 6 feet tall and rode a skateboard.

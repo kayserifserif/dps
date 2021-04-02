@@ -1,10 +1,12 @@
-Robbery
-2019-05-20T13:44:06-07:00
-https://dps.usc.edu/robbery-41/
+SUMMARY: Robbery
+POST DATE: 2019-05-20T13:44:06-07:00
+URL: https://dps.usc.edu/robbery-41/
+ALERT #: TW 2019-005
 
-ALERT TW#: 2019-005
+INCIDENT DATE: 2019-05-19 09:30
+INCIDENT LOCATION: Vermont Ave & W 36th Pl, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
 INCIDENT DESCRIPTION: Two suspects approached the victims, who are not affiliated with USC, standing at the northwest corner of 36th Place and Vermont Avenue. The suspects forcibly took one of the victim’s purse and the other’s cell phone. The suspects then entered their vehicle and drove away westbound on 36th Place toward Catalina Street. No one was injured. There were no weapons involved in the incident.
-DATE & TIME OF OCCURRENCE: May 19, 2019 at approximately 9:30 a.m.
-LOCATION: 36th Place and Vermont Avenue (off campus)
-SUSPECT DESCRIPTION (provided by the victims): Suspect 1: Male, Black, No further description. Suspect 2: Female, Black, No further description
+SUSPECT DESCRIPTION: Male, Black
+SUSPECT DESCRIPTION: Female, Black
 SUSPECT VEHICLE: Silver 2005 Audi sedan, license number 7HYN526

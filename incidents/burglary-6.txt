@@ -1,9 +1,10 @@
-Burglary
-2021-03-17T11:14:52-07:00
-https://dps.usc.edu/burglary-6/
+SUMMARY: Burglary
+POST DATE: 2021-03-17T11:14:52-07:00
+URL: https://dps.usc.edu/burglary-6/
 
-Incident description: Unknown suspects cut the locks off of two cargo containers and removed emergency supplies.
-Time & date incident was reported: 7:15 a.m. on March 17, 2021
-Location: Parking lot at 1540 Alcazar St. (Health Sciences Campus)
-Suspect description: No suspects seen.
-Suspect vehicle: No vehicle seen.
+INCIDENT DATE: 2021-03-17 07:15
+INCIDENT LOCATION: Parking lot at 1540 Alcazar St, Los Angeles, CA 90033
+INCIDENT OFF CAMPUS: False
+INCIDENT DESCRIPTION: Unknown suspects cut the locks off of two cargo containers and removed emergency supplies.
+SUSPECT DESCRIPTION: No suspects seen.
+SUSPECT VEHICLE: None seen

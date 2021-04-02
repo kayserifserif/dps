@@ -1,11 +1,12 @@
-Robbery at HSC
-2018-06-07T21:36:46-07:00
-https://dps.usc.edu/robbery-at-hsc-2/
+SUMMARY: Robbery at HSC
+POST DATE: 2018-06-07T21:36:46-07:00
+URL: https://dps.usc.edu/robbery-at-hsc-2/
+ALERT #: TW 2018-010
 
-ALERT #: TW2018-010
 REPORTED OFFENSE: Robbery
-DATE & TIME OF OCCURRENCE: June 6, 2018 at 11:43 p.m.
-LOCATION: 1500 Block of Soto Street, between Norfolk Street and Alcazar Street, L.A. (adjacent to Health Sciences Campus)
+INCIDENT DATE: 2018-01-06 23:43
+INCIDENT LOCATION: 1500 block of Soto St, Los Angeles, CA 90033
+INCIDENT OFF CAMPUS: True
 INCIDENT DESCRIPTION: Victim, not affiliated with the university, was standing at a taco truck attempting to purchase food when approached by the suspect. The suspect displayed a handgun and demanded the victim’s property. The victim gave the suspect money and the suspect fled on foot with the victim’s property. The victim was not injured.
-SUSPECT DESCRIPTION: Suspect 1: Male, Hispanic, approximately 28 to 30 years old, wearing grey tank top and light colored shorts.
-SUSPECT VEHICLE: None seen.
+SUSPECT DESCRIPTION: Male, Hispanic, approximately 28 to 30 years old, wearing grey tank top and light colored shorts.
+SUSPECT VEHICLE: None seen

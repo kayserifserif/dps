@@ -1,8 +1,10 @@
-Robbery-Suspect in Custody
-2021-02-12T11:01:34-08:00
-https://dps.usc.edu/robbery-suspect-in-custody/
+SUMMARY: Robbery-Suspect in Custody
+POST DATE: 2021-02-12T11:01:34-08:00
+URL: https://dps.usc.edu/robbery-suspect-in-custody/
 
-Incident description: The victim, not a student, exited the bus at McClintock Avenue at Jefferson Boulevard. While walking alone, the victim was approached by two male suspects. The first suspect pushed the victim to the ground, and while the victim was on the ground, the second suspect took the victim’s backpack and cell phone. Both suspects ran northbound on McClintock Avenue.
-Incident resolution: USC Department of Public Safety officers observed two males who matched the description of the robbery suspects and detained both. The victim positively identified the suspects, who were then arrested and transported to the Los Angeles Police Department for booking on robbery charges.
-Time & date of incident: 10:30 p.m. on Feb. 10, 2021
-Location: Off campus at McClintock Avenue and Jefferson Boulevard
+INCIDENT DATE: 2021-02-10 22:30
+INCIDENT LOCATION: W Jefferson Blvd & McClintock Ave, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: The victim, not a student, exited the bus at McClintock Avenue at Jefferson Boulevard. While walking alone, the victim was approached by two male suspects. The first suspect pushed the victim to the ground, and while the victim was on the ground, the second suspect took the victim’s backpack and cell phone. Both suspects ran northbound on McClintock Avenue.
+
+RESOLUTION: USC Department of Public Safety officers observed two males who matched the description of the robbery suspects and detained both. The victim positively identified the suspects, who were then arrested and transported to the Los Angeles Police Department for booking on robbery charges.

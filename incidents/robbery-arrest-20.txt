@@ -1,6 +1,10 @@
-Robbery Arrest
-2018-11-27T18:27:45-08:00
-https://dps.usc.edu/robbery-arrest-20/
+SUMMARY: Robbery Arrest
+POST DATE: 2018-11-27T18:27:45-08:00
+URL: https://dps.usc.edu/robbery-arrest-20/
 
-Incident description: On November 26, at approximately 8:00pm, there several strong arm robberies of USC students in the area of Hoover and Jefferson. All victims were approached and property was demanded under the threat of physical violence. The victims surrendered their phones and other property and the suspects entered a waiting vehicle driven by another suspect.
-Disposition: DPS officers, working with LAPD Officers, determined the location of one of the cell phones. LAPD officers conducted follow up where they were able to detain the three suspects that carried out the robberies. Suspects were identified based on DPS video footage and the property taken was recovered and returned to the owners.
+INCIDENT DATE: 2018-11-26 20:00
+INCIDENT LOCATION: Jefferson Blvd & Hoover St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: False
+INCIDENT DESCRIPTION: On November 26, at approximately 8:00pm, there several strong arm robberies of USC students in the area of Hoover and Jefferson. All victims were approached and property was demanded under the threat of physical violence. The victims surrendered their phones and other property and the suspects entered a waiting vehicle driven by another suspect.
+
+DISPOSITION: DPS officers, working with LAPD Officers, determined the location of one of the cell phones. LAPD officers conducted follow up where they were able to detain the three suspects that carried out the robberies. Suspects were identified based on DPS video footage and the property taken was recovered and returned to the owners.

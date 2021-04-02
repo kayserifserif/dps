@@ -1,10 +1,11 @@
-Sexual Battery
-2020-02-05T14:22:25-08:00
-https://dps.usc.edu/sexual-battery-8/
+SUMMARY: Sexual Battery
+POST DATE: 2020-02-05T14:22:25-08:00
+URL: https://dps.usc.edu/sexual-battery-8/
+ALERT #: TW 2020-005
 
-ALERT TW#: 2020-005
+INCIDENT DATE: 2020-02-04 10:40
+INCIDENT LOCATION: Figueroa St near 37th Pl, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
 INCIDENT DESCRIPTION: As the female victim (student) was walking southbound on Figueroa Street near 37th Place, a suspect riding a bicycle approached her from behind. The suspect grabbed the victim’s buttocks and made a lewd comment before riding southbound on Figueroa Street toward Flower Street.
-DATE & TIME OF OCCURRENCE: Feb. 4, 2020 at approximately 10:40 a.m.
-LOCATION: Figueroa Street near 37th Place (off-campus)
-SUSPECT DESCRIPTION: The suspect is a 20-25-year-old Hispanic male who wore a blue backpack.
-SUSPECT VEHICLE: The suspect rode a black bicycle.
+SUSPECT DESCRIPTION: 20-25-year-old Hispanic male who wore a blue backpack.
+SUSPECT VEHICLE: Black bicycle.

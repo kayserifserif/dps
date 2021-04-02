@@ -1,10 +1,11 @@
-Residential Burglary
-2020-08-03T21:34:19-07:00
-https://dps.usc.edu/residential-burglary-4/
+SUMMARY: Residential Burglary
+POST DATE: 2020-08-03T21:34:19-07:00
+URL: https://dps.usc.edu/residential-burglary-4/
+ALERT #: TW 2020-017
 
-ALERT TW#: 2020-017
+INCIDENT DATE: 2020-08-03 12:00
+INCIDENT LOCATION: 600 block of W 28th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
 INCIDENT DESCRIPTION: The suspect entered the residence through the unlocked front door and walked past four students who were in the living room. Realizing there was no construction scheduled, one student followed the suspect to the courtyard and watched him load a tool pouch with tools and start to walk out. The suspect picked up a skateboard but dropped it when confronted by the student. The suspect turned and walked out the front door with the tools and tool pouch. The suspect was last seen getting on a bus at Figueroa Street and Exposition Boulevard. The bus drove away westbound on Exposition.
-DATE & TIME OF OCCURRENCE: August 3, 2020, approximately 12:00 noon
-LOCATION: 600 block W. 28th Street
 SUSPECT DESCRIPTION: Male, Black, 5’ 10” tall, 180 to 200 pounds, wearing a black shirt, black pants and an orange traffic safety vest.
-SUSPECT VEHICLE: None seen.
+SUSPECT VEHICLE: None seen

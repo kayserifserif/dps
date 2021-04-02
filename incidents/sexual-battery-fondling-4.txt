@@ -1,10 +1,11 @@
-Sexual Battery/Fondling
-2018-11-07T21:34:41-08:00
-https://dps.usc.edu/sexual-battery-fondling-4/
+SUMMARY: Sexual Battery/Fondling
+POST DATE: 2018-11-07T21:34:41-08:00
+URL: https://dps.usc.edu/sexual-battery-fondling-4/
+ALERT #: TW 2018-013
 
-ALERT #: TW2018-013
-INCIDENT: A student was standing in front of the Radisson Hotel when she was approached by the suspect who groped her and pulled her towards him. The student pulled away from the suspect and ran to a group of friends who were nearby. The suspect was last seen on foot walking north on Figueroa Street.
-DATE & TIME OF OCCURRENCE: November 06, 2018 at approximately 8:15 PM
-LOCATION: 3540 Figueroa Street (off campus)
-SUSPECT DESCRIPTION PROVIDED BY THE VICTIM: Male, Black, 25-30, 6’00” to 6’02”, medium length curly hair, wearing a white sweat shirt and grey pants.
-SUSPECT VEHICLE DESCRIPTION: None
+INCIDENT DATE: 2018-11-06 20:15
+INCIDENT LOCATION: 3540 S Figueroa St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: A student was standing in front of the Radisson Hotel when she was approached by the suspect who groped her and pulled her towards him. The student pulled away from the suspect and ran to a group of friends who were nearby. The suspect was last seen on foot walking north on Figueroa Street.
+SUSPECT DESCRIPTION: Male, Black, 25-30, 6’00” to 6’02”, medium length curly hair, wearing a white sweat shirt and grey pants.
+SUSPECT VEHICLE: None

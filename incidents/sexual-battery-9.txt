@@ -1,10 +1,11 @@
-Sexual Battery
-2020-03-01T17:02:08-08:00
-https://dps.usc.edu/sexual-battery-9/
+SUMMARY: Sexual Battery
+POST DATE: 2020-03-01T17:02:08-08:00
+URL: https://dps.usc.edu/sexual-battery-9/
+ALERT #: CA 2020-008
 
-ALERT CA#: 2020-008
+INCIDENT DATE: 2020-02-28 19:00
+INCIDENT LOCATION: 1100 block of W 30th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
 INCIDENT DESCRIPTION: As the female victim (unaffiliated with USC) was walking eastbound along the north side of 30th Street (north of Orchard Avenue), a male suspect riding a bicycle approached her from behind. The suspect grabbed the victim’s buttocks and continued riding eastbound on 30th Street toward McClintock Avenue.
-DATE & TIME OF OCCURRENCE: Feb. 28, 2020 at approximately 7 p.m.
-LOCATION: 1100 block of West 30th Street (off-campus)
-SUSPECT DESCRIPTION: The suspect wore a dark hoodie.
-SUSPECT VEHICLE: The suspect rode a dark bicycle.
+SUSPECT DESCRIPTION: Dark hoodie.
+SUSPECT VEHICLE: Dark bicycle.

@@ -1,11 +1,11 @@
-Rape
-2018-04-23T14:03:49-07:00
-https://dps.usc.edu/rape/
+SUMMARY: Rape
+POST DATE: 2018-04-23T14:03:49-07:00
+URL: https://dps.usc.edu/rape/
+ALERT #: TW 2018-006
 
-ALERT #: TW2018-006
-REPORTED OFFENSE: RAPE
-INCIDENT: DPS received a report from LAPD Hollenbeck Division that a female not affiliated with the university reported that she was raped by a male adult at a house near campus. The location where the crime occurred was empty and had been boarded up prior to demolition. The reporting party was unable to provide a description of the perpetrator or the location where she encountered him prior to the crime.
-DATE & TIME OF OCCURRENCE: 04-21-18, 1:00 AM to 3:45 AM
-LOCATION: 1440 Playground St, Los Angeles, California, 90032
-SUSPECT DESCRIPTION: Male adult, no further description
-SUSPECT VEHICLE DESCRIPTION: None seen
+INCIDENT DATE: 2018-04-21 01:00-03:45
+INCIDENT LOCATION: 1440 Playground St, Los Angeles, CA 90033
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: DPS received a report from LAPD Hollenbeck Division that a female not affiliated with the university reported that she was raped by a male adult at a house near campus. The location where the crime occurred was empty and had been boarded up prior to demolition. The reporting party was unable to provide a description of the perpetrator or the location where she encountered him prior to the crime.
+SUSPECT DESCRIPTION: Male adult
+SUSPECT VEHICLE: None seen

@@ -1,9 +1,13 @@
-Grand Theft
-2020-11-19T18:43:52-08:00
-https://dps.usc.edu/grand-theft-2/
+SUMMARY: Grand Theft
+POST DATE: 2020-11-19T18:43:52-08:00
+URL: https://dps.usc.edu/grand-theft-2/
 
-Incident description: Three male juveniles and a female juvenile approached the victim as he was standing on the train platform. One of the male juveniles grabbed the victim’s iPhone out of his hand and walked away.
-Time & date of incident: 2:25 p.m. on Nov. 19, 2020
-Location: Off campus at the Expo/Vermont light rail station. The suspects were last seen running in the area of Exposition Boulevard and Catalina Street.
-Suspect description: The first suspect is a Black male, approximately 14 to 16 years old, 5 feet 9 inches tall and with a thin build. He was wearing a white T-shirt and black pants. The second suspect is a Black male, approximately 14 to 16 years old, 5 feet 9 inches tall and with a thin build. He was wearing a blue long-sleeve T-shirt and blue pants. The third suspect is a Black male, approximately 14 to 16 years old, 5 feet 8 inches tall and weighing 180 pounds. There was no description provided for the female suspect.
-Suspect vehicle: No vehicle seen.
+INCIDENT DATE: 2020-11-19 14:25
+INCIDENT LOCATION: Expo/Vermont light rail station, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: Three male juveniles and a female juvenile approached the victim as he was standing on the train platform. One of the male juveniles grabbed the victim’s iPhone out of his hand and walked away. The suspects were last seen running in the area of Exposition Boulevard and Catalina Street.
+SUSPECT DESCRIPTION: Black male, approximately 14 to 16 years old, 5 feet 9 inches tall and with a thin build. He was wearing a white T-shirt and black pants.
+SUSPECT DESCRIPTION: Black male, approximately 14 to 16 years old, 5 feet 9 inches tall and with a thin build. He was wearing a blue long-sleeve T-shirt and blue pants.
+SUSPECT DESCRIPTION: Black male, approximately 14 to 16 years old, 5 feet 8 inches tall and weighing 180 pounds.
+SUSPECT DESCRIPTION: Female.
+SUSPECT VEHICLE: None seen

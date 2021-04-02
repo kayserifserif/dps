@@ -1,10 +1,11 @@
-Assault
-2020-06-15T18:59:12-07:00
-https://dps.usc.edu/assault-with-a-vehicle/
+SUMMARY: Assault
+POST DATE: 2020-06-15T18:59:12-07:00
+URL: https://dps.usc.edu/assault-with-a-vehicle/
+ALERT #: TW 2020-012
 
-ALERT TW#: 2020-012
+INCIDENT DATE: 2020-06-15 11:25
+INCIDENT LOCATION: 600 block of W 34th St, Los Angeles, CA 90089
+INCIDENT OFF CAMPUS: False
 INCIDENT DESCRIPTION: USC Department of Public Safety (DPS) officers attempted to detain a suspect who was illegally parked on-campus. The suspect fled, drove erratically, and hit a parked DPS vehicle with an officer inside. The suspect then drove away. The DPS officer in the parked vehicle sustained minor injuries.
-DATE & TIME OF OCCURRENCE: June 15, 2020 at approximately 11:25 a.m.
-LOCATION: 600 block of West 34th Street (on-campus)
-SUSPECT DESCRIPTION: The suspect is a Hispanic female who is approximately 35 years old.
-SUSPECT VEHICLE: The suspect drove a four-door red Infiniti sedan. The California license plate number is 5LFN899.
+SUSPECT DESCRIPTION: Hispanic female who is approximately 35 years old.
+SUSPECT VEHICLE: Four-door red Infiniti sedan. The California license plate number is 5LFN899.

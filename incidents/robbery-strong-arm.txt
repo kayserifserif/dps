@@ -1,12 +1,13 @@
-Robbery-Strong Arm
-2018-08-22T18:06:19-07:00
-https://dps.usc.edu/robbery-strong-arm/
+SUMMARY: Robbery-Strong Arm
+POST DATE: 2018-08-22T18:06:19-07:00
+URL: https://dps.usc.edu/robbery-strong-arm/
+ALERT #: CA 2018-008
 
-ALERT #: CA2018-008
-DPS Case #: 1803109
+DPS CASE #: 1803109
 REPORTED OFFENSE: Robbery-Strong Arm
-DATE & TIME OF OCCURRENCE: August 22, 2018 at 11:26 A.M.
-LOCATION: Corner of Jefferson Blvd and Walton Ave (off campus)
-INCIDENT DESCRIPTION: The victim and witness (USC students) were walking west on Jefferson and stopped at the corner of Jefferson and Walton. A suspect approached the victim from behind and pushed victim to the ground. The suspect then grabbed the victim’s cell phoneand ran north on Walton from Jefferson to a waiting vehicle. The vehicle drove north on Walton.
-SUSPECT DESCRIPTION: Suspect: Male, black, 6’2”, 20 to 24 years old, light blue shirt, and dark color pants
-SUSPECT VEHICLE: Four Door Sedan, no further information.
+INCIDENT DATE: 2018-08-22 11:26
+INCIDENT LOCATION: Walton Ave & W Jefferson Blvd, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: The victim and witness (USC students) were walking west on Jefferson and stopped at the corner of Jefferson and Walton. A suspect approached the victim from behind and pushed victim to the ground. The suspect then grabbed the victim’s cell phone and ran north on Walton from Jefferson to a waiting vehicle. The vehicle drove north on Walton.
+SUSPECT DESCRIPTION: Male, black, 6’2”, 20 to 24 years old, light blue shirt, and dark color pants
+SUSPECT VEHICLE: Four door sedan

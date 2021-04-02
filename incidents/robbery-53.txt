@@ -1,9 +1,10 @@
-Robbery
-2021-03-12T14:53:41-08:00
-https://dps.usc.edu/robbery-53/
+SUMMARY: Robbery
+POST DATE: 2021-03-12T14:53:41-08:00
+URL: https://dps.usc.edu/robbery-53/
 
-Incident description: The victim was selling a laptop online and agreed to meet the suspect to complete the transaction. The suspect was seated in her car and claimed she couldn’t get out of it because she was pregnant. The victim showed the suspect the laptop through an open window, and the two struggled over the computer. The suspect took the laptop and drove away.
-Time & date of incident: 11:59 a.m. on March 12, 2021
-Location: Off campus at 844 W. 32nd St.
-Suspect description: The suspect was described as a Black female, with black hair and brown eyes, about 25 to 30 years old, 5 feet, 4 inches tall and weighing 220 pounds.
-Suspect vehicle: Black, four-door Nissan Sentra.
+INCIDENT DATE: 2021-03-12 11:59
+INCIDENT LOCATION: 844 W 32nd St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: The victim was selling a laptop online and agreed to meet the suspect to complete the transaction. The suspect was seated in her car and claimed she couldn’t get out of it because she was pregnant. The victim showed the suspect the laptop through an open window, and the two struggled over the computer. The suspect took the laptop and drove away.
+SUSPECT DESCRIPTION: Black female, with black hair and brown eyes, about 25 to 30 years old, 5 feet, 4 inches tall and weighing 220 pounds.
+SUSPECT VEHICLE: Black, four-door Nissan Sentra.

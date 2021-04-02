@@ -1,9 +1,10 @@
-Robbery (Suspects in Custody)
-2020-07-02T18:23:19-07:00
-https://dps.usc.edu/robbery-suspects-in-custody-3/
+SUMMARY: Robbery (Suspects in Custody)
+POST DATE: 2020-07-02T18:23:19-07:00
+URL: https://dps.usc.edu/robbery-suspects-in-custody-3/
 
-Incident: Attempt Robbery-Suspects in Custody
-Date/Time: July 1, 2020 at approximately 8 p.m.
-Location: Adams Boulevard and Ellendale Place (off-campus)
-Description of Incident: While walking alone, a student noticed a group of four people standing at the street corner. As the student passed by, he was approached by one individual who displayed a handgun and demanded the student’s car keys. When the student refused, the suspect struck the student several times while trying to wrestle the keys away from him. When witnesses began to intervene, the suspect, joined by the three other suspects, ran from the scene.
-Disposition: DPS camera officers observed the suspects fleeing from the scene and directed responding DPS officers to their location, while simultaneously providing the officers with the suspects’ description. Working in partnership with responding officers from the LAPD, DPS officers immediately took the primary suspect into custody along with one other. DPS camera officers then observed the remaining two suspects and directed officers to their location. Both were taken into custody by DPS. The suspects, one adult and three juveniles, were arrested and transported to LAPD for booking on robbery charges.
+INCIDENT DATE: 2020-07-01 20:00
+INCIDENT LOCATION: W Adams Blvd & Ellendale Pl, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: While walking alone, a student noticed a group of four people standing at the street corner. As the student passed by, he was approached by one individual who displayed a handgun and demanded the student’s car keys. When the student refused, the suspect struck the student several times while trying to wrestle the keys away from him. When witnesses began to intervene, the suspect, joined by the three other suspects, ran from the scene.
+
+DISPOSITION: DPS camera officers observed the suspects fleeing from the scene and directed responding DPS officers to their location, while simultaneously providing the officers with the suspects’ description. Working in partnership with responding officers from the LAPD, DPS officers immediately took the primary suspect into custody along with one other. DPS camera officers then observed the remaining two suspects and directed officers to their location. Both were taken into custody by DPS. The suspects, one adult and three juveniles, were arrested and transported to LAPD for booking on robbery charges.

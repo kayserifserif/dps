@@ -1,9 +1,12 @@
-Robbery
-2021-03-04T17:01:43-08:00
-https://dps.usc.edu/robbery-52/
+SUMMARY: Robbery
+POST DATE: 2021-03-04T17:01:43-08:00
+URL: https://dps.usc.edu/robbery-52/
 
-Incident description: Three suspects entered the store and went to the electronics department. One of the suspects asked to see products from the display case. When an employee placed the products on the countertop, one of the suspects took them, and all three ran out of the store. While running, one of the suspects stopped and removed a handgun from his waistband so it could be seen by people in the store, and he pointed it toward the ground. The suspect then put the gun back in his waistband and ran out of the store with the other suspects and the stolen electronics. The incident was reported this afternoon.
-Time & date of incident: 9:30 p.m. on March 3, 2021
-Location: Target at USC Village (3131 S. Hoover St.)
-Suspect description: The first suspect is a Hispanic male, approximately 18 to 20 years old, 5 feet, 4 inches tall and weighing 110 pounds. He was wearing a Dallas Cowboys hat, a black, white and teal hoodie and black pants. He was armed with a chrome semiautomatic handgun. The second suspect is a Hispanic male, approximately 18 to 22 years old, 5 feet, 8 inches tall and weighing 140 to 160 pounds. He was wearing a black shirt and blue shorts. The third suspect is a Hispanic male, approximately 18 to 22 years old, 5 feet, 6 inches tall and weighing 140 to 150 pounds. He was wearing a black Dodgers hat, a gray hoodie and black pants.
-Suspect vehicle: A black, 4-door Volkswagen Jetta or Passat with a red spare tire on the right rear side. The car drove out of the parking structure onto Hoover Boulevard and headed south.
+INCIDENT DATE: 2021-03-03 21:30
+INCIDENT LOCATION: Target at USC Village, 3131 S Hoover St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: False
+INCIDENT DESCRIPTION: Three suspects entered the store and went to the electronics department. One of the suspects asked to see products from the display case. When an employee placed the products on the countertop, one of the suspects took them, and all three ran out of the store. While running, one of the suspects stopped and removed a handgun from his waistband so it could be seen by people in the store, and he pointed it toward the ground. The suspect then put the gun back in his waistband and ran out of the store with the other suspects and the stolen electronics. The incident was reported this afternoon.
+SUSPECT DESCRIPTION: Hispanic male, approximately 18 to 20 years old, 5 feet, 4 inches tall and weighing 110 pounds. He was wearing a Dallas Cowboys hat, a black, white and teal hoodie and black pants. He was armed with a chrome semiautomatic handgun.
+SUSPECT DESCRIPTION: Hispanic male, approximately 18 to 22 years old, 5 feet, 8 inches tall and weighing 140 to 160 pounds. He was wearing a black shirt and blue shorts.
+SUSPECT DESCRIPTION: Hispanic male, approximately 18 to 22 years old, 5 feet, 6 inches tall and weighing 140 to 150 pounds. He was wearing a black Dodgers hat, a gray hoodie and black pants.
+SUSPECT VEHICLE: A black, 4-door Volkswagen Jetta or Passat with a red spare tire on the right rear side. The car drove out of the parking structure onto Hoover Boulevard and headed south.

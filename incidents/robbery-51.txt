@@ -1,10 +1,11 @@
-Robbery
-2021-02-08T22:20:20-08:00
-https://dps.usc.edu/robbery-51/
+SUMMARY: Robbery
+POST DATE: 2021-02-08T22:20:20-08:00
+URL: https://dps.usc.edu/robbery-51/
 
-Incident description: The suspects approached the victims as they were pumping gas. The first suspect punched the male victim numerous times, causing him to fall to the ground. Several additional suspects approached the victim while he was on the ground, and battered him. The second victim, a USC student, was approached by a female suspect, who punched her in the face. The suspects took the first victim’s smartphone and jewelry, and got into several vehicles and drove away in unknown directions.
-Suspect description: The first suspect is a Black male, approximately 20 to 30 years old, 5 feet, 10 inches tall, with a long ponytail. There was no further description. The second suspect is a Black female, approximately 25 to 30 years old. There was no further description.
-The victims were not able to provide descriptions of the other suspects.
-Suspect vehicle: No vehicle descriptions were available.
-Time & date of incident: 1:30 a.m. on Feb. 8, 2021
-Location: Off campus at Amin’s Oil station at 2603 S. Normandie Ave.
+INCIDENT DATE: 2021-02-08 01:30
+INCIDENT LOCATION: Amin’s Oil, 2603 Normandie Ave, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: The suspects approached the victims as they were pumping gas. The first suspect punched the male victim numerous times, causing him to fall to the ground. Several additional suspects approached the victim while he was on the ground, and battered him. The second victim, a USC student, was approached by a female suspect, who punched her in the face. The suspects took the first victim’s smartphone and jewelry, and got into several vehicles and drove away in unknown directions. The victims were not able to provide descriptions of the other suspects.
+SUSPECT DESCRIPTION: Black male, approximately 20 to 30 years old, 5 feet, 10 inches tall, with a long ponytail. 
+SUSPECT DESCRIPTION: Black female, approximately 25 to 30 years old.
+SUSPECT VEHICLE: No vehicle descriptions were available.

@@ -1,17 +1,22 @@
-Robbery
-2020-01-25T15:10:13-08:00
-https://dps.usc.edu/robbery-44/
+SUMMARY: Robbery
+POST DATE: 2020-01-25T15:10:13-08:00
+URL: https://dps.usc.edu/robbery-44/
+ALERT #: CA 2020-002
 
-Crime Alert #2020-002
-INCIDENT #1: ROBBERY
-REPORTED OFFENSE: The victim (non-student) agreed to sell his laptop via an online marketplace and met the suspects in person in the 700 block of W 27th Street to complete the purchase. The suspects displayed a handgun and stole the victim’s laptop. The suspects then ran to their parked vehicle nearby and drove away.
-DATE & TIME OF OCCURRENCE: Jan. 25, 2020 from 11-11:20 a.m.
-LOCATION: 700 block of W 27th Street (off campus)
-SUSPECT DESCRIPTION: Suspect #1 is a 20-30-year-old black male who wore a blue shirt and black pants. Suspect #2 is a 20-30-year-old black male who wore a gray shirt.
+REPORTED OFFENSE: Robbery
+INCIDENT DATE: 2020-01-25 11:00-11:20
+INCIDENT LOCATION: 700 block of W 27th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: The victim (non-student) agreed to sell his laptop via an online marketplace and met the suspects in person in the 700 block of W 27th Street to complete the purchase. The suspects displayed a handgun and stole the victim’s laptop. The suspects then ran to their parked vehicle nearby and drove away.
+SUSPECT DESCRIPTION: 20-30-year-old black male who wore a blue shirt and black pants
+SUSPECT DESCRIPTION: 20-30-year-old black male who wore a gray shirt.
 SUSPECT VEHICLE: 2000-2007 silver Mercedes Benz with four doors (full-size)
-INCIDENT #2: GRAND THEFT
-REPORTED OFFENSE: While walking in the 1400 block of W 27th Street, the suspects approached the victim (student) from behind. One of the suspects grabbed the victim’s phone from his hand, and both suspects ran to a vehicle nearby. The vehicle then headed north on Catalina Street.
-DATE & TIME OF OCCURRENCE: Jan. 25, 2020 at 1:30 p.m.
-LOCATION: 1400 block of W 27th Street (off campus)
-SUSPECT DESCRIPTION: Suspect #1 is a 16-18-year-old Hispanic male who is between 5 feet 2 inches and 5 feet 5 inches tall and weighs 125 pounds. Suspect #2 is a 16-18-year-old Hispanic male who is between 5 feet and 5 feet 5 inches tall and weighs 115 pounds.
+
+REPORTED OFFENSE: Grand Theft
+INCIDENT DATE: 2020-01-25 13:30
+INCIDENT LOCATION: 1400 block of W 27th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: While walking in the 1400 block of W 27th Street, the suspects approached the victim (student) from behind. One of the suspects grabbed the victim’s phone from his hand, and both suspects ran to a vehicle nearby. The vehicle then headed north on Catalina Street.
+SUSPECT DESCRIPTION: 16-18-year-old Hispanic male who is between 5 feet 2 inches and 5 feet 5 inches tall and weighs 125 pounds.
+SUSPECT DESCRIPTION: 16-18-year-old Hispanic male who is between 5 feet and 5 feet 5 inches tall and weighs 115 pounds.
 SUSPECT VEHICLE: 2010-2015 silver BMW SUV

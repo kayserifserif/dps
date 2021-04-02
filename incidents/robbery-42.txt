@@ -1,10 +1,12 @@
-Robbery
-2019-10-24T11:06:19-07:00
-https://dps.usc.edu/robbery-42/
+SUMMARY: Robbery
+POST DATE: 2019-10-24T11:06:19-07:00
+URL: https://dps.usc.edu/robbery-42/
+ALERT #: TW 2019-008
 
-ALERT TW#: 2019-008
-REPORTED OFFENSE: The victim, a male student, was sitting on a bench on the public sidewalk waiting for an Uber ride. While viewing his iPhone, two female suspects approached the victim and demanded his iPhone. The first suspect placed her hand inside her jacket pocket and pointed in the victim’s direction as if she were simulating a handgun. A second female stood nearby posing as a lookout. The victim surrendered his iPhone and the two females fled to a vehicle nearby. The vehicle drove northbound on McClintock.
-DATE & TIME OF OCCURRENCE: October 22, 2019 at approximately 9:05 p.m.
-LOCATION: 3000 Block of McClintock Ave. (on campus)
-SUSPECT DESCRIPTION (provided by the victims): Suspect 1: Female, age: 20-25, wearing dark clothing. Suspect 2: Female, age: 20-25.
+INCIDENT DATE: 2019-10-22 21:05
+INCIDENT LOCATION: 3000 block of McClintock Ave, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: False
+INCIDENT DESCRIPTION: The victim, a male student, was sitting on a bench on the public sidewalk waiting for an Uber ride. While viewing his iPhone, two female suspects approached the victim and demanded his iPhone. The first suspect placed her hand inside her jacket pocket and pointed in the victim’s direction as if she were simulating a handgun. A second female stood nearby posing as a lookout. The victim surrendered his iPhone and the two females fled to a vehicle nearby. The vehicle drove northbound on McClintock.
+SUSPECT DESCRIPTION: Female, age: 20-25, wearing dark clothing.
+SUSPECT DESCRIPTION: Female, age: 20-25.
 SUSPECT VEHICLE: Dark colored 4 door sedan

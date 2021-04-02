@@ -1,8 +1,10 @@
-Residential Burglary-Suspect in Custody
-2021-02-08T16:49:55-08:00
-https://dps.usc.edu/residential-burglary-suspect-in-custody-2/
+SUMMARY: Residential Burglary-Suspect in Custody
+POST DATE: 2021-02-08T16:49:55-08:00
+URL: https://dps.usc.edu/residential-burglary-suspect-in-custody-2/
 
-Incident description: A student and other residents notified USC Department of Public Safety (DPS) that they saw a male suspect kick open an apartment door and enter. It was later determined that while inside the apartment, the suspect removed money from a dresser drawer in one of the bedrooms.
-Incident resolution: DPS officers immediately responded to the location and detained the suspect inside the apartment. The suspect was arrested and transported to the Los Angeles Police Department for investigation of burglary. During a search of the suspect’s property, the stolen money was recovered.
-Time & date of incident: 11 a.m. on Feb. 6, 2021
-Location: Off campus in the 1000 block of West 30th Street.
+INCIDENT DATE: 2021-02-06 11:00
+INCIDENT LOCATION: 1000 block of W 30th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: A student and other residents notified USC Department of Public Safety (DPS) that they saw a male suspect kick open an apartment door and enter. It was later determined that while inside the apartment, the suspect removed money from a dresser drawer in one of the bedrooms.
+
+RESOLUTION: DPS officers immediately responded to the location and detained the suspect inside the apartment. The suspect was arrested and transported to the Los Angeles Police Department for investigation of burglary. During a search of the suspect’s property, the stolen money was recovered.

@@ -1,19 +1,11 @@
-Burglary, Grand Theft Person, and Robbery Arrest
-2019-08-18T10:27:47-07:00
-https://dps.usc.edu/burglary-grand-theft-person-and-robbery-arrest/
+SUMMARY: Burglary, Grand Theft Person, and Robbery Arrest
+POST DATE: 2019-08-18T10:27:47-07:00
+URL: https://dps.usc.edu/burglary-grand-theft-person-and-robbery-arrest/
 
-Incident #1: Burglary-Suspect in Custody
-Date/Time: August 15, 2019, Approximately 11:25 AM
-Location: 3641 Watt Way (On-campus)
-Description of Incident: On the morning of August 15, 2019, a suspect entered the Hedco Neurosciences Building and entered an unoccupied classroom and removed a ceiling mounted projector. The suspect exited the building with the property. The responding DPS Officers observed him and detained him with the stolen property.
-Disposition: Upon investigation, DPS officers reviewed camera footage and identified the detained suspect as the person who removed the ceiling projector. The suspect was arrested and booked on burglary charges. The stolen projector was recovered.
-Incident #2: Grand Theft Person-Suspect in Custody
-Date/Time: August 15, 2019, Approximately 9:30 PM
-Location: 29th Street and Ellendale Place (off campus)
-Description of Incident: While walking alone, a student was approached by suspects who were riding bicycles and snatched the student’s cell phone from his hand. The suspect’s then rode away after taking his cell phone.
-Disposition: With the assistance of DPS Camera Surveillance Officers they tracked the suspects and directed DPS officers to their location where they were detained. After a follow up investigation, the suspects were positively identified, arrested and booked on grand theft charges. The student’s cell phone was recovered.
-Incident #3: Robbery-Suspect in Custody
-Date/Time: August 17, 2019, Approximately 8:44 AM
-Location: 32nd Street & Hoover Ave (off campus)
-Description of Incident: On the morning of August 17, 2019, a student walking north bound on University Ave, was approached by a male suspect riding a bicycle. The suspect blocked the student’s path, displayed a handgun and demanded the student’s cell phone. The student complied and the suspect fled west bound on 32nd Street.
-Disposition: The suspect was later apprehended by the LAPD Gang Unit during an investigation at the suspect’s residence. The student’s cell phone was recovered.
+REPORTED OFFENSE: Burglary-Suspect in Custody
+INCIDENT DATE: 2019-08-15 11:25
+INCIDENT LOCATION: 3641 Watt Way, Los Angeles, CA 90089
+INCIDENT OFF CAMPUS: False
+INCIDENT DESCRIPTION: On the morning of August 15, 2019, a suspect entered the Hedco Neurosciences Building and entered an unoccupied classroom and removed a ceiling mounted projector. The suspect exited the building with the property. The responding DPS Officers observed him and detained him with the stolen property.
+
+DISPOSITION: Upon investigation, DPS officers reviewed camera footage and identified the detained suspect as the person who removed the ceiling projector. The suspect was arrested and booked on burglary charges. The stolen projector was recovered.

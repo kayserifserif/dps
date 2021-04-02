@@ -1,10 +1,11 @@
-Burglary-Suspect in Custody
-2019-04-08T17:37:22-07:00
-https://dps.usc.edu/burglary-suspect-in-custody/
+SUMMARY: Burglary-Suspect in Custody
+POST DATE: 2019-04-08T17:37:22-07:00
+URL: https://dps.usc.edu/burglary-suspect-in-custody/
+IRN #: 2019-02
 
-Incident Resolution Notice (IRN): 2019-02
-Incident: Burglary-Suspect in Custody
-Date/Time: April 2, 2019, 5:28 AM
-Location: Gateway Apartments, 3335 South Figueroa Street (off campus)
-Description of incident: On April 3, 2019, a student was contacted by an unidentified male via social media who offered to return her stolen wallet for a fee. The student had not reported the wallet theft to DPS. The student agreed and during the return of her property, the student secretly photographed the unidentified male. The student then contacted DPS.
-Disposition: DPS detectives made a comparison of the suspect’s photo with previous surveillance video of a man suspected of committing several residential burglaries. DPS officers located the suspect and arrested him for the crimes. The suspect was transported to LAPD for booking on felony charges.
+INCIDENT DATE: 2019-04-02 05:28
+INCIDENT LOCATION: Gateway Apartments, 3335 S Figueroa St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: On April 3, 2019, a student was contacted by an unidentified male via social media who offered to return her stolen wallet for a fee. The student had not reported the wallet theft to DPS. The student agreed and during the return of her property, the student secretly photographed the unidentified male. The student then contacted DPS.
+
+DISPOSITION: DPS detectives made a comparison of the suspect’s photo with previous surveillance video of a man suspected of committing several residential burglaries. DPS officers located the suspect and arrested him for the crimes. The suspect was transported to LAPD for booking on felony charges.

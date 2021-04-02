@@ -1,10 +1,12 @@
-Robbery
-2020-04-28T18:00:06-07:00
-https://dps.usc.edu/robbery-47/
+SUMMARY: Robbery
+POST DATE: 2020-04-28T18:00:06-07:00
+URL: https://dps.usc.edu/robbery-47/
+ALERT #: TW 2020-009
 
-TW #: 2020-009
+INCIDENT DATE: 2020-04-28 13:15
+INCIDENT LOCATION: Orchard Ave & W 28th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
 INCIDENT DESCRIPTION: A female student was walking north on Orchard Avenue toward 28th Street when a male suspect approached her from behind, grabbed her cell phone from her hand and fled to an awaiting vehicle.
-DATE & TIME OF OCCURRENCE: April 28, 2020 at approximately 1:15 p.m.
-LOCATION: Orchard Avenue and 28th
-SUSPECT DESCRIPTION: Suspect #1 is a 20-year-old black male who wore a gray sweatshirt. Suspect #2 is a black male who wore a gray sweatshirt and drove the vehicle.
+SUSPECT DESCRIPTION: 20-year-old black male who wore a gray sweatshirt.
+SUSPECT DESCRIPTION: Black male who wore a gray sweatshirt and drove the vehicle.
 SUSPECT VEHICLE: The vehicle is a gray Nissan Sentra with four doors. The license plate number is 8FTT847.

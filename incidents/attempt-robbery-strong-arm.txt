@@ -1,11 +1,14 @@
-Attempt Robbery-Strong Arm
-2018-05-15T14:01:33-07:00
-https://dps.usc.edu/attempt-robbery-strong-arm/
+SUMMARY: Attempt Robbery-Strong Arm
+POST DATE: 2018-05-15T14:01:33-07:00
+URL: https://dps.usc.edu/attempt-robbery-strong-arm/
+ALERT #: CA 2018-007
 
-ALERT #: CA2018-007
 REPORTED OFFENSE: Attempt Robbery-Strong Arm
-DATE & TIME OF OCCURRENCE: May 13, 2018 at 6:45 P.M.
-LOCATION: 1189 W. 36th Place (off campus)
+INCIDENT DATE: 2018-05-13 18:45
+INCIDENT LOCATION: 1189 W 36th Pl, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
 INCIDENT DESCRIPTION: Victim, a USC student, was walking home from the campus when he was approached by three suspects. Suspect #1 demanded money while the other two suspects stood behind the victim. The victim did not understand the suspect’s demands due to a language barrier. Suspect #1 grabbed the outside pocket of the victim’s jacket. The victim pushed the suspect away and ran inside his gated apartment complex unharmed. The suspects were last seen running eastbound on 36th Place.
-SUSPECT DESCRIPTION: Suspect 1: Male Black, 5’10” in height, approximately 150 lbs., 19 to 25 years old, no further information. Suspect 2: Male Hispanic, 5’10” in height, approximately 150 lbs., 19 to 25 years old. Suspect 3: Male Hispanic, 5’10” in height, approximately 150 lbs., 19 to 25 years old.
+SUSPECT DESCRIPTION: Male Black, 5’10” in height, approximately 150 lbs., 19 to 25 years old.
+SUSPECT DESCRIPTION: Male Hispanic, 5’10” in height, approximately 150 lbs., 19 to 25 years old.
+SUSPECT DESCRIPTION: Male Hispanic, 5’10” in height, approximately 150 lbs., 19 to 25 years old.
 SUSPECT VEHICLE: No vehicle determined to be involved at the time.

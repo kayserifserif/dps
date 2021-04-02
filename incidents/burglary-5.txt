@@ -1,9 +1,10 @@
-Burglary
-2020-12-22T10:27:25-08:00
-https://dps.usc.edu/burglary-5/
+SUMMARY: Burglary
+POST DATE: 2020-12-22T10:27:25-08:00
+URL: https://dps.usc.edu/burglary-5/
 
-Incident description: The suspect entered a home while the residents were asleep. Once inside, the suspect took a set of keys and a laptop computer and ran in an unknown direction.
-Time & date of incident: 2:41 a.m. on Dec. 22, 2020
-Location: Off campus in the 1100 block W. 29th Street.
-Suspect description: Male, Hispanic, 6 feet tall, slim build, wearing a black top over brown pants and carrying a backpack over the front of his body with a blue blanket draped over the backpack.
-Suspect vehicle: No vehicle seen.
+INCIDENT DATE: 2020-12-22 02:41
+INCIDENT LOCATION: 1100 block of W 29th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: The suspect entered a home while the residents were asleep. Once inside, the suspect took a set of keys and a laptop computer and ran in an unknown direction.
+SUSPECT DESCRIPTION: Male, Hispanic, 6 feet tall, slim build, wearing a black top over brown pants and carrying a backpack over the front of his body with a blue blanket draped over the backpack.
+SUSPECT VEHICLE: None seen

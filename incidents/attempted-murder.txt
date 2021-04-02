@@ -1,9 +1,10 @@
-Attempted Murder
-2021-01-17T09:43:24-08:00
-https://dps.usc.edu/attempted-murder/
+SUMMARY: Attempted Murder
+POST DATE: 2021-01-17T09:43:24-08:00
+URL: https://dps.usc.edu/attempted-murder/
 
-Incident description: The victim was seated in his car when the suspect vehicle drove by him and the occupants fired multiple gunshots and then sped away. The victim, who is not affiliated with the university, was struck by the gunfire and was later transported to the hospital in stable condition. This incident is believed to be gang related.
-Time & date of incident: Jan. 17, 2021 at approximately 1 a.m.
-Location: Off campus at Jefferson Boulevard and Walton Avenue
-Suspect description: Three males. No further description available.
-Suspect vehicle: Older, dark colored vehicle.
+INCIDENT DATE: 2021-01-17 01:00
+INCIDENT LOCATION: Walton Ave & W Jefferson Blvd, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: The victim was seated in his car when the suspect vehicle drove by him and the occupants fired multiple gunshots and then sped away. The victim, who is not affiliated with the university, was struck by the gunfire and was later transported to the hospital in stable condition. This incident is believed to be gang related.
+SUSPECT DESCRIPTION: Three males.
+SUSPECT VEHICLE: Older, dark colored vehicle.

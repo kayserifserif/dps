@@ -1,9 +1,10 @@
-Burglary
-2020-12-14T15:27:44-08:00
-https://dps.usc.edu/burglary-4/
+SUMMARY: Burglary
+POST DATE: 2020-12-14T15:27:44-08:00
+URL: https://dps.usc.edu/burglary-4/
 
-Incident description: The victim was sitting in her apartment when she heard a loud noise. She was then confronted by the suspect who had forced open the front door. The suspect grabbed a laptop from the victim and smashed it on the floor before kicking a large hole in a bedroom door down the hall. The suspect then abruptly walked out of the apartment without taking anything. The victim was not injured.
-Time & date of incident: 11:30 p.m. on Dec. 13, 2020
-Location: Off-campus in the 1100 block of Exposition Boulevard.
-Suspect description: Male, Hispanic, age 20-25, 5 feet 9 inches tall, slim build, wearing a dark blue hooded sweatshirt over a white shirt and dark jeans.
-Suspect vehicle: No vehicle seen.
+INCIDENT DATE: 2020-12-13 23:30
+INCIDENT LOCATION: 1100 block of Exposition Blvd, Los Angeles, CA 90037
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: The victim was sitting in her apartment when she heard a loud noise. She was then confronted by the suspect who had forced open the front door. The suspect grabbed a laptop from the victim and smashed it on the floor before kicking a large hole in a bedroom door down the hall. The suspect then abruptly walked out of the apartment without taking anything. The victim was not injured.
+SUSPECT DESCRIPTION: Male, Hispanic, age 20-25, 5 feet 9 inches tall, slim build, wearing a dark blue hooded sweatshirt over a white shirt and dark jeans.
+SUSPECT VEHICLE: None seen

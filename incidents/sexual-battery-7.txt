@@ -1,10 +1,11 @@
-Sexual Battery
-2020-01-30T15:28:53-08:00
-https://dps.usc.edu/sexual-battery-7/
+SUMMARY: Sexual Battery
+POST DATE: 2020-01-30T15:28:53-08:00
+URL: https://dps.usc.edu/sexual-battery-7/
+ALERT #: TW 2020-004
 
-ALERT TW#: 2020-004
-REPORTED OFFENSE: The victim (student) was walking northbound on Hoover Street near 29th Street when she was approached from behind by the suspect. The suspect grabbed her buttocks and then continued northbound on Hoover Street.
-DATE & TIME OF OCCURRENCE: Jan. 30, 2020 at 3:30 p.m.
-LOCATION: West sidewalk of Hoover Street south of 29th Street (off-campus)
-SUSPECT DESCRIPTION: The suspect is a male in his late 20s wearing a gray T-shirt.
-SUSPECT VEHICLE: The suspect rode a black bicycle with a thin frame and thin tires.
+INCIDENT DATE: 2020-01-30 15:30
+INCIDENT LOCATION: West sidewalk of Hoover St south of 29th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: The victim (student) was walking northbound on Hoover Street near 29th Street when she was approached from behind by the suspect. The suspect grabbed her buttocks and then continued northbound on Hoover Street.
+SUSPECT DESCRIPTION: Male in his late 20s wearing a gray T-shirt.
+SUSPECT VEHICLE: Black bicycle with a thin frame and thin tires.

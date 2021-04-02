@@ -1,9 +1,11 @@
-Aggravated Assault
-2020-10-07T14:38:07-07:00
-https://dps.usc.edu/aggravated-assault-2/
+SUMMARY: Aggravated Assault
+POST DATE: 2020-10-07T14:38:07-07:00
+URL: https://dps.usc.edu/aggravated-assault-2/
 
-Incident: Two males parked at the southwest corner of Hoover Street and 30th Street, exited their car and then walked a short distance west. The suspects then fired several gunshots at a man in front of them on 30th Street. The suspects then ran back to their car and were last seen entering the southbound on-ramp to the 110 Freeway at Exposition Boulevard. The victim left the scene prior to the officers’ arrival.
-Date & Time: Oct. 7, 2020 at approximately 1 a.m.
-Location: Hoover Street and 30th Street (off-campus)
-Suspect Description: Suspect 1: Male, wearing red sweatpants, a red hoodie and a blue surgical mask. Suspect 2: Male, wearing black sweatpants, a black hoodie and a blue surgical mask.
-Suspect vehicle: Light gray 2013 Hyundai four-door sedan with moon roof.
+INCIDENT DATE: 2020-10-07 01:00
+INCIDENT LOCATION: Hoover St & 30th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: Two males parked at the southwest corner of Hoover Street and 30th Street, exited their car and then walked a short distance west. The suspects then fired several gunshots at a man in front of them on 30th Street. The suspects then ran back to their car and were last seen entering the southbound on-ramp to the 110 Freeway at Exposition Boulevard. The victim left the scene prior to the officers’ arrival.
+SUSPECT DESCRIPTION: Male, wearing red sweatpants, a red hoodie and a blue surgical mask.
+SUSPECT DESCRIPTION: Male, wearing black sweatpants, a black hoodie and a blue surgical mask.
+SUSPECT VEHICLE: Light gray 2013 Hyundai four-door sedan with moon roof.

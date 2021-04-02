@@ -1,10 +1,11 @@
-Attempt Robbery
-2018-01-24T17:24:14-08:00
-https://dps.usc.edu/attempt-robbery-4/
+SUMMARY: Attempt Robbery
+POST DATE: 2018-01-24T17:24:14-08:00
+URL: https://dps.usc.edu/attempt-robbery-4/
+ALERT #: CA 2018-001
 
-ALERT #: 2018-001
-REPORTED OFFENSE: A female student and her mother were walking westbound on 37th Street from Vermont when they were approached by a suspect riding a scooter who claimed to have a weapon and demanded the student’s purse. The student ignored the suspect who then rode away and was last seen riding westbound on Exposition Blvd. from Vermont.
-DATE & TIME OF OCCURRENCE: January 24, 2018 at approximately 2:20 P.M.
-LOCATION: 37th Street west of Vermont Avenue (off campus)
-SUSPECT DESCRIPTION (provided by the reporting parties): Male, Black, 18-25, short curly hair, clean shaven, wearing a white t-shirt and dark pants.
+INCIDENT DATE: 2018-01-24 14:20
+INCIDENT LOCATION: 37th St west of Vermont Ave, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: A female student and her mother were walking westbound on 37th Street from Vermont when they were approached by a suspect riding a scooter who claimed to have a weapon and demanded the student’s purse. The student ignored the suspect who then rode away and was last seen riding westbound on Exposition Blvd. from Vermont.
+SUSPECT DESCRIPTION: Male, Black, 18-25, short curly hair, clean shaven, wearing a white t-shirt and dark pants.
 SUSPECT VEHICLE: Dark colored scooter similar to an URB-E

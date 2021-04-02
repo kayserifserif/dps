@@ -1,9 +1,10 @@
-Aggravated Assault-Suspects in Custody
-2020-10-23T18:00:20-07:00
-https://dps.usc.edu/aggravated-assault-suspects-in-custody/
+SUMMARY: Aggravated Assault-Suspects in Custody
+POST DATE: 2020-10-23T18:00:20-07:00
+URL: https://dps.usc.edu/aggravated-assault-suspects-in-custody/
 
-Description of Incident: Two males parked at the southwest corner of Hoover Street and 30th Street, exited their car and fired several gunshots at a man on 30th Street. The suspects then ran back to their car and were last seen entering the southbound on-ramp to the 110 Freeway at Exposition Boulevard. The victim left the scene prior to the officers’ arrival.
-Disposition: Acting on video evidence provided by DPS, Los Angeles Police Department (LAPD) detectives arrested both the driver and the suspect that had fired the gunshots. Both suspects were booked for investigation of aggravated assault by the LAPD.
-Incident: Aggravated Assault-Suspects in Custody
-Date/Time: Oct. 7, 2020 at 1 a.m.
-Location: Hoover Street and 30th Street (off-campus)
+INCIDENT DATE: 2020-10-07 01:00
+INCIDENT LOCATION: Hoover St & 30th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: Two males parked at the southwest corner of Hoover Street and 30th Street, exited their car and fired several gunshots at a man on 30th Street. The suspects then ran back to their car and were last seen entering the southbound on-ramp to the 110 Freeway at Exposition Boulevard. The victim left the scene prior to the officers’ arrival.
+
+DISPOSITION: Acting on video evidence provided by DPS, Los Angeles Police Department (LAPD) detectives arrested both the driver and the suspect that had fired the gunshots. Both suspects were booked for investigation of aggravated assault by the LAPD.

@@ -1,9 +1,10 @@
-Burglary
-2020-11-19T22:22:30-08:00
-https://dps.usc.edu/burglary-3/
+SUMMARY: Burglary
+POST DATE: 2020-11-19T22:22:30-08:00
+URL: https://dps.usc.edu/burglary-3/
 
-Incident description: The suspect entered the victim’s residence through a window. The victim confronted the suspect, who then fled through the front door. The victim subsequently realized that the suspect had taken a notebook computer.
-Time & date of incident: 6:35 p.m. on Nov. 19, 2020
-Location: Off-campus in the 2300 block of Portland Avenue.
-Suspect description: Male, Black, age 30-35 and about 6 feet tall. No additional details were provided.
-Suspect vehicle: No vehicle seen.
+INCIDENT DATE: 2020-11-19 18:35
+INCIDENT LOCATION: 2300 block of Portland Ave, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: The suspect entered the victim’s residence through a window. The victim confronted the suspect, who then fled through the front door. The victim subsequently realized that the suspect had taken a notebook computer.
+SUSPECT DESCRIPTION: Male, Black, age 30-35 and about 6 feet tall. No additional details were provided.
+SUSPECT VEHICLE: None seen

@@ -1,9 +1,10 @@
-Assault with a deadly weapon
-2020-11-10T22:07:27-08:00
-https://dps.usc.edu/assault-with-a-deadly-weapon-3/
+SUMMARY: Assault with a deadly weapon
+POST DATE: 2020-11-10T22:07:27-08:00
+URL: https://dps.usc.edu/assault-with-a-deadly-weapon-3/
 
-Incident description: As the victim was walking on the sidewalk, a vehicle drove alongside him and the suspect in the back seat pointed a handgun at the victim and made a “pop pop” sound with his voice. The vehicle then drove eastbound on Adams Boulevard, then turned southbound on Severance Avenue.
-Time & date of incident: 7:25 p.m. on Nov. 10, 2020
-Location: Off-campus at 870 W. Adams Blvd.
-Suspect description: An unidentified male
-Suspect vehicle: A late 1990’s 4-door, white hatchback
+INCIDENT DATE: 2020-11-10 19:25
+INCIDENT LOCATION: 870 W Adams Blvd, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: As the victim was walking on the sidewalk, a vehicle drove alongside him and the suspect in the back seat pointed a handgun at the victim and made a “pop pop” sound with his voice. The vehicle then drove eastbound on Adams Boulevard, then turned southbound on Severance Avenue.
+SUSPECT DESCRIPTION: An unidentified male
+SUSPECT VEHICLE: A late 1990’s 4-door, white hatchback

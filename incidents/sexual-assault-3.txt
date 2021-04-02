@@ -1,9 +1,10 @@
-Sexual Assault
-2021-01-23T09:49:53-08:00
-https://dps.usc.edu/sexual-assault-3/
+SUMMARY: Sexual Assault
+POST DATE: 2021-01-23T09:49:53-08:00
+URL: https://dps.usc.edu/sexual-assault-3/
 
-Time & date of incident: Approximately 2:20 a.m. on Jan. 23, 2021
-Location: Off-campus in the Shrine Auditorium parking structure at 3208 Royal Street.
-Incident description: An individual reported that as he was walking in the parking structure, he was approached from behind by three males who sexually assaulted him.
-Suspect description: Three males, Hispanic, mid-20s to early 30s, and wearing blue shirts and black pants. There was no further description.
-Suspect vehicle: No vehicle seen.
+INCIDENT DATE: 2021-01-23 02:20
+INCIDENT LOCATION: Shrine Auditorium parking structure at 3208 Royal St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: An individual reported that as he was walking in the parking structure, he was approached from behind by three males who sexually assaulted him.
+SUSPECT DESCRIPTION: Three males, Hispanic, mid-20s to early 30s, and wearing blue shirts and black pants.
+SUSPECT VEHICLE: None seen

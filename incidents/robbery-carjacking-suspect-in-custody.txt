@@ -1,10 +1,13 @@
-Robbery/Carjacking-Suspect in Custody
-2018-07-14T09:44:43-07:00
-https://dps.usc.edu/robbery-carjacking-suspect-in-custody/
+SUMMARY: Robbery/Carjacking-Suspect in Custody
+POST DATE: 2018-07-14T09:44:43-07:00
+URL: https://dps.usc.edu/robbery-carjacking-suspect-in-custody/
+IRN #: 2018-008
+REFERENCE #: CA TW 2018-009
 
-Incident Resolution Notice (IRN): #2018-008
-Incident: Robbery/Carjacking-Suspect in Custody
-Reference: Crime Alert TW2018-009, DPS Case #1802269
-Date of Arrest: July 11, 2018, 5:00 PM
-Description of Original Incident: On June 6, 2018, at 3:40pm, a student and a friend were approached by a female suspect (pictured below) who demanded their car keys. The suspect, possibly concealing a weapon, took the keys from the victims hand, entered the victim’s car and was last observed driving west on Jefferson Blvd from the Shrine Parking Structure.
-Disposition: During an investigation, LAPD detectives interviewed the suspect who was in custody on another charge. The suspect (pictured above) confessed to the crime of robbery/carjacking of the USC student. The suspect was charged with robbery and remains in the custody of the LAPD.
+DPS CASE #: 1802269
+INCIDENT DATE: 2018-06-06 15:40
+INCIDENT LOCATION: Between Shrine Parking Structure and Jefferson Blvd, Los Angeles, CA 90007
+INCIDENT DESCRIPTION: On June 6, 2018, at 3:40pm, a student and a friend were approached by a female suspect (pictured below) who demanded their car keys. The suspect, possibly concealing a weapon, took the keys from the victims hand, entered the victim’s car and was last observed driving west on Jefferson Blvd from the Shrine Parking Structure.
+
+ARREST DATE: 2018-07-11 17:00
+DISPOSITION: During an investigation, LAPD detectives interviewed the suspect who was in custody on another charge. The suspect (pictured above) confessed to the crime of robbery/carjacking of the USC student. The suspect was charged with robbery and remains in the custody of the LAPD.

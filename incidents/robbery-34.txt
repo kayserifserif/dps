@@ -1,10 +1,11 @@
-Robbery
-2018-03-26T12:24:15-07:00
-https://dps.usc.edu/robbery-34/
+SUMMARY: Robbery
+POST DATE: 2018-03-26T12:24:15-07:00
+URL: https://dps.usc.edu/robbery-34/
+ALERT #: CA 2018-004
 
-ALERT#: 2018-004
-REPORTED OFFENSE: A female student was walking eastbound on Adams Blvd from Flower St. (toward The Lorenzo Apartments) when she was pushed to the ground and her purse forcibly taken from her. The suspect then fled westbound toward Figueroa and out of view.
-DATE & TIME OF OCCURRENCE: March 25, 2018 at approximately 3:32 A.M.
-LOCATION: Adams and Flower (off campus)
+INCIDENT DATE: 2018-03-25 03:32
+INCIDENT LOCATION: W Adams Blvd & Flower St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: A female student was walking eastbound on Adams Blvd from Flower St. (toward The Lorenzo Apartments) when she was pushed to the ground and her purse forcibly taken from her. The suspect then fled westbound toward Figueroa and out of view.
 SUSPECT DESCRIPTION: Male, Hispanic, early 20’s, brown hair and brown eyes, 5’08-5’10, thin build, wearing a green camouflage jacket, NFD.
-SUSPECT VEHICLE DESCRIPTION: No vehicle seen
+SUSPECT VEHICLE: None seen

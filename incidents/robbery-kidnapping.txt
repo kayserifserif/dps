@@ -1,11 +1,12 @@
-Robbery/Kidnapping
-2018-01-24T22:14:42-08:00
-https://dps.usc.edu/robbery-kidnapping/
+SUMMARY: Robbery/Kidnapping
+POST DATE: 2018-01-24T22:14:42-08:00
+URL: https://dps.usc.edu/robbery-kidnapping/
+ALERT #: CA 2018-002
 
-INCIDENT: ROBBERY/KIDNAPPING
-ALERT #: 2018-002
-REPORTED OFFENSE: As the victim (student) walked away from her residence near Normandie and 30th St., she was approached by the suspect who was riding an electric scooter. The suspect brandished a knife and demanded her money. Since the victim had no money, the suspect forced her to walk to a nearby ATM where he demanded she withdraw cash. When she was unable to do so, the suspect forced the victim to return to her residence where he demanded money. After obtaining a small amount of cash, the suspect fled in an unknown direction. The victim was not injured. The suspect in this incident appears to be the same suspect involved in an attempt robbery later in the afternoon at 37th St. and Vermont (Alert #2018-01). DPS and the LAPD have very strong leads in these cases and are actively investigating. If you have any information regarding these cases, please contact DPS or the LAPD at the numbers below.
-DATE & TIME OF OCCURRENCE: January 24, 2018 at approximately 1:30 P.M.
-LOCATION: Normandie Ave. and 30th Street (off campus)
-SUSPECT DESCRIPTION (provided by the victim): Male, Black, approximately 20 years old, 5’9, 130 lbs., wearing a white shirt and dark pants
+REPORTED OFFENSE: Robbery/Kidnapping
+INCIDENT DATE: 2018-01-24 13:30
+INCIDENT LOCATION: Normandie Ave & W 30th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: As the victim (student) walked away from her residence near Normandie and 30th St., she was approached by the suspect who was riding an electric scooter. The suspect brandished a knife and demanded her money. Since the victim had no money, the suspect forced her to walk to a nearby ATM where he demanded she withdraw cash. When she was unable to do so, the suspect forced the victim to return to her residence where he demanded money. After obtaining a small amount of cash, the suspect fled in an unknown direction. The victim was not injured. The suspect in this incident appears to be the same suspect involved in an attempt robbery later in the afternoon at 37th St. and Vermont (Alert # 2018-01). DPS and the LAPD have very strong leads in these cases and are actively investigating. If you have any information regarding these cases, please contact DPS or the LAPD at the numbers below.
+SUSPECT DESCRIPTION: Male, Black, approximately 20 years old, 5’9, 130 lbs., wearing a white shirt and dark pants
 SUSPECT VEHICLE: Dark colored scooter similar to an URB-e.

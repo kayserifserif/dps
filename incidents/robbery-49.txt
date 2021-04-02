@@ -1,9 +1,11 @@
-Robbery
-2020-11-16T11:09:30-08:00
-https://dps.usc.edu/robbery-49/
+SUMMARY: Robbery
+POST DATE: 2020-11-16T11:09:30-08:00
+URL: https://dps.usc.edu/robbery-49/
 
-Incident description: One suspect approached the student, simulated a weapon and threatened her. A second suspect approached the student from behind and took the victim’s backpack which was on the ground next to her.
-Time & date of incident : 6:30 p.m. on Nov. 15, 2020
-Location: Off campus at the northeast corner of Normandie Avenue and 35th Place. The suspects then fled eastbound on 35th Place.
-Suspect description: Suspect number 1 is described as a male, with no further descriptive information. The victim had no descriptive information about suspect number 2.
-Suspect vehicle: No vehicle seen.
+INCIDENT DATE: 2020-11-15 18:30
+INCIDENT LOCATION: NE corner of Normandie Ave & W 35th Pl, Los Angeles, CA 90018
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: One suspect approached the student, simulated a weapon and threatened her. A second suspect approached the student from behind and took the victim’s backpack which was on the ground next to her. The suspects then fled eastbound on 35th Place.
+SUSPECT DESCRIPTION: Male
+SUSPECT DESCRIPTION: Unknown
+SUSPECT VEHICLE: None seen

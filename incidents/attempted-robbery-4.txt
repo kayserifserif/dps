@@ -1,14 +1,18 @@
-Attempted Robbery
-2021-03-26T21:55:36-07:00
-https://dps.usc.edu/attempted-robbery-4/
+SUMMARY: Attempted Robbery
+POST DATE: 2021-03-26T21:55:36-07:00
+URL: https://dps.usc.edu/attempted-robbery-4/
 
-Incident description: Two suspects approached the victim. The first suspect asked the victim to use his mobile phone to call his mother. When the victim refused, the second suspect grabbed the victim’s right wrist, threatened to kill him if he did not hand over his phone. A community member, who observed the incident as it occurred, shouted at the two suspects who then ran west.
-Suspect description: The first suspect is a Black adolescent male, approximately 12 years old, 5 feet, 6 inches tall and weighing 115 pounds. He was wearing a zip-up blue hoodie and blue pants. The second suspect is a Black adolescent male, approximately 10 years old, 5 feet, 3 inches tall and weighing 95 pounds and wearing blue clothing.
-Time & date of incident: Approximately 5 p.m. on March 26th, 2021
-Location: Off campus at the northwest corner of 36th Place and Raymond Avenue.
-Suspect vehicle: No vehicle seen.
-Note: A similar theft occurred at approximately 4:30 p.m. on March 26, 2021
-Location: Off campus on the northside of 29th Street east of Orchard Avenue.
-Incident description: Suspect approached the victim and asked to use his mobile phone to call his mom. The victim gave the suspect permission and who then took the mobile phone and fled in a white four-door sedan heading west on 29th Street towards Vermont Avenue.
-Suspect description: The suspect is a Black adolescent male, approximately 12 to 14 years old, 5 feet, 5 inches tall and weighing 120 pounds. He was wearing a zip-up blue hoodie, red T-shirt, black socks and no shoes.
-Suspect vehicle: White four-door sedan
+INCIDENT DATE: 2021-03-26 17:00
+INCIDENT LOCATION: NW corner of Raymond Ave & W 36th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: Two suspects approached the victim. The first suspect asked the victim to use his mobile phone to call his mother. When the victim refused, the second suspect grabbed the victim’s right wrist, threatened to kill him if he did not hand over his phone. A community member, who observed the incident as it occurred, shouted at the two suspects who then ran west. Note: A similar theft occurred at approximately 4:30 p.m. on March 26, 2021.
+SUSPECT DESCRIPTION: Black adolescent male, approximately 12 years old, 5 feet, 6 inches tall and weighing 115 pounds. He was wearing a zip-up blue hoodie and blue pants.
+SUSPECT DESCRIPTION: Black adolescent male, approximately 10 years old, 5 feet, 3 inches tall and weighing 95 pounds and wearing blue clothing.
+SUSPECT VEHICLE: None seen
+
+INCIDENT DATE: 2021-03-26 16:30
+INCIDENT LOCATION: North side of 29th St east of Orchard Ave, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: Suspect approached the victim and asked to use his mobile phone to call his mom. The victim gave the suspect permission and who then took the mobile phone and fled in a white four-door sedan heading west on 29th Street towards Vermont Avenue.
+SUSPECT DESCRIPTION: Black adolescent male, approximately 12 to 14 years old, 5 feet, 5 inches tall and weighing 120 pounds. He was wearing a zip-up blue hoodie, red T-shirt, black socks and no shoes.
+SUSPECT VEHICLE: White four-door sedan

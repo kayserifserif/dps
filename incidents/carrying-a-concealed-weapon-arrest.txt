@@ -1,9 +1,11 @@
-Possession of a Loaded Firearm Arrest
-2020-07-30T14:54:45-07:00
-https://dps.usc.edu/carrying-a-concealed-weapon-arrest/
+SUMMARY: Possession of a Loaded Firearm Arrest
+POST DATE: 2020-07-30T14:54:45-07:00
+URL: https://dps.usc.edu/carrying-a-concealed-weapon-arrest/
+IRN #: 2019-05
 
-Incident Resolution Notice (IRN): 2019-05
-Description of Incident: A USC Security Ambassador (Yellow Jacket) observed a man place what appeared to be a handgun into his waistband while arguing with a woman on the sidewalk. The Security Ambassador notified DPS.
-Disposition: DPS officers responded to the area and detained the male. Officers located a concealed, loaded firearm in the man’s waistband. The individual was taken into custody and transported to LAPD for booking on charges of carrying a concealed weapon. The individual is not affiliated with the university.
-Date/Time: July 29, 2020 at approximately 6 p.m.
-Location: 1100 Block of 37th Place at approximately 6 p.m. (off-campus)
+INCIDENT DATE: 2020-07-29 18:00
+INCIDENT LOCATION: 1100 block of 37th Pl, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: A USC Security Ambassador (Yellow Jacket) observed a man place what appeared to be a handgun into his waistband while arguing with a woman on the sidewalk. The Security Ambassador notified DPS.
+
+DISPOSITION: DPS officers responded to the area and detained the male. Officers located a concealed, loaded firearm in the man’s waistband. The individual was taken into custody and transported to LAPD for booking on charges of carrying a concealed weapon. The individual is not affiliated with the university.

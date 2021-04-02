@@ -1,10 +1,11 @@
-Grand Theft From Person
-2019-07-01T17:04:04-07:00
-https://dps.usc.edu/grand-theft-from-person-4/
+SUMMARY: Grand Theft From Person
+POST DATE: 2019-07-01T17:04:04-07:00
+URL: https://dps.usc.edu/grand-theft-from-person-4/U
+ALERT #: TW 2019-006
 
-ALERT TW#: 2019-006
-REPORTED OFFENSE: While walking southbound on the west sidewalk of McClintock Avenue south of 30th Street, the victim was approached on foot from behind by the suspect. The suspect grabbed the victim’s phone from her hand and was last seen running westbound through the alley between Jefferson Boulevard and 30th Street and getting into an awaiting vehicle.
-DATE & TIME OF OCCURRENCE: June 30, 2019 at 4:55 PM
-LOCATION: McClintock Ave. and 30th St. (off campus)
-SUSPECT DESCRIPTION (provided by complainant): The victim reported that the suspect had no distinguishing characteristics.
+INCIDENT DATE: 2019-06-30 16:55
+INCIDENT LOCATION: W 30th St & McClintock Ave, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: While walking southbound on the west sidewalk of McClintock Avenue south of 30th Street, the victim was approached on foot from behind by the suspect. The suspect grabbed the victim’s phone from her hand and was last seen running westbound through the alley between Jefferson Boulevard and 30th Street and getting into an awaiting vehicle.
+SUSPECT DESCRIPTION: The victim reported that the suspect had no distinguishing characteristics.
 SUSPECT VEHICLE: Gray 2003-04 Mercedes SUV with dark tinted windows and a sun roof.

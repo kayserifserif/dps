@@ -1,11 +1,13 @@
-Attempted Robbery with Firearm
-2018-05-21T15:13:33-07:00
-https://dps.usc.edu/attempted-robbery-with-firearm/
+SUMMARY: Attempted Robbery with Firearm
+POST DATE: 2018-05-21T15:13:33-07:00
+URL: https://dps.usc.edu/attempted-robbery-with-firearm/
+ALERT #: TW 2018-008
 
-ALERT #: TW2018-008
 REPORTED OFFENSE: Attempted Robbery-Strong Arm with Firearm
-DATE & TIME OF OCCURRENCE: May 20, 2018 at 2:55 p.m.
-LOCATION: 3335 S. Figueroa Street, Los Angeles, CA 90007 (near CVS)
-INCIDENT DESCRIPTION: Victim, a USC student, advertised an iPhone for sale using an application to sell items online. A potential buyer contacted the victim and they agreed to meet at the CVS store on Figueroa. After the victim arrived at the CVS store, the buyer texted the victim and requested victim walk to Shrine Place and 32nd Street to meet buyer who was in a Silver Audi. Victim walked down the street and met suspects 1 and 2, who were sitting inside the vehicle. Victim advised the suspects to drive back to CVS to complete their transaction. As the victim walked back toward CVS, Suspect 1 exited the vehicle, approached the victim and demanded the cell phone. Suspect 2 remained inside the car. Suspect 1 produced a firearm from the front pocket of his hoodie and pointed the firearm at victim. A struggle between the victim and Suspect 1 ensued resulting in Suspect 1 losing control of the weapon. Suspects (who had retrieved the weapon) fled the scene and drove out of the area without the victim’s property. The victim was not seriously injured.
-SUSPECT DESCRIPTION: Suspect 1: Male Black, 6’ in height, approximately 175 lbs., approximately 19 to 21 years old, wearing grey sweat pants. Suspect 2: Male Black, unknown height and weight, approximately 19 to 21 years old.
+INCIDENT DATE: 2018-05-20 14:55
+INCIDENT LOCATION: 3335 S Figueroa St (near CVS), Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: Victim, a USC student, advertised an iPhone for sale using an application to sell items online. A potential buyer contacted the victim and they agreed to meet at the CVS store on Figueroa. After the victim arrived at the CVS store, the buyer texted the victim and requested victim walk to Shrine Place and 32nd Street to meet buyer who was in a Silver Audi. Victim walked down the street and met suspects 1 and 2, who were sitting inside the vehicle. Victim advised the suspects to drive back to CVS to complete their transaction. As the victim walked back toward CVS, Suspect #1 exited the vehicle, approached the victim and demanded the cell phone. Suspect #2 remained inside the car. Suspect #1 produced a firearm from the front pocket of his hoodie and pointed the firearm at victim. A struggle between the victim and Suspect #1 ensued resulting in Suspect #1 losing control of the weapon. Suspects (who had retrieved the weapon) fled the scene and drove out of the area without the victim’s property. The victim was not seriously injured.
+SUSPECT DESCRIPTION: Male Black, 6’ in height, approximately 175 lbs., approximately 19 to 21 years old, wearing grey sweat pants.
+SUSPECT DESCRIPTION: Male Black, unknown height and weight, approximately 19 to 21 years old.
 SUSPECT VEHICLE: Silver, four door Audi Q3 Crossover, 2016 or newer, large sun roof, with white license plates. Rear windows are tinted.

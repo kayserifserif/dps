@@ -1,9 +1,10 @@
-Burglary-Suspect in Custody
-2021-01-17T18:31:54-08:00
-https://dps.usc.edu/burglary-suspect-in-custody-3/
+SUMMARY: Burglary-Suspect in Custody
+POST DATE: 2021-01-17T18:31:54-08:00
+URL: https://dps.usc.edu/burglary-suspect-in-custody-3/
 
-Incident description: A student heard a noise in his apartment downstairs in his kitchen and went to investigate. The student found the suspect – a Black male, 5 feet 10 inches tall, weighing about 150 pounds with a crown tattoo above his left eyebrow – standing in his apartment holding a pocketknife. A brief struggle ensued before the suspect ran. The student suffered minor injuries.
-Incident resolution: On Jan. 15, 2021 at about noon, USC Department of Public Safety officers assisted Los Angeles Police Department (LAPD) officers, who had responded to a call of a disturbance in the 2300 block of Scarf Avenue. That person was taken into custody. The student in the burglary incident positively identified the suspect as the person who had been in his kitchen with a knife. The suspect was booked at the LAPD for investigation of burglary.
-Incident: Burglary-Suspect in Custody
-Time & date of incident: 9 a.m. on Jan. 15, 2021
-Location: Off campus in the 1200 block of West 25th Street
+INCIDENT DATE: 2021-01-15 09:00
+INCIDENT LOCATION: 1200 block of W 25th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: A student heard a noise in his apartment downstairs in his kitchen and went to investigate. The student found the suspect – a Black male, 5 feet 10 inches tall, weighing about 150 pounds with a crown tattoo above his left eyebrow – standing in his apartment holding a pocketknife. A brief struggle ensued before the suspect ran. The student suffered minor injuries.
+
+RESOLUTION: On Jan. 15, 2021 at about noon, USC Department of Public Safety officers assisted Los Angeles Police Department (LAPD) officers, who had responded to a call of a disturbance in the 2300 block of Scarf Avenue. That person was taken into custody. The student in the burglary incident positively identified the suspect as the person who had been in his kitchen with a knife. The suspect was booked at the LAPD for investigation of burglary.

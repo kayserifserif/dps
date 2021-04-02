@@ -1,13 +1,18 @@
-Robbery/Grand Theft-Person
-2018-08-24T20:16:22-07:00
-https://dps.usc.edu/robbery-grand-theft-person/
+SUMMARY: Robbery/Grand Theft-Person
+POST DATE: 2018-08-24T20:16:22-07:00
+URL: https://dps.usc.edu/robbery-grand-theft-person/
+ALERT #: CA 2018-009
 
-ALERT #: CA2018-009
-DPS Case #: 1803157
+DPS CASE #: 1803157
 REPORTED OFFENSE: Robbery and Grand Theft-Person
-DATE & TIME OF OCCURRENCE: August 24, 2018 at 12:45 P.M.
-LOCATIONS: Exposition Park Rose Gardens 701 State Street (off campus) & 800 Block of Exposition Blvd (on campus)
-INCIDENT #1: Victim (non-USC related) accompanied by a friend was walking through the Exposition Park Rose Garden when approached by a suspect demanding the victim’s cell phone. The suspect displayed a handgun. The victim offered to pay the suspect $500 instead of taking his cell phone. The suspect agreed, took the money, and ran eastbound through the park.
-INCIDENT #2: Victim (USC student) was smoking a cigarette while looking at his cell phone when approached by a suspect walking east bound on Exposition Blvd. The suspect snatched the victim’s cell phone and ran eastbound on Exposition Bl (towards Figueroa). Surveillance cameras later revealed that both suspects (based on the victims description) entered a vehicle at the Starbucks on the corner of Figueroa Street and Exposition and drove away.
-SUSPECTS DESCRIPTION: Incident #1: Male, black, black hair, 6’0, approximately 180 lbs., 21-25 years of age, wearing a white long sleeve shirt, blue shorts, turquoise backpack. Incident#2: Male, black, no additional information
-SUSPECT VEHICLE: Dark Chevy Malibu, no further information.
+INCIDENT DATE: 2018-08-24 12:45
+INCIDENT LOCATION: Exposition Park Rose Gardens, 701 State Dr, Los Angeles, CA 90037
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: Victim (non-USC related) accompanied by a friend was walking through the Exposition Park Rose Garden when approached by a suspect demanding the victim’s cell phone. The suspect displayed a handgun. The victim offered to pay the suspect $500 instead of taking his cell phone. The suspect agreed, took the money, and ran eastbound through the park.
+SUSPECT DESCRIPTION: Male, black, black hair, 6’0, approximately 180 lbs., 21-25 years of age, wearing a white long sleeve shirt, blue shorts, turquoise backpack.
+SUSPECT VEHICLE: Dark Chevy Malibu
+
+INCIDENT LOCATION: 800 block of Exposition Blvd, Los Angeles, CA 90037
+INCIDENT OFF CAMPUS: False
+INCIDENT DESCRIPTION: Victim (USC student) was smoking a cigarette while looking at his cell phone when approached by a suspect walking east bound on Exposition Blvd. The suspect snatched the victim’s cell phone and ran eastbound on Exposition Bl (towards Figueroa). Surveillance cameras later revealed that both suspects (based on the victims description) entered a vehicle at the Starbucks on the corner of Figueroa Street and Exposition and drove away.
+SUSPECT DESCRIPTION: Male, black

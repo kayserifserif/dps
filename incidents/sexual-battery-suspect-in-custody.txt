@@ -1,8 +1,9 @@
-Sexual Battery (Suspect in Custody)
-2019-10-13T13:03:17-07:00
-https://dps.usc.edu/sexual-battery-suspect-in-custody/
+SUMMARY: Sexual Battery (Suspect in Custody)
+POST DATE: 2019-10-13T13:03:17-07:00
+URL: https://dps.usc.edu/sexual-battery-suspect-in-custody/
 
-Incident: Sexual Battery-Suspect in Custody
-Location: 3607 Trousdale Parkway, Los Angeles, CA 90089 (on campus)
-Description of Incident: A student reported that a suspect riding a bicycle approached her from behind, slapped her on the buttocks and then fled southbound on Trousdale Parkway.
-Disposition: The description of the suspect, a male with long hair riding a bicycle, matched the description of the suspect involved in several sexual battery incidents recently reported to DPS. DPS camera surveillance monitors observed the suspect fleeing the scene, and he was detained by DPS officers. The suspect, a male juvenile, was arrested for investigation of sexual battery and booked at the Los Angeles Police Department. He reportedly confessed to committing several sexual batteries in the University Park area.
+INCIDENT LOCATION: 3607 Trousdale Pkwy, Los Angeles, CA 90089
+INCIDENT OFF CAMPUS: False
+INCIDENT DESCRIPTION: A student reported that a suspect riding a bicycle approached her from behind, slapped her on the buttocks and then fled southbound on Trousdale Parkway.
+
+DISPOSITION: The description of the suspect, a male with long hair riding a bicycle, matched the description of the suspect involved in several sexual battery incidents recently reported to DPS. DPS camera surveillance monitors observed the suspect fleeing the scene, and he was detained by DPS officers. The suspect, a male juvenile, was arrested for investigation of sexual battery and booked at the Los Angeles Police Department. He reportedly confessed to committing several sexual batteries in the University Park area.

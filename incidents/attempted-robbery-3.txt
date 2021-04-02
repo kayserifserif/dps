@@ -1,11 +1,12 @@
-Attempted Robbery
-2020-09-25T12:31:00-07:00
-https://dps.usc.edu/attempted-robbery-3/
+SUMMARY: Attempted Robbery
+POST DATE: 2020-09-25T12:31:00-07:00
+URL: https://dps.usc.edu/attempted-robbery-3/
+ALERT #: CA 2020-019
 
-ALERT #: 2020-019
-INCIDENT DESCRIPTION: The suspect approached the victim from behind and demanded his phone. When the victim refused, the suspect displayed a handgun in his waistband. The victim yelled that the police were on the way, and the suspect fled.
-REPORTED OFFENSE: Attempted Robbery. DPS received the report of this crime more than 24 hours after it was committed.
-DATE & TIME OF OCCURRENCE: Sept. 23, 2020, at approximately 3 p.m.
-LOCATION: Hoover Street at 23rd Street (off-campus)
+REPORTED OFFENSE: Attempted Robbery
+INCIDENT DATE: 2020-09-23 15:00
+INCIDENT LOCATION: Hoover St & 23rd St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: DPS received the report of this crime more than 24 hours after it was committed. The suspect approached the victim from behind and demanded his phone. When the victim refused, the suspect displayed a handgun in his waistband. The victim yelled that the police were on the way, and the suspect fled.
 SUSPECT DESCRIPTION: Male, Black, approximately 26-years-old, 6 feet 4 inches tall, 260 pounds, full beard, wearing a white tank top, green jacket, blue jeans and tan Timberland-style boots.
-SUSPECT VEHICLE: None.
+SUSPECT VEHICLE: None

@@ -1,10 +1,11 @@
-Sexual Battery
-2020-08-05T23:14:43-07:00
-https://dps.usc.edu/sexual-battery-10/
+SUMMARY: Sexual Battery
+POST DATE: 2020-08-05T23:14:43-07:00
+URL: https://dps.usc.edu/sexual-battery-10/
+ALERT #: TW 2020-017
 
-ALERT TW#: 2020-017
+INCIDENT DATE: 2020-08-05 20:30
+INCIDENT LOCATION: Ellendale Pl & W 29th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
 INCIDENT DESCRIPTION: The victim was jogging on Ellendale Avenue approaching 29th Street when she observed the suspect walking south toward her. As she passed the suspect, he reached out and touched her buttocks. The suspect ran south on Ellendale Avenue.
-DATE & TIME OF OCCURRENCE: August 5, 2020, 8:30 p.m.
-LOCATION: Ellendale Avenue at 29th Street (off-campus)
 SUSPECT DESCRIPTION: Male of unknown age and race, wearing a blue hat and dark grey clothing.
-SUSPECT VEHICLE: None seen.
+SUSPECT VEHICLE: None seen

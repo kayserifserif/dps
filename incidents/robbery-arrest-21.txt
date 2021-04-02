@@ -1,11 +1,15 @@
-Robbery Arrest
-2018-12-05T09:52:04-08:00
-https://dps.usc.edu/robbery-arrest-21/
+SUMMARY: Robbery Arrest
+POST DATE: 2018-12-05T09:52:04-08:00
+URL: https://dps.usc.edu/robbery-arrest-21/
+IRN #: 2018-011
 
-Incident Resolution Notice (IRN): #2018-011
-Incident: Robbery Strong Arm-Suspect In Custody
-Date: December 5, 2018 – Approximately 7:30 am
-Location: Jefferson and Figueroa, South East corner
-Case #: 1805030
-Incident description: On December 5, 2018 at approximately 7:30 am, the suspect, a female, approached the victim, a faculty member, at the corner of Jefferson and Figueroa. The suspect demanded property from the victim and initiated a struggle for the property. The victim was able to maintain control of her purse, but the suspect was able to remove currency from the victim’s wallet. The suspect then ran from the location.
-Disposition: DPS Officers patrolling in the area immediately began a systematic search for the suspect. CCTV Operators were able to find the crime on video, and then tracked the suspect to the area of 28th and Figueroa Street. DPS Officers, who were already conducting searches of the local restaurants, located the suspect coming out of the local Carl’s Jr restaurant. The suspect was immediately detained. The victim was able to positively identify the suspect as the person who took her property. The suspect was arrested for robbery.
+DPS CASE #: 1805030
+REPORTED OFFENSE: Robbery Strong Arm-Suspect In Custody
+INCIDENT DATE: 2018-12-05 07:30
+INCIDENT LOCATION: SE corner of S Figueroa St & W Jefferson Blvd, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: On December 5, 2018 at approximately 7:30 am, the suspect, a female, approached the victim, a faculty member, at the corner of Jefferson and Figueroa. The suspect demanded property from the victim and initiated a struggle for the property. The victim was able to maintain control of her purse, but the suspect was able to remove currency from the victim’s wallet. The suspect then ran from the location.
+
+ARREST LOCATION: S Figueroa St & W 28th St, Los Angeles, CA 90007
+ARREST OFF CAMPUS: True
+DISPOSITION: DPS Officers patrolling in the area immediately began a systematic search for the suspect. CCTV Operators were able to find the crime on video, and then tracked the suspect to the area of 28th and Figueroa Street. DPS Officers, who were already conducting searches of the local restaurants, located the suspect coming out of the local Carl’s Jr restaurant. The suspect was immediately detained. The victim was able to positively identify the suspect as the person who took her property. The suspect was arrested for robbery.

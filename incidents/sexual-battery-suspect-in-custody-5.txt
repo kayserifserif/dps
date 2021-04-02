@@ -1,8 +1,10 @@
-Sexual Battery (Suspect in Custody)
-2020-09-25T19:12:16-07:00
-https://dps.usc.edu/sexual-battery-suspect-in-custody-5/
+SUMMARY: Sexual Battery (Suspect in Custody)
+POST DATE: 2020-09-25T19:12:16-07:00
+URL: https://dps.usc.edu/sexual-battery-suspect-in-custody-5/
 
-Description of Incident: A student was walking on campus when the suspect approached her from behind. The suspect grabbed the student around the waist and fondled her. The student screamed and was able to break free from the suspect.
-Date/Time: Sept. 25, 2020 at 1:40 p.m.
-Location: 1985 Zonal Ave. (Health Sciences Campus)
-Disposition: Officers responding to the call for help located the suspect and detained him. The 33-year-old parolee was arrested and booked for investigation of sexual battery at the Los Angeles Police Department.
+INCIDENT DATE: 2020-09-25 13:40
+INCIDENT LOCATION: 1985 Zonal Ave, Los Angeles, CA 90089
+INCIDENT OFF CAMPUS: False
+INCIDENT DESCRIPTION: A student was walking on campus when the suspect approached her from behind. The suspect grabbed the student around the waist and fondled her. The student screamed and was able to break free from the suspect.
+
+DISPOSITION: Officers responding to the call for help located the suspect and detained him. The 33-year-old parolee was arrested and booked for investigation of sexual battery at the Los Angeles Police Department.

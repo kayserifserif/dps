@@ -1,8 +1,10 @@
-Burglary-Suspect in Custody
-2021-01-06T16:00:27-08:00
-https://dps.usc.edu/burglary-suspect-in-custody-2/
+SUMMARY: Burglary-Suspect in Custody
+POST DATE: 2021-01-06T16:00:27-08:00
+URL: https://dps.usc.edu/burglary-suspect-in-custody-2/
 
-Incident description: While home alone, a student discovered a stranger in her bathroom using the shower and then donning her bathrobe. When the student screamed at him to get out, the suspect locked himself in the restroom. Fearing that the suspect would hear her, the student texted a friend to call the police.
-Time & date of incident: 8 p.m. on Jan. 5, 2021
-Location: Off campus in the 1200 block of 27th Street
-Incident resolution: DPS officers patrolling in the area responded on the call along with officers from the Los Angeles Police Department (LAPD). DPS officers ordered the suspect to surrender and then took him into custody. The 26-year-old transient was booked at LAPD for investigation of burglary.
+INCIDENT DATE: 2021-01-05 20:00
+INCIDENT LOCATION: 1200 block of W 27th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: While home alone, a student discovered a stranger in her bathroom using the shower and then donning her bathrobe. When the student screamed at him to get out, the suspect locked himself in the restroom. Fearing that the suspect would hear her, the student texted a friend to call the police.
+
+RESOLUTION: DPS officers patrolling in the area responded on the call along with officers from the Los Angeles Police Department (LAPD). DPS officers ordered the suspect to surrender and then took him into custody. The 26-year-old transient was booked at LAPD for investigation of burglary.

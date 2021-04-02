@@ -1,11 +1,12 @@
-Robbery
-2018-04-17T16:55:09-07:00
-https://dps.usc.edu/robbery-38/
+SUMMARY: Robbery
+POST DATE: 2018-04-17T16:55:09-07:00
+URL: https://dps.usc.edu/robbery-38/
+ALERT #: TW 2018-005
 
-ALERT #: TW2018-005
 REPORTED OFFENSE: Robbery
-DATE & TIME OF OCCURRENCE: April 16, 2018, 8:30 PM
-LOCATION: West sidewalk of Figueroa St. south of 32nd St. (Off Campus)
+INCIDENT DATE: 2018-04-16 20:30
+INCIDENT LOCATION: West sidewalk of S Figueroa St south of W 32nd St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: The victim (USC student) walked out of Blaze Pizza on Figueroa Street and was approached by the suspect who was on a bicycle. The suspect told the victim he had a gun and demanded money. The victim gave the suspect cash and the suspect rode away on the bicycle northbound on Figueroa Street.
 SUSPECT DESCRIPTION: Male, Black, 55 years old, missing teeth, short hair style, black jacket, dark pants.
 SUSPECT VEHICLE: Black beach cruiser style bicycle.
-INCIDENT: The victim (USC student) walked out of Blaze Pizza on Figueroa Street and was approached by the suspect who was on a bicycle. The suspect told the victim he had a gun and demanded money. The victim gave the suspect cash and the suspect rode away on the bicycle northbound on Figueroa Street.

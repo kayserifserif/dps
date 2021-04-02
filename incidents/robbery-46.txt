@@ -1,10 +1,11 @@
-Robbery
-2020-02-26T21:13:53-08:00
-https://dps.usc.edu/robbery-46/
+SUMMARY: Robbery
+POST DATE: 2020-02-26T21:13:53-08:00
+URL: https://dps.usc.edu/robbery-46/
+ALERT #: TW 2020-007
 
-ALERT TW#: 2020-007
+INCIDENT DATE: 2020-02-25 10:40
+INCIDENT LOCATION: West alley of Figueroa St north of Jefferson Blvd, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
 INCIDENT DESCRIPTION: The male victim (USC staff member) watched the male suspect reach through the open window of his parked vehicle and remove several pieces of property. The victim pursued the suspect and tried to recover the stolen goods. The victim recovered some of his property, but the suspect ran southbound in the alley toward Jefferson Boulevard and escaped.
-DATE & TIME OF OCCURRENCE: Feb. 25, 2020 at approximately 10:40 a.m.
-LOCATION: West alley of Figueroa Street north of Jefferson Boulevard
-SUSPECT DESCRIPTION: The suspect is a 20-25-year-old Hispanic male who is 5 feet 7 inches tall and weighs 140 pounds. He is slim, bald and has a beard. He wore blue pants and a gray long-sleeve shirt.
+SUSPECT DESCRIPTION: 20-25-year-old Hispanic male who is 5 feet 7 inches tall and weighs 140 pounds. He is slim, bald and has a beard. He wore blue pants and a gray long-sleeve shirt.
 SUSPECT VEHICLE: None seen

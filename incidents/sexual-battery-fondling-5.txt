@@ -1,10 +1,11 @@
-Sexual Battery/Fondling
-2019-03-04T14:11:49-08:00
-https://dps.usc.edu/sexual-battery-fondling-5/
+SUMMARY: Sexual Battery/Fondling
+POST DATE: 2019-03-04T14:11:49-08:00
+URL: https://dps.usc.edu/sexual-battery-fondling-5/
+ALERT #: TW 2019-003
 
-ALERT #: TW2019-003
-INCIDENT: A female (non-student) was walking southbound on Trousdale when a group of approximately 9 juveniles riding bicycles approached her from behind. As the group passed the victim, one of the juveniles slapped her with an open hand on her right buttocks. The group of juveniles continued riding southbound on Trousdale until they were out of sight.
-DATE & TIME OF OCCURRENCE: March 2, 2019, at approximately 11:30 AM
-LOCATION: 3518 Trousdale Parkway (on campus)
-SUSPECT DESCRIPTION: Male, age 15 to 17 wearing a hoodie. No further description.
-SUSPECT VEHICLE DESCRIPTION: Bicycle
+INCIDENT DATE: 2019-03-02 11:30
+INCIDENT LOCATION: 3518 Trousdale Pkwy, Los Angeles, CA 90089
+INCIDENT OFF CAMPUS: False
+INCIDENT DESCRIPTION: A female (non-student) was walking southbound on Trousdale when a group of approximately 9 juveniles riding bicycles approached her from behind. As the group passed the victim, one of the juveniles slapped her with an open hand on her right buttocks. The group of juveniles continued riding southbound on Trousdale until they were out of sight.
+SUSPECT DESCRIPTION: Male, age 15 to 17 wearing a hoodie
+SUSPECT VEHICLE: Bicycle

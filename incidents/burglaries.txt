@@ -1,10 +1,13 @@
-Burglaries
-2018-09-17T17:08:40-07:00
-https://dps.usc.edu/burglaries/
+SUMMARY: Burglaries
+POST DATE: 2018-09-17T17:08:40-07:00
+URL: https://dps.usc.edu/burglaries/
+ALERT #: TW 2018-012
 
-ALERT#: TW2018-012
-REPORTED OFFENSE: There were three separate burglaries of student apartments that occurred over the weekend at the Cardinal Gardens housing complex. In each case, students were asleep inside when the burglaries occurred. No one was injured. It is likely that the same suspect committed each theft. In each case, the suspect entered through an unlocked front door, in one case, cut open a screen and entered through an open balcony door. Once inside, the suspect took cash or easily portable electronics. One student woke up during the crime and asked the suspect what he was doing. The suspect answered, “The door was open, is Doug here”? The suspect was heard leaving through the front door.
-DATE & TIME OF OCCURRENCE: #1: September 15, 2018, 11:00 PM—8:00 AM. #2: September 16, 2018, 3:30 AM—9:50 AM. #3: September 16, 2018, 7:30 AM.
-LOCATION: Cardinal Gardens Apartments, 3131 McClintock Avenue
-SUSPECT DESCRIPTION (provided by reporting party): Male, no further description
+INCIDENT DATE: 2018-09-15 23:00-08:00
+INCIDENT DATE: 2018-09-16 03:30-21:50
+INCIDENT DATE: 2018-09-16 07:30
+INCIDENT LOCATION: Cardinal Gardens Apartments, 3131 McClintock Ave, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: There were three separate burglaries of student apartments that occurred over the weekend at the Cardinal Gardens housing complex. In each case, students were asleep inside when the burglaries occurred. No one was injured. It is likely that the same suspect committed each theft. In each case, the suspect entered through an unlocked front door, in one case, cut open a screen and entered through an open balcony door. Once inside, the suspect took cash or easily portable electronics. One student woke up during the crime and asked the suspect what he was doing. The suspect answered, “The door was open, is Doug here”? The suspect was heard leaving through the front door.
+SUSPECT DESCRIPTION: Male
 SUSPECT VEHICLE: None seen

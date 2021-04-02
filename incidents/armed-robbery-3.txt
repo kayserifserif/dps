@@ -1,11 +1,16 @@
-Armed Robbery
-2019-01-14T15:32:42-08:00
-https://dps.usc.edu/armed-robbery-3/
+SUMMARY: Armed Robbery
+POST DATE: 2019-01-14T15:32:42-08:00
+URL: https://dps.usc.edu/armed-robbery-3/
+ALERT #: TW 2019-001
 
-TW #: 2019-001
 REPORTED OFFENSE: Robbery
-DATE & TIME OF OCCURRENCE: January 12, 2019, 1:00 AM
-LOCATION: 3131 S. Hoover Street
-INCIDENT: Two students exited a Lyft vehicle on Hoover St near the Target store. While walking home, five suspects exited a vehicle and confronted the two students. One suspect, armed with a knife, demanded their property. The students complied and gave them their cell phones, wallet, and keys. The suspects returned to the vehicle and drove away northbound on Hoover St.
-SUSPECT DESCRIPTION: Suspect 1: Male, Hispanic, 160 lbs., 20-30 yrs., wearing a hooded sweatshirt, armed with a knife. Suspect 2: Male, no further description Suspect 3: Male, no further description Suspect 4: Male, no further description Suspect 5: Male, no further description
+INCIDENT DATE: 2019-01-12 01:00
+INCIDENT LOCATION: 3131 S Hoover St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: False
+INCIDENT DESCRIPTION: Two students exited a Lyft vehicle on Hoover St near the Target store. While walking home, five suspects exited a vehicle and confronted the two students. One suspect, armed with a knife, demanded their property. The students complied and gave them their cell phones, wallet, and keys. The suspects returned to the vehicle and drove away northbound on Hoover St.
+SUSPECT DESCRIPTION: Male, Hispanic, 160 lbs., 20-30 yrs., wearing a hooded sweatshirt, armed with a knife.
+SUSPECT DESCRIPTION: Male
+SUSPECT DESCRIPTION: Male
+SUSPECT DESCRIPTION: Male
+SUSPECT DESCRIPTION: Male
 SUSPECT VEHICLE: Silver Toyota RAV4 or 4Runner

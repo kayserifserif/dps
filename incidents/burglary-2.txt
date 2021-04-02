@@ -1,9 +1,10 @@
-Burglary
-2020-11-07T17:50:05-08:00
-https://dps.usc.edu/burglary-2/
+SUMMARY: Burglary
+POST DATE: 2020-11-07T17:50:05-08:00
+URL: https://dps.usc.edu/burglary-2/
 
-Incident: The suspect walked up to the victim’s window and was staring at her. The victim said she ran to her bedroom and locked the door. The victim said the suspect forced open a rear door and entered the apartment. The suspect was last seen walking out of the apartment carrying two bags.
-Date & Time: Nov. 7, 2020, 12:48 a.m.
-Location: 1200 block of 30th Street (off-campus)
-Suspect Description : Male, Hispanic, age 40-42, 5 feet 9 inches tall, 190 pounds, wearing a pink checkered shirt and carrying two bags.
-Suspect vehicle: No vehicle seen.
+INCIDENT DATE: 2020-11-07 00:48
+INCIDENT LOCATION: 1200 block of 30th St, Los Angeles, CA 90007
+INCIDENT OFF CAMPUS: True
+INCIDENT DESCRIPTION: The suspect walked up to the victim’s window and was staring at her. The victim said she ran to her bedroom and locked the door. The victim said the suspect forced open a rear door and entered the apartment. The suspect was last seen walking out of the apartment carrying two bags.
+SUSPECT DESCRIPTION: Male, Hispanic, age 40-42, 5 feet 9 inches tall, 190 pounds, wearing a pink checkered shirt and carrying two bags.
+SUSPECT VEHICLE: None seen

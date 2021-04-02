@@ -1,21 +1,28 @@
-Burglary Residential
-2019-11-26T13:00:05-08:00
-https://dps.usc.edu/burglary-residential-5/
+SUMMARY: Burglary Residential
+POST DATE: 2019-11-26T13:00:05-08:00
+URL: https://dps.usc.edu/burglary-residential-5/
+ALERT #: TW 2019-010
 
-ALERT #: TW2019-010
-1st REPORTED OFFENSE: A student reported that she left her apartment to go to work at 8 a.m. and neglected to lock the door. When she returned to her apartment, she discovered that her laptop and iPad were missing.
-DATE & TIME OF OCCURRENCE: Nov. 23, 2019, between 8 a.m. and 4:30 p.m.
-LOCATION: Parkside Apartments, 3730 McClintock Ave (on campus)
+INCIDENT DATE: 2019-11-23 08:00-16:30
+INCIDENT LOCATION: Parkside Apartments, 3730 McClintock Ave, Los Angeles, CA 90089
+INCIDENT OFF CAMPUS: False
+INCIDENT DESCRIPTION: A student reported that she left her apartment to go to work at 8 a.m. and neglected to lock the door. When she returned to her apartment, she discovered that her laptop and iPad were missing.
 SUSPECT DESCRIPTION: None
-2nd REPORTED OFFENSE: Two student roommates reported leaving their apartment unlocked and returning later that afternoon and discovering that both their laptops were missing.
-DATE & TIME OF OCCURRENCE: Nov. 23, 2019, between 11 a.m. and 4 p.m.
-LOCATION: Parkside Apartments, 3730 McClintock Ave (on campus)
+
+INCIDENT DATE: 2019-11-23 11:00-16:00
+INCIDENT LOCATION: Parkside Apartments, 3730 McClintock Ave, Los Angeles, CA 90089
+INCIDENT OFF CAMPUS: False
+INCIDENT DESCRIPTION2: Two student roommates reported leaving their apartment unlocked and returning later that afternoon and discovering that both their laptops were missing.
 SUSPECT DESCRIPTION: None
-3rd REPORTED OFFENSE: Two student roommates reported leaving their apartment locked and returning later in the evening to discover that both their laptops were missing.
-DATE & TIME OF OCCURRENCE: Nov. 23, 2019, between 7:30 a.m. and 8 p.m.
-LOCATION: Parkside Apartments, 3730 McClintock Ave (on campus)
+
+INCIDENT DATE: 2019-11-23 07:30-20:00
+INCIDENT LOCATION: Parkside Apartments, 3730 McClintock Ave, Los Angeles, CA 90089
+INCIDENT OFF CAMPUS: False
+INCIDENT DESCRIPTION: Two student roommates reported leaving their apartment locked and returning later in the evening to discover that both their laptops were missing.
 SUSPECT DESCRIPTION: None
-4th REPORTED OFFENSE: A student reported leaving their apartment locked and returning later to discover that his pendant, neckless, bracelet and glasses were missing.
-DATE & TIME OF OCCURRENCE: Nov. 23, 2019, between 7:30 a.m. and 8 p.m.
-LOCATION: New Residential College, 615 W. 35th Street (on campus)
+
+INCIDENT DATE: 2019-11-23 07:30-20:00
+INCIDENT LOCATION: New Residential College, 615 W 35th St, Los Angeles, CA 90089
+INCIDENT OFF CAMPUS: False
+INCIDENT DESCRIPTION: A student reported leaving their apartment locked and returning later to discover that his pendant, neckless, bracelet and glasses were missing.
 SUSPECT DESCRIPTION: None

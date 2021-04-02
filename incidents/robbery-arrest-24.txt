@@ -1,6 +1,7 @@
-Robbery-Arrest
-2019-06-10T14:34:43-07:00
-https://dps.usc.edu/robbery-arrest-24/
+SUMMARY: Robbery-Arrest
+POST DATE: 2019-06-10T14:34:43-07:00
+URL: https://dps.usc.edu/robbery-arrest-24/
 
-Incident description: While walking alone, a student was approached by a suspect who displayed a knife and demanded the student’s phone. The student complied with the suspect’s demand, and the suspect, after walking away a short distance, turned and threw the phone at the student.
-Disposition: While conducting a follow up investigation at a nearby convenience store, USC DPS officers located the suspect hiding in the parking lot. The suspect, a juvenile, was arrested and transported to LAPD for booking on robbery charges.
+INCIDENT DESCRIPTION: While walking alone, a student was approached by a suspect who displayed a knife and demanded the student’s phone. The student complied with the suspect’s demand, and the suspect, after walking away a short distance, turned and threw the phone at the student.
+
+DISPOSITION: While conducting a follow up investigation at a nearby convenience store, USC DPS officers located the suspect hiding in the parking lot. The suspect, a juvenile, was arrested and transported to LAPD for booking on robbery charges.
