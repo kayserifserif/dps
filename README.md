@@ -39,5 +39,5 @@ conda activate dps
 ```
 4. Run scripts. For example:
 ```
-python scrape.py
+python data.py
 ```
