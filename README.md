@@ -4,7 +4,7 @@
 
 Database and analysis of crime alerts put out by the University of Southern California (USC) [Department of Public Safety (DPS)](https://dps.usc.edu/). Goal: Investigate DPS practices by analysing descriptions of crimes, particularly of the "suspects". Reflect on the relationship between USC and surrounding South Central community of largely low-income people of color.
 
-Links to individual reports were scraped on 2021-03-31 from the [Alerts](https://dps.usc.edu/category/alerts/) page, and individual reports were scraped into text files in `incidents/`. Text files were then cleaned and standardized for parsing.
+Links to individual reports were scraped on 2021-03-31 from the [Alerts](https://dps.usc.edu/category/alerts/) page, and individual reports were scraped into text files in `reports/`. Text files were then cleaned and standardized for parsing.
 
 ## Potential questions
 

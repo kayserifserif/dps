@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from pprint import pprint
 import json
 
-def get_incident_links():
+def get_report_links():
 	url = 'https://dps.usc.edu/category/alerts/'
 	links = []
 	page = 1
@@ -19,15 +19,15 @@ def get_incident_links():
 			links.append(anchor['href'])
 		print(f'Page {page} ({len(anchors)} links)')
 		page += 1
-	filename = 'incident_links.txt'
+	filename = 'reports.txt'
 	try:
 		with open(filename, 'w') as f:
 			f.writelines('\n'.join(links))
 	except:
 		print(f'Could not read {filename}.')
 
-def get_incident_articles():
-	with open('incident_links.txt') as f:
+def get_report_articles():
+	with open('reports.txt') as f:
 		links = f.read().split('\n')
 	for link in links:
 		print(link)
@@ -43,7 +43,7 @@ def get_incident_articles():
 		content = article.select('.entry-content p')
 		for p in content:
 			text += ' '.join(p.stripped_strings).strip() + '\n'
-		filename = 'incidents/' + stub + '.txt'
+		filename = 'reports/' + stub + '.txt'
 		try:
 			with open(filename, 'w') as f:
 				f.write(text)
@@ -51,8 +51,8 @@ def get_incident_articles():
 			print(f'Could not write to {filename}.')
 
 def main():
-	# get_incident_links()
-	get_incident_articles()
+	# get_report_links()
+	get_report_articles()
 
 if __name__ == '__main__':
 	main()
