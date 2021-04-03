@@ -77,7 +77,11 @@ def compileData():
 						value = ': '.join(split[1:])
 						if (value == 'True' or value == 'False'):
 							value = (value == 'True')
-						obj[attribute] = value
+						if attribute in obj:
+							obj[attribute] = [obj[attribute]]
+							obj[attribute].append(value)
+						else:
+							obj[attribute] = value
 					if i == 0:
 						report['metadata'] = obj
 					elif i == 1:

@@ -548,7 +548,10 @@
         "INCIDENT LOCATION": "NW corner of Raymond Ave & W 36th St, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "Two suspects approached the victim. The first suspect asked the victim to use his mobile phone to call his mother. When the victim refused, the second suspect grabbed the victim\u2019s right wrist, threatened to kill him if he did not hand over his phone. A community member, who observed the incident as it occurred, shouted at the two suspects who then ran west. Note: A similar theft occurred at approximately 4:30 p.m. on March 26, 2021.",
-        "SUSPECT DESCRIPTION": "Black adolescent male, approximately 10 years old, 5 feet, 3 inches tall and weighing 95 pounds and wearing blue clothing.",
+        "SUSPECT DESCRIPTION": [
+          "Black adolescent male, approximately 12 years old, 5 feet, 6 inches tall and weighing 115 pounds. He was wearing a zip-up blue hoodie and blue pants.",
+          "Black adolescent male, approximately 10 years old, 5 feet, 3 inches tall and weighing 95 pounds and wearing blue clothing."
+        ],
         "SUSPECT VEHICLE": "None seen"
       },
       {
@@ -671,7 +674,10 @@
         "INCIDENT LOCATION": "2300 block of Scarff St, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "While standing on the sidewalk in front of one of the victim\u2019s residence, the victims were approached on foot by two suspects who displayed handguns and demanded the victims\u2019 property. The victims complied with the suspects\u2019 demands. The suspects were last seen running south on Scarff Street and then east on St. James Place.",
-        "SUSPECT DESCRIPTION": "Male, Hispanic, 20-25, 5-7, dark hooded sweatshirt.",
+        "SUSPECT DESCRIPTION": [
+          "Male, Hispanic, 20-25, 5-9, black hair, wearing a black hooded sweatshirt",
+          "Male, Hispanic, 20-25, 5-7, dark hooded sweatshirt."
+        ],
         "SUSPECT VEHICLE": "None"
       }
     ],
@@ -691,7 +697,19 @@
         "INCIDENT LOCATION": "3131 S Hoover St, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": false,
         "INCIDENT DESCRIPTION": "Two students exited a Lyft vehicle on Hoover St near the Target store. While walking home, five suspects exited a vehicle and confronted the two students. One suspect, armed with a knife, demanded their property. The students complied and gave them their cell phones, wallet, and keys. The suspects returned to the vehicle and drove away northbound on Hoover St.",
-        "SUSPECT DESCRIPTION": "Male",
+        "SUSPECT DESCRIPTION": [
+          [
+            [
+              [
+                "Male, Hispanic, 160 lbs., 20-30 yrs., wearing a hooded sweatshirt, armed with a knife.",
+                "Male"
+              ],
+              "Male"
+            ],
+            "Male"
+          ],
+          "Male"
+        ],
         "SUSPECT VEHICLE": "Silver Toyota RAV4 or 4Runner"
       }
     ],
@@ -728,7 +746,16 @@
         "INCIDENT LOCATION": "Expo/Vermont light rail station, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "Three male juveniles and a female juvenile approached the victim as he was standing on the train platform. One of the male juveniles grabbed the victim\u2019s iPhone out of his hand and walked away. The suspects were last seen running in the area of Exposition Boulevard and Catalina Street.",
-        "SUSPECT DESCRIPTION": "Female.",
+        "SUSPECT DESCRIPTION": [
+          [
+            [
+              "Black male, approximately 14 to 16 years old, 5 feet 9 inches tall and with a thin build. He was wearing a white T-shirt and black pants.",
+              "Black male, approximately 14 to 16 years old, 5 feet 9 inches tall and with a thin build. He was wearing a blue long-sleeve T-shirt and blue pants."
+            ],
+            "Black male, approximately 14 to 16 years old, 5 feet 8 inches tall and weighing 180 pounds."
+          ],
+          "Female."
+        ],
         "SUSPECT VEHICLE": "None seen"
       }
     ],
@@ -800,7 +827,10 @@
         "INCIDENT LOCATION": "NE corner of Normandie Ave & W 35th Pl, Los Angeles, CA 90018",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "One suspect approached the student, simulated a weapon and threatened her. A second suspect approached the student from behind and took the victim\u2019s backpack which was on the ground next to her. The suspects then fled eastbound on 35th Place.",
-        "SUSPECT DESCRIPTION": "Unknown",
+        "SUSPECT DESCRIPTION": [
+          "Male",
+          "Unknown"
+        ],
         "SUSPECT VEHICLE": "None seen"
       }
     ],
@@ -820,7 +850,10 @@
         "INCIDENT LOCATION": "McClintock Ave north of Jefferson Blvd, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": false,
         "INCIDENT DESCRIPTION": "In an apparent act of road rage, the suspect driver pointed a handgun from the window of her car at the driver of the other involved vehicle. The other involved vehicle was a rideshare car transporting a student passenger. No shots were fired and there were no injuries. The passenger in the suspect vehicle also exited the car and threw food at the rideshare driver. The suspect vehicle was last seen traveling westbound on Jefferson from McClintock.",
-        "SUSPECT DESCRIPTION": "Passenger: Female, Black, 35-40 years of age, approximately 6 feet tall, thin build, wearing reddish-purple colored clothes.",
+        "SUSPECT DESCRIPTION": [
+          "Driver: Female, Black, 35-40 years of age, wearing a burgundy colored top.",
+          "Passenger: Female, Black, 35-40 years of age, approximately 6 feet tall, thin build, wearing reddish-purple colored clothes."
+        ],
         "SUSPECT VEHICLE": "Burgundy colored Kia with Car Pro white paper plates with blue writing."
       }
     ],
@@ -931,7 +964,10 @@
         "INCIDENT LOCATION": "3335 S Figueroa St (near CVS), Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "Victim, a USC student, advertised an iPhone for sale using an application to sell items online. A potential buyer contacted the victim and they agreed to meet at the CVS store on Figueroa. After the victim arrived at the CVS store, the buyer texted the victim and requested victim walk to Shrine Place and 32nd Street to meet buyer who was in a Silver Audi. Victim walked down the street and met suspects 1 and 2, who were sitting inside the vehicle. Victim advised the suspects to drive back to CVS to complete their transaction. As the victim walked back toward CVS, Suspect #1 exited the vehicle, approached the victim and demanded the cell phone. Suspect #2 remained inside the car. Suspect #1 produced a firearm from the front pocket of his hoodie and pointed the firearm at victim. A struggle between the victim and Suspect #1 ensued resulting in Suspect #1 losing control of the weapon. Suspects (who had retrieved the weapon) fled the scene and drove out of the area without the victim\u2019s property. The victim was not seriously injured.",
-        "SUSPECT DESCRIPTION": "Male Black, unknown height and weight, approximately 19 to 21 years old.",
+        "SUSPECT DESCRIPTION": [
+          "Male Black, 6\u2019 in height, approximately 175 lbs., approximately 19 to 21 years old, wearing grey sweat pants.",
+          "Male Black, unknown height and weight, approximately 19 to 21 years old."
+        ],
         "SUSPECT VEHICLE": "Silver, four door Audi Q3 Crossover, 2016 or newer, large sun roof, with white license plates. Rear windows are tinted."
       }
     ],
@@ -1005,7 +1041,10 @@
         "INCIDENT LOCATION": "Bus stop at the SW corner of W Adams Blvd & Magnolia Ave, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "The victim, not affiliated with USC, stated that he was standing at the bus stop at the intersection of Adams Avenue and Magnolia Street when he was approached by two suspects on foot. One suspect displayed a handgun and demanded the victim\u2019s property in Spanish. After taking the victim\u2019s money, the suspects ran away westbound on Adams Avenue.",
-        "SUSPECT DESCRIPTION": "Hispanic male, 5\u201910\u201d to 6\u201900\u201d tall, 20-22-years-old and wearing a black hoodie with white stripes down the sleeves.",
+        "SUSPECT DESCRIPTION": [
+          "Hispanic male, 5\u201910\u201d to 6\u201900\u201d tall, 20-22-years-old and wearing an orange hoodie.",
+          "Hispanic male, 5\u201910\u201d to 6\u201900\u201d tall, 20-22-years-old and wearing a black hoodie with white stripes down the sleeves."
+        ],
         "SUSPECT VEHICLE": "No vehicle was seen."
       }
     ],
@@ -1065,7 +1104,10 @@
         "INCIDENT LOCATION": "SE corner Vermont Ave & W 29th St, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "While walking east on the south sidewalk of 29th Street from Vermont and holding his cell phone in his hand, the victim (student) was struck from behind and knocked to the ground. The suspect punched the victim and attempted to take his cell phone but was unsuccessful. The suspect then ran to a waiting vehicle being driven by a second suspect and drove away from the scene north on Vermont.",
-        "SUSPECT DESCRIPTION": "Unknown.",
+        "SUSPECT DESCRIPTION": [
+          "Male, Black, approximately 23, 5-9, 175, \u201cfade\u201d style haircut, wearing a black t-shirt, grey pants or long shorts, white socks and black shoes.",
+          "Unknown."
+        ],
         "SUSPECT VEHICLE": "Silver Chevrolet Malibu 4-door sedan, license 8ELZ223, tinted windows, flower design on rear license plate frame"
       }
     ],
@@ -1083,7 +1125,10 @@
         "INCIDENT LOCATION": "SW corner of Vermont Ave & W 30th St, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "Two men, armed with handguns, approached customers who were standing at a taco stand. The suspects pointed handguns at the vendor and customers and demanded the victims\u2019 property. One of the victims, a student, surrendered his iPhone. The suspects then told the victims to lay on the ground, and the suspects subsequently ran eastbound on 30th Street.",
-        "SUSPECT DESCRIPTION": "Hispanic male, approximately 25 years old, 6 feet tall and weighing 180 pounds. He was wearing a black hoodie, black pants and a black mask.",
+        "SUSPECT DESCRIPTION": [
+          "Hispanic male, approximately 25 to 30 years old, 5 feet, 9 inches tall and weighing 200 pounds. He was wearing a black hoodie, black pants, black hat and a black mask.",
+          "Hispanic male, approximately 25 years old, 6 feet tall and weighing 180 pounds. He was wearing a black hoodie, black pants and a black mask."
+        ],
         "SUSPECT VEHICLE": "None seen"
       }
     ],
@@ -1141,7 +1186,13 @@
         "INCIDENT LOCATION": "1200 block of W 37th Dr, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "Victim, a student, was attending a party with friends. While victim was dancing by himself, he was approached by Suspect #1 who demanded his property. As the victim raised his hands, backed up and indicated he did not want trouble, Suspects 2 and 3 got behind the victim, one on his left and the other on his right side and began to grab his wallet which was in his rear pocket. The victim did not resist and the suspects fled the scene.",
-        "SUSPECT DESCRIPTION": "Male, Black, brown eyes, dark skinned.",
+        "SUSPECT DESCRIPTION": [
+          [
+            "Male, Black, brown eyes, approximately 5\u20198, 170 lbs. medium build, dark skinned.",
+            "Male Black, brown eyes, approximately 6\u20192, 150 lbs., thin build, dark skinned."
+          ],
+          "Male, Black, brown eyes, dark skinned."
+        ],
         "SUSPECT VEHICLE": "None"
       },
       {
@@ -1150,7 +1201,13 @@
         "INCIDENT LOCATION": "1200 block of W 37th St, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "Victim, a student, stated that while he was attending a partywith friends he was approached by Suspect #1 (described below) who introduced himself as \u201cBreezie\u201d and began asking the victim his age and what school he attended. The conversation was brief. Approximately 30 minutes later as the victim was leaving the party, he observed Breezie who gestured to him to come over and talk to him. The victim went over to Breezie who then asked the victim if he had Instagram. As the victim reached into his pocket to get his phone, Breezie grabbed the victim\u2019s phone and ran off with it. The victim turned around and told two males standing nearby on his left and right side, later identified as Suspects 2 and 3 (described below) that his phone had been stolen. Suspects 2 and 3 apologized to the victim and then simultaneously reached into the victim\u2019s pockets and stole his wallet and keys and then fled the scene.",
-        "SUSPECT DESCRIPTION": "Male, Black, approximately 5/10/unknown weight/19-21 years of age.",
+        "SUSPECT DESCRIPTION": [
+          [
+            "Male, Black, approximately 5\u20198/160lbs/19-21 years of age. ",
+            "Male, Black, approximately 6\u20192/210/19-21 years of age. "
+          ],
+          "Male, Black, approximately 5/10/unknown weight/19-21 years of age."
+        ],
         "SUSPECT VEHICLE": "None"
       }
     ],
@@ -1438,7 +1495,10 @@
         "INCIDENT LOCATION": "Hoover St & 30th St, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "Two males parked at the southwest corner of Hoover Street and 30th Street, exited their car and then walked a short distance west. The suspects then fired several gunshots at a man in front of them on 30th Street. The suspects then ran back to their car and were last seen entering the southbound on-ramp to the 110 Freeway at Exposition Boulevard. The victim left the scene prior to the officers\u2019 arrival.",
-        "SUSPECT DESCRIPTION": "Male, wearing black sweatpants, a black hoodie and a blue surgical mask.",
+        "SUSPECT DESCRIPTION": [
+          "Male, wearing red sweatpants, a red hoodie and a blue surgical mask.",
+          "Male, wearing black sweatpants, a black hoodie and a blue surgical mask."
+        ],
         "SUSPECT VEHICLE": "Light gray 2013 Hyundai four-door sedan with moon roof."
       }
     ],
@@ -1495,7 +1555,10 @@
         "INCIDENT LOCATION": "3000 block of McClintock Ave, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": false,
         "INCIDENT DESCRIPTION": "The victim, a male student, was sitting on a bench on the public sidewalk waiting for an Uber ride. While viewing his iPhone, two female suspects approached the victim and demanded his iPhone. The first suspect placed her hand inside her jacket pocket and pointed in the victim\u2019s direction as if she were simulating a handgun. A second female stood nearby posing as a lookout. The victim surrendered his iPhone and the two females fled to a vehicle nearby. The vehicle drove northbound on McClintock.",
-        "SUSPECT DESCRIPTION": "Female, age: 20-25.",
+        "SUSPECT DESCRIPTION": [
+          "Female, age: 20-25, wearing dark clothing.",
+          "Female, age: 20-25."
+        ],
         "SUSPECT VEHICLE": "Dark colored 4 door sedan"
       }
     ],
@@ -1514,7 +1577,13 @@
         "INCIDENT LOCATION": "Hoover St & W 24th St, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "The victim (student) was walking home alone when three suspects approached him from behind. Two suspects pushed the victim against a fence and the third suspect displayed what appeared to be a pistol tucked in his waistband. The suspects took the victim\u2019s phone and wallet and were last seen walking south on Hoover Street.",
-        "SUSPECT DESCRIPTION": "Male, Hispanic, 5\u20199, 145lbs, slim build, black buzz-cut hair, wearing an unknown colored jacket and dark jeans.",
+        "SUSPECT DESCRIPTION": [
+          [
+            "Male, Hispanic, 6\u20190, slim build, black buzz-cut hair, goatee, wearing a dark green or black jacket and dark jeans.",
+            "Male, Black, 5\u20199, 145lbs, black shoulder-length dreads, slim build wearing a light blue hoodie and dark jeans."
+          ],
+          "Male, Hispanic, 5\u20199, 145lbs, slim build, black buzz-cut hair, wearing an unknown colored jacket and dark jeans."
+        ],
         "SUSPECT VEHICLE": "None seen"
       }
     ],
@@ -1588,7 +1657,10 @@
         "INCIDENT LOCATION": "Vermont Ave & W 36th Pl, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "Two suspects approached the victims, who are not affiliated with USC, standing at the northwest corner of 36th Place and Vermont Avenue. The suspects forcibly took one of the victim\u2019s purse and the other\u2019s cell phone. The suspects then entered their vehicle and drove away westbound on 36th Place toward Catalina Street. No one was injured. There were no weapons involved in the incident.",
-        "SUSPECT DESCRIPTION": "Female, Black",
+        "SUSPECT DESCRIPTION": [
+          "Male, Black",
+          "Female, Black"
+        ],
         "SUSPECT VEHICLE": "Silver 2005 Audi sedan, license number 7HYN526"
       }
     ],
@@ -1606,7 +1678,10 @@
         "INCIDENT LOCATION": "Amin\u2019s Oil, 2603 Normandie Ave, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "The suspects approached the victims as they were pumping gas. The first suspect punched the male victim numerous times, causing him to fall to the ground. Several additional suspects approached the victim while he was on the ground, and battered him. The second victim, a USC student, was approached by a female suspect, who punched her in the face. The suspects took the first victim\u2019s smartphone and jewelry, and got into several vehicles and drove away in unknown directions. The victims were not able to provide descriptions of the other suspects.",
-        "SUSPECT DESCRIPTION": "Black female, approximately 25 to 30 years old.",
+        "SUSPECT DESCRIPTION": [
+          "Black male, approximately 20 to 30 years old, 5 feet, 10 inches tall, with a long ponytail. ",
+          "Black female, approximately 25 to 30 years old."
+        ],
         "SUSPECT VEHICLE": "No vehicle descriptions were available."
       }
     ],
@@ -1625,7 +1700,13 @@
         "INCIDENT LOCATION": "600 block of W 30th St, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "Three suspects approached the male victim (student) at the corner of 30th Street and Shrine Place. The suspects grabbed the victim and prevented him from leaving. A suspect snatched the victim\u2019s phone from his right hand, and all three suspects fled to a parked vehicle nearby.",
-        "SUSPECT DESCRIPTION": "Black male who is between 5 feet 11 inches and 6 feet tall and wore dark clothing.",
+        "SUSPECT DESCRIPTION": [
+          [
+            "Black male who is 6 feet tall and wore black clothing.",
+            "Black male who is between 5 feet 11 inches and 6 feet tall and wore dark clothing."
+          ],
+          "Black male who is between 5 feet 11 inches and 6 feet tall and wore dark clothing."
+        ],
         "SUSPECT VEHICLE": "A white or silver sedan with four doors"
       }
     ],
@@ -1658,7 +1739,13 @@
     },
     "incidents": [
       {
-        "INCIDENT DATE": "2018-09-16 07:30",
+        "INCIDENT DATE": [
+          [
+            "2018-09-15 23:00-08:00",
+            "2018-09-16 03:30-21:50"
+          ],
+          "2018-09-16 07:30"
+        ],
         "INCIDENT LOCATION": "Cardinal Gardens Apartments, 3131 McClintock Ave, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "There were three separate burglaries of student apartments that occurred over the weekend at the Cardinal Gardens housing complex. In each case, students were asleep inside when the burglaries occurred. No one was injured. It is likely that the same suspect committed each theft. In each case, the suspect entered through an unlocked front door, in one case, cut open a screen and entered through an open balcony door. Once inside, the suspect took cash or easily portable electronics. One student woke up during the crime and asked the suspect what he was doing. The suspect answered, \u201cThe door was open, is Doug here\u201d? The suspect was heard leaving through the front door.",
@@ -1755,7 +1842,10 @@
         "INCIDENT LOCATION": "700 block of W 27th St, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "The victim (non-student) agreed to sell his laptop via an online marketplace and met the suspects in person in the 700 block of W 27th Street to complete the purchase. The suspects displayed a handgun and stole the victim\u2019s laptop. The suspects then ran to their parked vehicle nearby and drove away.",
-        "SUSPECT DESCRIPTION": "20-30-year-old black male who wore a gray shirt.",
+        "SUSPECT DESCRIPTION": [
+          "20-30-year-old black male who wore a blue shirt and black pants",
+          "20-30-year-old black male who wore a gray shirt."
+        ],
         "SUSPECT VEHICLE": "2000-2007 silver Mercedes Benz with four doors (full-size)"
       },
       {
@@ -1764,7 +1854,10 @@
         "INCIDENT LOCATION": "1400 block of W 27th St, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "While walking in the 1400 block of W 27th Street, the suspects approached the victim (student) from behind. One of the suspects grabbed the victim\u2019s phone from his hand, and both suspects ran to a vehicle nearby. The vehicle then headed north on Catalina Street.",
-        "SUSPECT DESCRIPTION": "16-18-year-old Hispanic male who is between 5 feet and 5 feet 5 inches tall and weighs 115 pounds.",
+        "SUSPECT DESCRIPTION": [
+          "16-18-year-old Hispanic male who is between 5 feet 2 inches and 5 feet 5 inches tall and weighs 125 pounds.",
+          "16-18-year-old Hispanic male who is between 5 feet and 5 feet 5 inches tall and weighs 115 pounds."
+        ],
         "SUSPECT VEHICLE": "2010-2015 silver BMW SUV"
       }
     ],
@@ -1819,7 +1912,13 @@
         "INCIDENT LOCATION": "Target at USC Village, 3131 S Hoover St, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": false,
         "INCIDENT DESCRIPTION": "Three suspects entered the store and went to the electronics department. One of the suspects asked to see products from the display case. When an employee placed the products on the countertop, one of the suspects took them, and all three ran out of the store. While running, one of the suspects stopped and removed a handgun from his waistband so it could be seen by people in the store, and he pointed it toward the ground. The suspect then put the gun back in his waistband and ran out of the store with the other suspects and the stolen electronics. The incident was reported this afternoon.",
-        "SUSPECT DESCRIPTION": "Hispanic male, approximately 18 to 22 years old, 5 feet, 6 inches tall and weighing 140 to 150 pounds. He was wearing a black Dodgers hat, a gray hoodie and black pants.",
+        "SUSPECT DESCRIPTION": [
+          [
+            "Hispanic male, approximately 18 to 20 years old, 5 feet, 4 inches tall and weighing 110 pounds. He was wearing a Dallas Cowboys hat, a black, white and teal hoodie and black pants. He was armed with a chrome semiautomatic handgun.",
+            "Hispanic male, approximately 18 to 22 years old, 5 feet, 8 inches tall and weighing 140 to 160 pounds. He was wearing a black shirt and blue shorts."
+          ],
+          "Hispanic male, approximately 18 to 22 years old, 5 feet, 6 inches tall and weighing 140 to 150 pounds. He was wearing a black Dodgers hat, a gray hoodie and black pants."
+        ],
         "SUSPECT VEHICLE": "A black, 4-door Volkswagen Jetta or Passat with a red spare tire on the right rear side. The car drove out of the parking structure onto Hoover Boulevard and headed south."
       }
     ],
@@ -1896,7 +1995,10 @@
         "INCIDENT LOCATION": "Orchard Ave & W 28th St, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "A female student was walking north on Orchard Avenue toward 28th Street when a male suspect approached her from behind, grabbed her cell phone from her hand and fled to an awaiting vehicle.",
-        "SUSPECT DESCRIPTION": "Black male who wore a gray sweatshirt and drove the vehicle.",
+        "SUSPECT DESCRIPTION": [
+          "20-year-old black male who wore a gray sweatshirt.",
+          "Black male who wore a gray sweatshirt and drove the vehicle."
+        ],
         "SUSPECT VEHICLE": "The vehicle is a gray Nissan Sentra with four doors. The license plate number is 8FTT847."
       }
     ],
@@ -1993,7 +2095,13 @@
         "INCIDENT LOCATION": "2670 Ellendale Pl, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "The complainant was approached by suspect #1 as she walked north bound on the east sidewalk of Ellendale Place, south of Adams Boulevard. The complainant was then approached by suspect #1, traveling in the opposite direction. Suspect #1 latched onto complainant\u2019s phone and subsequently pushed her upper body. A brief struggle ensued as the complainant made an attempt to physically retain her property. Suspect #2 then approached the Complainant from behind and fearing for her safety, the complainant discontinued her resistance as suspect #1 gained control of the cell phone. Suspects #1 and #2 then entered an awaiting vehicle driven by suspect #3. The suspects then fled the scene north bound from the location and east bound on Adams Boulevard. The suspects then entered the 110 freeway via the south bound metro express lanes.",
-        "SUSPECT DESCRIPTION": "Male Black",
+        "SUSPECT DESCRIPTION": [
+          [
+            "Female Black BLK hair (possibly braided) unknown age, 5-04 100-110 pounds wearing a white top.",
+            "Female"
+          ],
+          "Male Black"
+        ],
         "SUSPECT VEHICLE": "Black Honda 4DR with an unknown sticker affixed to the driver\u2019s side windshield and \u201cdonut\u201d tire mounted onto the rear left wheel well and no front plate."
       }
     ],
@@ -2012,8 +2120,14 @@
         "INCIDENT DATE": "2018-04-03 10:19",
         "INCIDENT LOCATION": "W 32nd St & Royal St, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
-        "INCIDENT DESCRIPTION": "Both suspects then ran across 32nd Street to the north side and confronted Victim #2 (a student) and brandished the handgun once again. The suspects demanded the victim\u2019s cell phone. The victim was able to flee as witnesses came to her aid. The suspects were seen running to their vehicle and then driving out of the area heading east on 32nd Street and then southbound on Figueroa Street. The vehicle continued south on Figueroa Street passing Exposition Blvd until out of view.",
-        "SUSPECT DESCRIPTION": "Male Black, 5-7 to 5-9, 150lbs, black pants, gray hoodie, dark shoes.",
+        "INCIDENT DESCRIPTION": [
+          "Suspects parked their vehicle on the west side of Royal Street just north of 32nd Street. They exited the vehicle and walked to the south side of 32nd and confronted Victim #1. Suspect #1 brandished a black handgun and demanded the victim\u2019s cell phone and money. The victim (a student) relinquished her phone to the suspects.",
+          "Both suspects then ran across 32nd Street to the north side and confronted Victim #2 (a student) and brandished the handgun once again. The suspects demanded the victim\u2019s cell phone. The victim was able to flee as witnesses came to her aid. The suspects were seen running to their vehicle and then driving out of the area heading east on 32nd Street and then southbound on Figueroa Street. The vehicle continued south on Figueroa Street passing Exposition Blvd until out of view."
+        ],
+        "SUSPECT DESCRIPTION": [
+          "Male Black, 5-7 to 5-9, 150lbs, black pants, black hoodie, dark shoes.",
+          "Male Black, 5-7 to 5-9, 150lbs, black pants, gray hoodie, dark shoes."
+        ],
         "SUSPECT VEHICLE": "Dark gray Nissan Altima, tinted windows, paint damage on roof and trunk, chrome wheels."
       }
     ],
@@ -2098,7 +2212,13 @@
         "INCIDENT LOCATION": "1189 W 36th Pl, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "Victim, a USC student, was walking home from the campus when he was approached by three suspects. Suspect #1 demanded money while the other two suspects stood behind the victim. The victim did not understand the suspect\u2019s demands due to a language barrier. Suspect #1 grabbed the outside pocket of the victim\u2019s jacket. The victim pushed the suspect away and ran inside his gated apartment complex unharmed. The suspects were last seen running eastbound on 36th Place.",
-        "SUSPECT DESCRIPTION": "Male Hispanic, 5\u201910\u201d in height, approximately 150 lbs., 19 to 25 years old.",
+        "SUSPECT DESCRIPTION": [
+          [
+            "Male Black, 5\u201910\u201d in height, approximately 150 lbs., 19 to 25 years old.",
+            "Male Hispanic, 5\u201910\u201d in height, approximately 150 lbs., 19 to 25 years old."
+          ],
+          "Male Hispanic, 5\u201910\u201d in height, approximately 150 lbs., 19 to 25 years old."
+        ],
         "SUSPECT VEHICLE": "No vehicle determined to be involved at the time."
       }
     ],
@@ -2153,7 +2273,10 @@
         "INCIDENT LOCATION": "NW corner of W 32nd St & Royal St, Los Angeles, CA 90007",
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "A student (victim) reported that two suspects approached him after jumping out of a dark colored vehicle. Suspect #2 punched him in the face and forcibly removed his cell phone from his hand. The suspects returned to their vehicle and fled westbound on 32nd Street.",
-        "SUSPECT DESCRIPTION": "Female, black, 5\u20193, approx. 25 years of age, wearing white shirt",
+        "SUSPECT DESCRIPTION": [
+          "Male, black, approx. 25 years of age, wearing dark clothing",
+          "Female, black, 5\u20193, approx. 25 years of age, wearing white shirt"
+        ],
         "SUSPECT VEHICLE": "Dark colored sedan"
       }
     ],
@@ -2380,7 +2503,13 @@
         "INCIDENT LOCATION": "Brittingham Field, 3506 McClintock Ave, Los Angeles, CA 90089",
         "INCIDENT OFF CAMPUS": false,
         "INCIDENT DESCRIPTION": "Victims (no USC affiliation) were playing soccer on Brittingham Field when they were confronted by three suspects who demanded their money. Suspect #1 displayed a handgun located in his waistband and the victims gave the suspects their money and cell phones. Suspects then fled southbound from location on Watt Way and into an awaiting vehicle.",
-        "SUSPECT DESCRIPTION": "Male Black, 5\u201910\u201d, unknown height and weight, approximately 21-25 years old, wearing blue jeans, white tank top.",
+        "SUSPECT DESCRIPTION": [
+          [
+            "Male Black, 5\u20199\u201d, approximately 175 lbs., approximately 21-25 years old, all black clothing.",
+            "Male Black, 5\u20198\u201d, unknown height and weight, approximately 21-25 years old, wearing grey sweat pants, white shirt."
+          ],
+          "Male Black, 5\u201910\u201d, unknown height and weight, approximately 21-25 years old, wearing blue jeans, white tank top."
+        ],
         "SUSPECT VEHICLE": "2002 Black GMC Suburban California license plate # 6MHF644."
       }
     ],
