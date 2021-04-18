@@ -65,7 +65,7 @@ def compileData():
 				report = {
 					'metadata': {},
 					'incidents': [],
-					'resolution': {}
+					'outcome': {}
 				}
 				text = f.read().strip()
 				sections = text.split('\n\n')
@@ -91,7 +91,7 @@ def compileData():
 						if 'incident_description' in obj:
 							report['incidents'].append(obj)
 						else:
-							report['resolution'] = obj
+							report['outcome'] = obj
 				reports.append(report)
 		except:
 			print(f'Could not read {read_path + filename}.')
