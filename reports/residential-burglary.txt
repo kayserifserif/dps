@@ -1,7 +1,7 @@
 SUMMARY: Residential Burglary
 POST DATE: 2019-01-24T16:43:00-08:00
 URL: https://dps.usc.edu/residential-burglary/
-ALERT #: TW 2019-002 
+#: TW 2019-002 
 
 INCIDENT DATE: During weekend of January 19th – 20th
 INCIDENT LOCATION: W 28th St, Los Angeles, CA 90007

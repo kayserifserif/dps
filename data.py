@@ -73,7 +73,7 @@ def compileData():
 					obj = {}
 					for line in sections[i].split('\n'):
 						split = line.split(': ')
-						attribute = split[0]
+						attribute = split[0].lower().replace(' ', '_')
 						value = ': '.join(split[1:])
 						if (value == 'True' or value == 'False'):
 							value = (value == 'True')
@@ -88,7 +88,7 @@ def compileData():
 					elif i == 1:
 						report['incidents'].append(obj)
 					else:
-						if 'INCIDENT DESCRIPTION' in obj:
+						if 'incident_description' in obj:
 							report['incidents'].append(obj)
 						else:
 							report['resolution'] = obj

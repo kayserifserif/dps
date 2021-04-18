@@ -1,7 +1,7 @@
 SUMMARY: Robbery
 POST DATE: 2020-01-26T15:20:02-08:00
 URL: https://dps.usc.edu/robbery-45/
-ALERT #: CA 2020-003
+#: CA 2020-003
 
 INCIDENT DATE: 2020-01-25 19:05
 INCIDENT LOCATION: 600 block of W 30th St, Los Angeles, CA 90007

@@ -1,7 +1,7 @@
 SUMMARY: Grand Theft
 POST DATE: 2020-06-16T17:18:15-07:00
 URL: https://dps.usc.edu/grand-theft/
-ALERT #: TW 2020-013
+#: TW 2020-013
 
 INCIDENT DATE: 2020-06-16 14:20
 INCIDENT LOCATION: Royal Street Parking Structure at 649 W 34th St, Los Angeles, CA 90089

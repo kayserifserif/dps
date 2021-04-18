@@ -1,7 +1,7 @@
 SUMMARY: Robbery
 POST DATE: 2018-03-26T12:24:15-07:00
 URL: https://dps.usc.edu/robbery-34/
-ALERT #: CA 2018-004
+#: CA 2018-004
 
 INCIDENT DATE: 2018-03-25 03:32
 INCIDENT LOCATION: W Adams Blvd & Flower St, Los Angeles, CA 90007

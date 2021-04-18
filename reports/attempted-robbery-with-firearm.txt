@@ -1,7 +1,7 @@
 SUMMARY: Attempted Robbery with Firearm
 POST DATE: 2018-05-21T15:13:33-07:00
 URL: https://dps.usc.edu/attempted-robbery-with-firearm/
-ALERT #: TW 2018-008
+#: TW 2018-008
 
 REPORTED OFFENSE: Attempted Robbery-Strong Arm with Firearm
 INCIDENT DATE: 2018-05-20 14:55

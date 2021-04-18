@@ -1,7 +1,7 @@
 SUMMARY: Robbery
 POST DATE: 2020-02-26T21:13:53-08:00
 URL: https://dps.usc.edu/robbery-46/
-ALERT #: TW 2020-007
+#: TW 2020-007
 
 INCIDENT DATE: 2020-02-25 10:40
 INCIDENT LOCATION: West alley of Figueroa St north of Jefferson Blvd, Los Angeles, CA 90007

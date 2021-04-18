@@ -1,7 +1,7 @@
 SUMMARY: Residential Burglary (Update)
 POST DATE: 2020-07-20T18:38:31-07:00
 URL: https://dps.usc.edu/residential-burglary-2/
-ALERT #: TW 2020-015
+#: TW 2020-015
 
 INCIDENT DATE: 2020-07-20 16:03
 INCIDENT LOCATION: University Gateway Apartments, 3335 S Figueroa St, Los Angeles, CA 90007

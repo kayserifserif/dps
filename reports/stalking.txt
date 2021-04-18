@@ -1,7 +1,7 @@
 SUMMARY: Stalking
 POST DATE: 2020-09-15T11:16:23-07:00
 URL: https://dps.usc.edu/stalking/
-ALERT #: TW 2020-018
+#: TW 2020-018
 
 INCIDENT DATE: Numerous dates and times in August 2020.
 INCIDENT LOCATION: Texts to victims’ mobile numbers.

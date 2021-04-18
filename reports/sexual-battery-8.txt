@@ -1,7 +1,7 @@
 SUMMARY: Sexual Battery
 POST DATE: 2020-02-05T14:22:25-08:00
 URL: https://dps.usc.edu/sexual-battery-8/
-ALERT #: TW 2020-005
+#: TW 2020-005
 
 INCIDENT DATE: 2020-02-04 10:40
 INCIDENT LOCATION: Figueroa St near 37th Pl, Los Angeles, CA 90007

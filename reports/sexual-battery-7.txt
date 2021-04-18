@@ -1,7 +1,7 @@
 SUMMARY: Sexual Battery
 POST DATE: 2020-01-30T15:28:53-08:00
 URL: https://dps.usc.edu/sexual-battery-7/
-ALERT #: TW 2020-004
+#: TW 2020-004
 
 INCIDENT DATE: 2020-01-30 15:30
 INCIDENT LOCATION: West sidewalk of Hoover St south of 29th St, Los Angeles, CA 90007

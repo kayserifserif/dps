@@ -1,7 +1,7 @@
 SUMMARY: Robbery
 POST DATE: 2019-10-24T11:06:19-07:00
 URL: https://dps.usc.edu/robbery-42/
-ALERT #: TW 2019-008
+#: TW 2019-008
 
 INCIDENT DATE: 2019-10-22 21:05
 INCIDENT LOCATION: 3000 block of McClintock Ave, Los Angeles, CA 90007

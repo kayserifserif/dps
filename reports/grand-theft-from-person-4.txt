@@ -1,7 +1,7 @@
 SUMMARY: Grand Theft From Person
 POST DATE: 2019-07-01T17:04:04-07:00
 URL: https://dps.usc.edu/grand-theft-from-person-4/U
-ALERT #: TW 2019-006
+#: TW 2019-006
 
 INCIDENT DATE: 2019-06-30 16:55
 INCIDENT LOCATION: W 30th St & McClintock Ave, Los Angeles, CA 90007

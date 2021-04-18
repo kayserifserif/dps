@@ -1,7 +1,7 @@
 SUMMARY: Robbery/Kidnapping
 POST DATE: 2018-01-24T22:14:42-08:00
 URL: https://dps.usc.edu/robbery-kidnapping/
-ALERT #: CA 2018-002
+#: CA 2018-002
 
 REPORTED OFFENSE: Robbery/Kidnapping
 INCIDENT DATE: 2018-01-24 13:30

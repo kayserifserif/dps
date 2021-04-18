@@ -1,7 +1,7 @@
 SUMMARY: Robbery
 POST DATE: 2018-03-31T19:02:48-07:00
 URL: https://dps.usc.edu/robbery-35/
-ALERT #: CA 2018-005
+#: CA 2018-005
 
 INCIDENT DATE: 2018-03-31 16:10
 INCIDENT LOCATION: 2670 Ellendale Pl, Los Angeles, CA 90007

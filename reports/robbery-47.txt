@@ -1,7 +1,7 @@
 SUMMARY: Robbery
 POST DATE: 2020-04-28T18:00:06-07:00
 URL: https://dps.usc.edu/robbery-47/
-ALERT #: TW 2020-009
+#: TW 2020-009
 
 INCIDENT DATE: 2020-04-28 13:15
 INCIDENT LOCATION: Orchard Ave & W 28th St, Los Angeles, CA 90007

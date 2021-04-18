@@ -1,7 +1,7 @@
 SUMMARY: Attempt Robbery-Strong Arm
 POST DATE: 2018-05-15T14:01:33-07:00
 URL: https://dps.usc.edu/attempt-robbery-strong-arm/
-ALERT #: CA 2018-007
+#: CA 2018-007
 
 REPORTED OFFENSE: Attempt Robbery-Strong Arm
 INCIDENT DATE: 2018-05-13 18:45

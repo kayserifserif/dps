@@ -1,7 +1,7 @@
 SUMMARY: Strong Arm Robbery (HSC)
 POST DATE: 2018-04-07T21:05:02-07:00
 URL: https://dps.usc.edu/robbery-hsc-4/
-ALERT #: TW 2018-004
+#: TW 2018-004
 
 REPORTED OFFENSE: Robbery (Strong Arm)
 INCIDENT DATE: 2018-04-07 00:05

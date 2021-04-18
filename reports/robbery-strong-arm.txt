@@ -1,7 +1,7 @@
 SUMMARY: Robbery-Strong Arm
 POST DATE: 2018-08-22T18:06:19-07:00
 URL: https://dps.usc.edu/robbery-strong-arm/
-ALERT #: CA 2018-008
+#: CA 2018-008
 
 DPS CASE #: 1803109
 REPORTED OFFENSE: Robbery-Strong Arm

@@ -1,7 +1,7 @@
 SUMMARY: Assault with a Deadly Weapon
 POST DATE: 2018-09-11T16:57:02-07:00
 URL: https://dps.usc.edu/assault-with-a-deadly-weapon-2/
-ALERT #: TW 2018-011
+#: TW 2018-011
 
 REPORTED OFFENSE: Assault with a Deadly Weapon
 INCIDENT DATE: 2018-09-10 19:15

@@ -1,7 +1,7 @@
 SUMMARY: Robbery
 POST DATE: 2018-04-02T17:47:24-07:00
 URL: https://dps.usc.edu/robbery-36/
-ALERT #: TW 2018-002
+#: TW 2018-002
 
 REPORTED OFFENSE: Strong Arm Robbery/Assault
 INCIDENT DATE: 2018-03-31 21:05

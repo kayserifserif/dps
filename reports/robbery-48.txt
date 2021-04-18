@@ -1,7 +1,7 @@
 SUMMARY: Robbery
 POST DATE: 2020-06-26T12:02:22-07:00
 URL: https://dps.usc.edu/robbery-48/
-ALERT #: CA 2020-014
+#: CA 2020-014
 
 INCIDENT DATE: 2020-06-26 06:00
 INCIDENT LOCATION: Bus stop at the SW corner of W Adams Blvd & Magnolia Ave, Los Angeles, CA 90007

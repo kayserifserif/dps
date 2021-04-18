@@ -1,7 +1,7 @@
 SUMMARY: Sexual Battery
 POST DATE: 2020-03-01T17:02:08-08:00
 URL: https://dps.usc.edu/sexual-battery-9/
-ALERT #: CA 2020-008
+#: CA 2020-008
 
 INCIDENT DATE: 2020-02-28 19:00
 INCIDENT LOCATION: 1100 block of W 30th St, Los Angeles, CA 90007

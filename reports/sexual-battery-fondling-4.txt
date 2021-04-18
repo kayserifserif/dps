@@ -1,7 +1,7 @@
 SUMMARY: Sexual Battery/Fondling
 POST DATE: 2018-11-07T21:34:41-08:00
 URL: https://dps.usc.edu/sexual-battery-fondling-4/
-ALERT #: TW 2018-013
+#: TW 2018-013
 
 INCIDENT DATE: 2018-11-06 20:15
 INCIDENT LOCATION: 3540 S Figueroa St, Los Angeles, CA 90007

@@ -1,7 +1,7 @@
 SUMMARY: Aggravated Assault
 POST DATE: 2020-05-05T16:47:27-07:00
 URL: https://dps.usc.edu/aggravated-assault/
-ALERT #: TW 2020-010
+#: TW 2020-010
 
 INCIDENT DATE: 2020-05-04 02:28
 INCIDENT LOCATION: Homeless encampment in the 3500 block of S Hope St, Los Angeles, CA 90007

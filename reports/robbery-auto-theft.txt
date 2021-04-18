@@ -1,7 +1,7 @@
 SUMMARY: Robbery/Auto Theft
 POST DATE: 2018-06-06T18:18:10-07:00
 URL: https://dps.usc.edu/robbery-auto-theft/
-ALERT #: TW 2018-009
+#: TW 2018-009
 
 REPORTED OFFENSE: Robbery/Auto Theft
 INCIDENT DATE: 2018-01-06 15:40

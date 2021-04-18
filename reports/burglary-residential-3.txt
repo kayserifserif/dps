@@ -1,7 +1,7 @@
 SUMMARY: Burglary-Residential
 POST DATE: 2019-04-02T18:17:21-07:00
 URL: https://dps.usc.edu/burglary-residential-3/
-ALERT #: TW 2019-003
+#: TW 2019-003
 
 INCIDENT DATE: 2019-04-02 05:28
 INCIDENT LOCATION: Gateway Apartments, 3335 S Figueroa St, Los Angeles, CA 90007

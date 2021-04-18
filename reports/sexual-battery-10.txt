@@ -1,7 +1,7 @@
 SUMMARY: Sexual Battery
 POST DATE: 2020-08-05T23:14:43-07:00
 URL: https://dps.usc.edu/sexual-battery-10/
-ALERT #: TW 2020-017
+#: TW 2020-017
 
 INCIDENT DATE: 2020-08-05 20:30
 INCIDENT LOCATION: Ellendale Pl & W 29th St, Los Angeles, CA 90007

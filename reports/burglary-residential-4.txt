@@ -1,7 +1,7 @@
 SUMMARY: Burglary-Residential
 POST DATE: 2019-11-22T10:15:27-08:00
 URL: https://dps.usc.edu/burglary-residential-4/
-ALERT #: TW 2019-009
+#: TW 2019-009
 
 INCIDENT DATE: 2019-11-20 15:00
 INCIDENT LOCATION: Troy Hall, 3025 Royal St, Los Angeles, CA 90007

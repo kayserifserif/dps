@@ -1,7 +1,7 @@
 SUMMARY: Lewd Conduct and Indecent Exposure
 POST DATE: 2018-03-23T13:20:22-07:00
 URL: https://dps.usc.edu/lewd-conduct-and-indecent-exposure/
-ALERT #: CA 2018-003
+#: CA 2018-003
 
 INCIDENT DATE: 2018-03-22 11:15
 INCIDENT LOCATION: North alley of 3131 McClintock Ave, Los Angeles, CA 90007

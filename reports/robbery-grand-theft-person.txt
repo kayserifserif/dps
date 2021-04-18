@@ -1,7 +1,7 @@
 SUMMARY: Robbery/Grand Theft-Person
 POST DATE: 2018-08-24T20:16:22-07:00
 URL: https://dps.usc.edu/robbery-grand-theft-person/
-ALERT #: CA 2018-009
+#: CA 2018-009
 
 DPS CASE #: 1803157
 REPORTED OFFENSE: Robbery and Grand Theft-Person

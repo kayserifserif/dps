@@ -1,7 +1,7 @@
 SUMMARY: Robbery at HSC
 POST DATE: 2018-06-07T21:36:46-07:00
 URL: https://dps.usc.edu/robbery-at-hsc-2/
-ALERT #: TW 2018-010
+#: TW 2018-010
 
 REPORTED OFFENSE: Robbery
 INCIDENT DATE: 2018-01-06 23:43

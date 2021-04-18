@@ -1,7 +1,7 @@
 SUMMARY: Assault
 POST DATE: 2020-06-15T18:59:12-07:00
 URL: https://dps.usc.edu/assault-with-a-vehicle/
-ALERT #: TW 2020-012
+#: TW 2020-012
 
 INCIDENT DATE: 2020-06-15 11:25
 INCIDENT LOCATION: 600 block of W 34th St, Los Angeles, CA 90089

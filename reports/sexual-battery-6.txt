@@ -1,7 +1,7 @@
 SUMMARY: Sexual Battery
 POST DATE: 2018-10-29T17:12:55-07:00
 URL: https://dps.usc.edu/sexual-battery-6/
-ALERT #: CA 2018-011
+#: CA 2018-011
 
 INCIDENT DATE: 2018-10-28 01:45
 INCIDENT LOCATION: S Figueroa St north of W 29th St, Los Angeles, CA 90007

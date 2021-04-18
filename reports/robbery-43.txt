@@ -1,7 +1,7 @@
 SUMMARY: Robbery
 POST DATE: 2020-01-10T11:43:04-08:00
 URL: https://dps.usc.edu/robbery-43/
-ALERT #: TW 2020-001
+#: TW 2020-001
 
 INCIDENT DATE: 2020-01-09 17:18
 INCIDENT LOCATION: Hoover St & W 29th St, Los Angeles, CA 90007

@@ -1,7 +1,7 @@
 SUMMARY: Armed Robbery
 POST DATE: 2019-01-14T15:32:42-08:00
 URL: https://dps.usc.edu/armed-robbery-3/
-ALERT #: TW 2019-001
+#: TW 2019-001
 
 REPORTED OFFENSE: Robbery
 INCIDENT DATE: 2019-01-12 01:00

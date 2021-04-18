@@ -1,7 +1,7 @@
 SUMMARY: Attempted Robbery
 POST DATE: 2020-09-25T12:31:00-07:00
 URL: https://dps.usc.edu/attempted-robbery-3/
-ALERT #: CA 2020-019
+#: CA 2020-019
 
 REPORTED OFFENSE: Attempted Robbery
 INCIDENT DATE: 2020-09-23 15:00

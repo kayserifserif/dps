@@ -1,7 +1,7 @@
 SUMMARY: Fondling/Sexual Battery
 POST DATE: 2018-03-09T13:57:00-08:00
 URL: https://dps.usc.edu/fondling-sexual-battery/
-ALERT #: TW 2018-001
+#: TW 2018-001
 
 INCIDENT DATE: 2018-03-09 09:00
 INCIDENT LOCATION: NE corner of S Figueroa St & Exposition Blvd, Los Angeles, CA 90007

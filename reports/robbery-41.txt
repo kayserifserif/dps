@@ -1,7 +1,7 @@
 SUMMARY: Robbery
 POST DATE: 2019-05-20T13:44:06-07:00
 URL: https://dps.usc.edu/robbery-41/
-ALERT #: TW 2019-005
+#: TW 2019-005
 
 INCIDENT DATE: 2019-05-19 09:30
 INCIDENT LOCATION: Vermont Ave & W 36th Pl, Los Angeles, CA 90007

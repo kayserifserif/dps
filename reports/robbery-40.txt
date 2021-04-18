@@ -1,7 +1,7 @@
 SUMMARY: Robbery
 POST DATE: 2019-01-22T19:23:35-08:00
 URL: https://dps.usc.edu/robbery-40/
-ALERT #: CA 2019-001
+#: CA 2019-001
 
 INCIDENT DATE: 2018-01-19 02:00
 INCIDENT LOCATION: Hoover St & W 24th St, Los Angeles, CA 90007

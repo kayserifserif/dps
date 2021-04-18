@@ -1,7 +1,7 @@
 SUMMARY: Attempt Robbery
 POST DATE: 2018-01-24T17:24:14-08:00
 URL: https://dps.usc.edu/attempt-robbery-4/
-ALERT #: CA 2018-001
+#: CA 2018-001
 
 INCIDENT DATE: 2018-01-24 14:20
 INCIDENT LOCATION: 37th St west of Vermont Ave, Los Angeles, CA 90007

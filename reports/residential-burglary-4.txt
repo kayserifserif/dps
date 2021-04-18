@@ -1,7 +1,7 @@
 SUMMARY: Residential Burglary
 POST DATE: 2020-08-03T21:34:19-07:00
 URL: https://dps.usc.edu/residential-burglary-4/
-ALERT #: TW 2020-017
+#: TW 2020-017
 
 INCIDENT DATE: 2020-08-03 12:00
 INCIDENT LOCATION: 600 block of W 28th St, Los Angeles, CA 90007

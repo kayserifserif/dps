@@ -1,7 +1,7 @@
 SUMMARY: Robbery-Firearm
 POST DATE: 2018-05-28T10:52:13-07:00
 URL: https://dps.usc.edu/robbery-firearm/
-ALERT #: TW 2018-009
+#: TW 2018-009
 
 REPORTED OFFENSE: Robbery-Firearm
 INCIDENT DATE: 2018-05-27 14:23

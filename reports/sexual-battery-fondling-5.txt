@@ -1,7 +1,7 @@
 SUMMARY: Sexual Battery/Fondling
 POST DATE: 2019-03-04T14:11:49-08:00
 URL: https://dps.usc.edu/sexual-battery-fondling-5/
-ALERT #: TW 2019-003
+#: TW 2019-003
 
 INCIDENT DATE: 2019-03-02 11:30
 INCIDENT LOCATION: 3518 Trousdale Pkwy, Los Angeles, CA 90089

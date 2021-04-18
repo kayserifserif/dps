@@ -1,7 +1,7 @@
 SUMMARY: Sexual Battery/Fondling
 POST DATE: 2019-10-06T09:36:36-07:00
 URL: https://dps.usc.edu/sexual-battery-fondling-7/
-ALERT #: TW 2019-007
+#: TW 2019-007
 
 REPORTED OFFENSE: Sexual Battery/Fondling
 INCIDENT DATE: 2019-09-30 21:41
