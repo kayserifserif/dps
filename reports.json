@@ -698,16 +698,10 @@
         "INCIDENT OFF CAMPUS": false,
         "INCIDENT DESCRIPTION": "Two students exited a Lyft vehicle on Hoover St near the Target store. While walking home, five suspects exited a vehicle and confronted the two students. One suspect, armed with a knife, demanded their property. The students complied and gave them their cell phones, wallet, and keys. The suspects returned to the vehicle and drove away northbound on Hoover St.",
         "SUSPECT DESCRIPTION": [
-          [
-            [
-              [
-                "Male, Hispanic, 160 lbs., 20-30 yrs., wearing a hooded sweatshirt, armed with a knife.",
-                "Male"
-              ],
-              "Male"
-            ],
-            "Male"
-          ],
+          "Male, Hispanic, 160 lbs., 20-30 yrs., wearing a hooded sweatshirt, armed with a knife.",
+          "Male",
+          "Male",
+          "Male",
           "Male"
         ],
         "SUSPECT VEHICLE": "Silver Toyota RAV4 or 4Runner"
@@ -747,13 +741,9 @@
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "Three male juveniles and a female juvenile approached the victim as he was standing on the train platform. One of the male juveniles grabbed the victim\u2019s iPhone out of his hand and walked away. The suspects were last seen running in the area of Exposition Boulevard and Catalina Street.",
         "SUSPECT DESCRIPTION": [
-          [
-            [
-              "Black male, approximately 14 to 16 years old, 5 feet 9 inches tall and with a thin build. He was wearing a white T-shirt and black pants.",
-              "Black male, approximately 14 to 16 years old, 5 feet 9 inches tall and with a thin build. He was wearing a blue long-sleeve T-shirt and blue pants."
-            ],
-            "Black male, approximately 14 to 16 years old, 5 feet 8 inches tall and weighing 180 pounds."
-          ],
+          "Black male, approximately 14 to 16 years old, 5 feet 9 inches tall and with a thin build. He was wearing a white T-shirt and black pants.",
+          "Black male, approximately 14 to 16 years old, 5 feet 9 inches tall and with a thin build. He was wearing a blue long-sleeve T-shirt and blue pants.",
+          "Black male, approximately 14 to 16 years old, 5 feet 8 inches tall and weighing 180 pounds.",
           "Female."
         ],
         "SUSPECT VEHICLE": "None seen"
@@ -1187,10 +1177,8 @@
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "Victim, a student, was attending a party with friends. While victim was dancing by himself, he was approached by Suspect #1 who demanded his property. As the victim raised his hands, backed up and indicated he did not want trouble, Suspects 2 and 3 got behind the victim, one on his left and the other on his right side and began to grab his wallet which was in his rear pocket. The victim did not resist and the suspects fled the scene.",
         "SUSPECT DESCRIPTION": [
-          [
-            "Male, Black, brown eyes, approximately 5\u20198, 170 lbs. medium build, dark skinned.",
-            "Male Black, brown eyes, approximately 6\u20192, 150 lbs., thin build, dark skinned."
-          ],
+          "Male, Black, brown eyes, approximately 5\u20198, 170 lbs. medium build, dark skinned.",
+          "Male Black, brown eyes, approximately 6\u20192, 150 lbs., thin build, dark skinned.",
           "Male, Black, brown eyes, dark skinned."
         ],
         "SUSPECT VEHICLE": "None"
@@ -1202,10 +1190,8 @@
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "Victim, a student, stated that while he was attending a partywith friends he was approached by Suspect #1 (described below) who introduced himself as \u201cBreezie\u201d and began asking the victim his age and what school he attended. The conversation was brief. Approximately 30 minutes later as the victim was leaving the party, he observed Breezie who gestured to him to come over and talk to him. The victim went over to Breezie who then asked the victim if he had Instagram. As the victim reached into his pocket to get his phone, Breezie grabbed the victim\u2019s phone and ran off with it. The victim turned around and told two males standing nearby on his left and right side, later identified as Suspects 2 and 3 (described below) that his phone had been stolen. Suspects 2 and 3 apologized to the victim and then simultaneously reached into the victim\u2019s pockets and stole his wallet and keys and then fled the scene.",
         "SUSPECT DESCRIPTION": [
-          [
-            "Male, Black, approximately 5\u20198/160lbs/19-21 years of age. ",
-            "Male, Black, approximately 6\u20192/210/19-21 years of age. "
-          ],
+          "Male, Black, approximately 5\u20198/160lbs/19-21 years of age. ",
+          "Male, Black, approximately 6\u20192/210/19-21 years of age. ",
           "Male, Black, approximately 5/10/unknown weight/19-21 years of age."
         ],
         "SUSPECT VEHICLE": "None"
@@ -1578,10 +1564,8 @@
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "The victim (student) was walking home alone when three suspects approached him from behind. Two suspects pushed the victim against a fence and the third suspect displayed what appeared to be a pistol tucked in his waistband. The suspects took the victim\u2019s phone and wallet and were last seen walking south on Hoover Street.",
         "SUSPECT DESCRIPTION": [
-          [
-            "Male, Hispanic, 6\u20190, slim build, black buzz-cut hair, goatee, wearing a dark green or black jacket and dark jeans.",
-            "Male, Black, 5\u20199, 145lbs, black shoulder-length dreads, slim build wearing a light blue hoodie and dark jeans."
-          ],
+          "Male, Hispanic, 6\u20190, slim build, black buzz-cut hair, goatee, wearing a dark green or black jacket and dark jeans.",
+          "Male, Black, 5\u20199, 145lbs, black shoulder-length dreads, slim build wearing a light blue hoodie and dark jeans.",
           "Male, Hispanic, 5\u20199, 145lbs, slim build, black buzz-cut hair, wearing an unknown colored jacket and dark jeans."
         ],
         "SUSPECT VEHICLE": "None seen"
@@ -1701,10 +1685,8 @@
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "Three suspects approached the male victim (student) at the corner of 30th Street and Shrine Place. The suspects grabbed the victim and prevented him from leaving. A suspect snatched the victim\u2019s phone from his right hand, and all three suspects fled to a parked vehicle nearby.",
         "SUSPECT DESCRIPTION": [
-          [
-            "Black male who is 6 feet tall and wore black clothing.",
-            "Black male who is between 5 feet 11 inches and 6 feet tall and wore dark clothing."
-          ],
+          "Black male who is 6 feet tall and wore black clothing.",
+          "Black male who is between 5 feet 11 inches and 6 feet tall and wore dark clothing.",
           "Black male who is between 5 feet 11 inches and 6 feet tall and wore dark clothing."
         ],
         "SUSPECT VEHICLE": "A white or silver sedan with four doors"
@@ -1740,10 +1722,8 @@
     "incidents": [
       {
         "INCIDENT DATE": [
-          [
-            "2018-09-15 23:00-08:00",
-            "2018-09-16 03:30-21:50"
-          ],
+          "2018-09-15 23:00-08:00",
+          "2018-09-16 03:30-21:50",
           "2018-09-16 07:30"
         ],
         "INCIDENT LOCATION": "Cardinal Gardens Apartments, 3131 McClintock Ave, Los Angeles, CA 90007",
@@ -1913,10 +1893,8 @@
         "INCIDENT OFF CAMPUS": false,
         "INCIDENT DESCRIPTION": "Three suspects entered the store and went to the electronics department. One of the suspects asked to see products from the display case. When an employee placed the products on the countertop, one of the suspects took them, and all three ran out of the store. While running, one of the suspects stopped and removed a handgun from his waistband so it could be seen by people in the store, and he pointed it toward the ground. The suspect then put the gun back in his waistband and ran out of the store with the other suspects and the stolen electronics. The incident was reported this afternoon.",
         "SUSPECT DESCRIPTION": [
-          [
-            "Hispanic male, approximately 18 to 20 years old, 5 feet, 4 inches tall and weighing 110 pounds. He was wearing a Dallas Cowboys hat, a black, white and teal hoodie and black pants. He was armed with a chrome semiautomatic handgun.",
-            "Hispanic male, approximately 18 to 22 years old, 5 feet, 8 inches tall and weighing 140 to 160 pounds. He was wearing a black shirt and blue shorts."
-          ],
+          "Hispanic male, approximately 18 to 20 years old, 5 feet, 4 inches tall and weighing 110 pounds. He was wearing a Dallas Cowboys hat, a black, white and teal hoodie and black pants. He was armed with a chrome semiautomatic handgun.",
+          "Hispanic male, approximately 18 to 22 years old, 5 feet, 8 inches tall and weighing 140 to 160 pounds. He was wearing a black shirt and blue shorts.",
           "Hispanic male, approximately 18 to 22 years old, 5 feet, 6 inches tall and weighing 140 to 150 pounds. He was wearing a black Dodgers hat, a gray hoodie and black pants."
         ],
         "SUSPECT VEHICLE": "A black, 4-door Volkswagen Jetta or Passat with a red spare tire on the right rear side. The car drove out of the parking structure onto Hoover Boulevard and headed south."
@@ -2096,10 +2074,8 @@
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "The complainant was approached by suspect #1 as she walked north bound on the east sidewalk of Ellendale Place, south of Adams Boulevard. The complainant was then approached by suspect #1, traveling in the opposite direction. Suspect #1 latched onto complainant\u2019s phone and subsequently pushed her upper body. A brief struggle ensued as the complainant made an attempt to physically retain her property. Suspect #2 then approached the Complainant from behind and fearing for her safety, the complainant discontinued her resistance as suspect #1 gained control of the cell phone. Suspects #1 and #2 then entered an awaiting vehicle driven by suspect #3. The suspects then fled the scene north bound from the location and east bound on Adams Boulevard. The suspects then entered the 110 freeway via the south bound metro express lanes.",
         "SUSPECT DESCRIPTION": [
-          [
-            "Female Black BLK hair (possibly braided) unknown age, 5-04 100-110 pounds wearing a white top.",
-            "Female"
-          ],
+          "Female Black BLK hair (possibly braided) unknown age, 5-04 100-110 pounds wearing a white top.",
+          "Female",
           "Male Black"
         ],
         "SUSPECT VEHICLE": "Black Honda 4DR with an unknown sticker affixed to the driver\u2019s side windshield and \u201cdonut\u201d tire mounted onto the rear left wheel well and no front plate."
@@ -2213,10 +2189,8 @@
         "INCIDENT OFF CAMPUS": true,
         "INCIDENT DESCRIPTION": "Victim, a USC student, was walking home from the campus when he was approached by three suspects. Suspect #1 demanded money while the other two suspects stood behind the victim. The victim did not understand the suspect\u2019s demands due to a language barrier. Suspect #1 grabbed the outside pocket of the victim\u2019s jacket. The victim pushed the suspect away and ran inside his gated apartment complex unharmed. The suspects were last seen running eastbound on 36th Place.",
         "SUSPECT DESCRIPTION": [
-          [
-            "Male Black, 5\u201910\u201d in height, approximately 150 lbs., 19 to 25 years old.",
-            "Male Hispanic, 5\u201910\u201d in height, approximately 150 lbs., 19 to 25 years old."
-          ],
+          "Male Black, 5\u201910\u201d in height, approximately 150 lbs., 19 to 25 years old.",
+          "Male Hispanic, 5\u201910\u201d in height, approximately 150 lbs., 19 to 25 years old.",
           "Male Hispanic, 5\u201910\u201d in height, approximately 150 lbs., 19 to 25 years old."
         ],
         "SUSPECT VEHICLE": "No vehicle determined to be involved at the time."
@@ -2504,10 +2478,8 @@
         "INCIDENT OFF CAMPUS": false,
         "INCIDENT DESCRIPTION": "Victims (no USC affiliation) were playing soccer on Brittingham Field when they were confronted by three suspects who demanded their money. Suspect #1 displayed a handgun located in his waistband and the victims gave the suspects their money and cell phones. Suspects then fled southbound from location on Watt Way and into an awaiting vehicle.",
         "SUSPECT DESCRIPTION": [
-          [
-            "Male Black, 5\u20199\u201d, approximately 175 lbs., approximately 21-25 years old, all black clothing.",
-            "Male Black, 5\u20198\u201d, unknown height and weight, approximately 21-25 years old, wearing grey sweat pants, white shirt."
-          ],
+          "Male Black, 5\u20199\u201d, approximately 175 lbs., approximately 21-25 years old, all black clothing.",
+          "Male Black, 5\u20198\u201d, unknown height and weight, approximately 21-25 years old, wearing grey sweat pants, white shirt.",
           "Male Black, 5\u201910\u201d, unknown height and weight, approximately 21-25 years old, wearing blue jeans, white tank top."
         ],
         "SUSPECT VEHICLE": "2002 Black GMC Suburban California license plate # 6MHF644."

@@ -78,7 +78,8 @@ def compileData():
 						if (value == 'True' or value == 'False'):
 							value = (value == 'True')
 						if attribute in obj:
-							obj[attribute] = [obj[attribute]]
+							if type(obj[attribute]) == str:
+								obj[attribute] = [obj[attribute]]
 							obj[attribute].append(value)
 						else:
 							obj[attribute] = value
