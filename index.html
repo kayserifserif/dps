@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Characteristics in Suspect Descriptions</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Data from USC DPS. Reverse sorted by length of description.">
+  <meta property="og:title" content="Characteristics in Suspect Descriptions">
+  <meta property="og:description" content="Data from USC DPS. Reverse sorted by length of description.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="favicon.svg">
+
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+
+  <div class="wrapper">
+
+    <aside class="panel">
+      <h1 class="title">Characteristics in Suspect Descriptions</h1>
+      <p class="intro">Data from <a href="https://dps.usc.edu/category/alerts/">USC DPS</a>. Reverse sorted by length of description.</p>
+      <form id="legend" class="legend">
+        <fieldset>
+          <legend>Characteristics to highlight</legend>
+          <div class="legendItem gender">
+            <input type="checkbox" name="characteristic" value="gender" id="gender" checked>
+            <label for="gender">Gender</label>
+          </div>
+          <div class="legendItem race">
+            <input type="checkbox" name="characteristic" value="race" id="race" checked>
+            <label for="race">Race</label>
+          </div>
+          <div class="legendItem age">
+            <input type="checkbox" name="characteristic" value="age" id="age" checked>
+            <label for="age">Age</label>
+          </div>
+          <div class="legendItem height">
+            <input type="checkbox" name="characteristic" value="height" id="height" checked>
+            <label for="height">Height</label>
+          </div>
+          <div class="legendItem size">
+            <input type="checkbox" name="characteristic" value="size" id="size" checked>
+            <label for="size">Size</label>
+          </div>
+          <div class="legendItem ehs">
+            <input type="checkbox" name="characteristic" value="ehs" id="ehs" checked>
+            <label for="ehs">Eye/Hair/Skin</label>
+          </div>
+          <div class="legendItem clothing">
+            <input type="checkbox" name="characteristic" value="clothing" id="clothing" checked>
+            <label for="clothing">Clothing</label>
+          </div>
+          <div class="legendItem identifiers">
+            <input type="checkbox" name="characteristic" value="identifiers" id="identifiers" checked>
+            <label for="identifiers">Notable Identifiers</label>
+          </div>
+        </fieldset>
+      </form>
+      <div id="minimap" class="minimap">
+        <h2>Minimap</h2>
+      </div>
+    </aside>
+
+    <main id="descriptions" class="descriptions">
+
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, approximately <span class="char age">20-25 years</span>, <span class="char clothing">blue and gray wind breaker, dark pants</span>. Victim later reported that the suspect had <span class="char identifiers">a thin, faded tattoo across his forehead, another tattoo under both his right and left eye, and possibly wearing a Los Angeles Trade Technical College (LATCC) nametag with the name “Ramon”</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, ranging in height from <span class="char height">5 foot 7 inches to 5 foot 9 inches</span>, weighing <span class="char size">150 pounds</span>, <span class="char age">25- to 30-years-old</span>, <span class="char ehs">light complexion, large Afro-style hair</span>, wearing <span class="char clothing">a black hoodie with “Big Lots” on one sleeve, black pants, and black, gold and white shoes</span>.</p>
+      <p class="description"><span class="char gender">Female</span>, <span class="char race">Black</span>, <span class="char age">25-30</span>, <span class="char height">5-6”</span>, <span class="char size">130 lbs.</span>, <span class="char ehs">fair skin, reddish hair in a ponytail</span>, <span class="char identifiers">tattoos on left arm</span>, wearing <span class="char clothing">a black jacket with shear sleeves, knee-high black boots, and light pants</span>. Victim described the suspect as being nicely dressed (see photo below).</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Hispanic</span>, <span class="char age">early 30s</span>, <span class="char height">5 feet 9 inches tall</span>, <span class="char size">average build</span>, <span class="char ehs">short messy brown hair, unshaven, brown eyes</span>, <span class="char clothing">dark gray or black T-shirt, and faded dark jeans</span>. The victim described him as disheveled and <span class="char race">speaking English with a Spanish accent</span>.</p>
+      <p class="description"><span class="char race">Hispanic</span> <span class="char gender">male</span>, approximately <span class="char age">18 to 20 years old</span>, <span class="char height">5 feet, 4 inches tall</span> and weighing <span class="char size">110 pounds</span>. He was wearing <span class="char clothing">a Dallas Cowboys hat, a black, white and teal hoodie and black pants</span>. He was <span class="char identifiers">armed with a chrome semiautomatic handgun</span>.</p>
+      <p class="description"><span class="char race">Black</span> <span class="char gender">female</span>, approximately <span class="char age">20-25 years old</span>, <span class="char height">5 feet 3 inches to 5 feet 6 inches</span> and weighing <span class="char size">250 pounds</span>. She had <span class="char ehs">braided hair with blonde highlights</span>. She was wearing <span class="char clothing">an orange and gray tie-dye shirt</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, possibly <span class="char race">Hispanic</span>, <span class="char height">5’5”</span>, <span class="char size">250 lbs.</span>, <span class="char age">30-40 years</span>, <span class="char ehs">curly hair</span>, wearing <span class="char clothing">a dark long sleeve shirt, dark shorts, green tennis shoes</span>, <span class="char identifiers">wrapped in light gray blanket, carrying a skateboard</span>.</p>
+      <p class="description"><span class="char race">Black</span> adolescent <span class="char gender">male</span>, approximately <span class="char age">12 to 14 years old</span>, <span class="char height">5 feet, 5 inches tall</span> and weighing <span class="char size">120 pounds</span>. He was wearing <span class="char clothing">a zip-up blue hoodie, red T-shirt, black socks</span> and <span class="char identifiers">no shoes</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Hispanic</span>, <span class="char height">6 feet tall</span>, <span class="char size">slim build</span>, wearing <span class="char clothing">a black top over brown pants</span> and <span class="char identifiers">carrying a backpack over the front of his body with a blue blanket draped over the backpack</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, approximately <span class="char age">26-years-old</span>, <span class="char height">6 feet 4 inches tall</span>, <span class="char size">260 pounds</span>, <span class="char ehs">full beard</span>, wearing <span class="char clothing">a white tank top, green jacket, blue jeans and tan Timberland-style boots</span>.</p>
+      <p class="description"><span class="char race">Hispanic</span> <span class="char gender">male</span>, approximately <span class="char age">18 to 22 years old</span>, <span class="char height">5 feet, 6 inches tall</span> and weighing <span class="char size">140 to 150 pounds</span>. He was wearing <span class="char clothing">a black Dodgers hat, a gray hoodie and black pants</span>.</p>
+      <p class="description"><span class="char race">Hispanic</span> <span class="char gender">male</span>, approximately <span class="char age">25 to 30 years old</span>, <span class="char height">5 feet, 9 inches tall</span> and weighing <span class="char size">200 pounds</span>. He was wearing <span class="char clothing">a black hoodie, black pants, black hat and a black mask</span>.</p>
+      <p class="description"><span class="char age">20-25-year-old</span> <span class="char race">Hispanic</span> <span class="char gender">male</span> who is <span class="char height">5 feet 7 inches tall</span> and weighs <span class="char size">140 pounds</span>. He is <span class="char size">slim</span>, <span class="char ehs">bald and has a beard</span>. He wore <span class="char clothing">blue pants and a gray long-sleeve shirt</span>.</p>
+      <p class="description"><span class="char age">20-25-year old</span> <span class="char race">Black</span> <span class="char gender">male</span> who wore <span class="char clothing">black clothing with an orange stripe down the center</span>. He is between <span class="char height">5 feet 10 inches and 6 feet tall</span> and rode a skateboard.</p>
+      <p class="description"><span class="char race">Black</span> <span class="char gender">male</span>, approximately <span class="char age">30 to 35 years old</span>, <span class="char height">6 feet, 1 inches tall</span> and weighing <span class="char size">160 pounds</span>. He was wearing <span class="char clothing">a black sweater, black pants and white shoes</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Hispanic</span>, <span class="char age">late 20’s to early 30’s</span>, wearing <span class="char clothing">black zip up sweater, camouflage blue t-shirt, wearing black backpack, black baseball cap and red shoes</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Hispanic</span>, in his <span class="char age">20s</span>, <span class="char height">5 feet 6 inches tall</span>, weighing <span class="char size">180 pounds</span> and wearing <span class="char clothing">a black hoodie</span>. He was last seen <span class="char identifiers">running southbound on Vermont Avenue</span>.</p>
+      <p class="description"><span class="char race">Black</span> adolescent <span class="char gender">male</span>, approximately <span class="char age">12 years old</span>, <span class="char height">5 feet, 6 inches tall</span> and weighing <span class="char size">115 pounds</span>. He was wearing <span class="char clothing">a zip-up blue hoodie and blue pants</span>.</p>
+      <p class="description"><span class="char race">Hispanic</span> <span class="char gender">male</span>, approximately <span class="char age">18 to 22 years old</span>, <span class="char height">5 feet, 8 inches tall</span> and weighing <span class="char size">140 to 160 pounds</span>. He was wearing <span class="char clothing">a black shirt and blue shorts</span>.</p>
+      <p class="description"><span class="char race">Black</span> <span class="char gender">male</span>, approximately <span class="char age">14 to 16 years old</span>, <span class="char height">5 feet 9 inches tall</span> and with a <span class="char size">thin build</span>. He was wearing <span class="char clothing">a blue long-sleeve T-shirt and blue pants</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, <span class="char age">approximately 23</span>, <span class="char height">5-9</span>, <span class="char size">175</span>, <span class="char ehs">“fade” style haircut</span>, wearing <span class="char clothing">a black t-shirt, grey pants or long shorts, white socks and black shoes</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">black</span>, <span class="char ehs">black hair</span>, <span class="char height">6’0</span>, approximately <span class="char size">180 lbs.</span>, <span class="char age">21-25 years of age</span>, wearing <span class="char clothing">a white long sleeve shirt, blue shorts, turquoise backpack</span>.</p>
+      <p class="description"><span class="char race">Hispanic</span> <span class="char gender">male</span>, approximately <span class="char age">25 years old</span>, <span class="char height">6 feet tall</span> and weighing <span class="char size">180 pounds</span>. He was wearing <span class="char clothing">a black hoodie, black pants and a black mask</span>.</p>
+      <p class="description"><span class="char race">Black</span> <span class="char gender">male</span>, approximately <span class="char age">14 to 16 years old</span>, <span class="char height">5 feet 9 inches tall</span> and with a <span class="char size">thin build</span>. He was wearing <span class="char clothing">a white T-shirt and black pants</span>.</p>
+      <p class="description"><span class="char race">Hispanic</span> <span class="char gender">male</span> with <span class="char ehs">black hair</span> in his <span class="char age">mid-20s</span>. He is between <span class="char height">5 feet 8 inches and 5 feet 10 inches tall</span> and weighs between <span class="char size">120-130 pounds</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Hispanic</span>, <span class="char age">age 20-25</span>, <span class="char height">5 feet 9 inches tall</span>, <span class="char size">slim build</span>, wearing <span class="char clothing">a dark blue hooded sweatshirt over a white shirt and dark jeans</span>.</p>
+      <p class="description"><span class="char race">Black</span> adolescent <span class="char gender">male</span>, approximately <span class="char age">10 years old</span>, <span class="char height">5 feet, 3 inches tall</span> and weighing <span class="char size">95 pounds</span> and wearing <span class="char clothing">blue clothing</span>.</p>
+      <p class="description"><span class="char race">Black</span> <span class="char gender">female</span>, with <span class="char ehs">black hair and brown eyes</span>, about <span class="char age">25 to 30 years old</span>, <span class="char height">5 feet, 4 inches tall</span> and weighing <span class="char size">220 pounds</span>.</p>
+      <p class="description"><span class="char identifiers">Armando Romero</span>, <span class="char age">age 35</span>, <span class="char gender">male</span>, <span class="char race">Hispanic</span>, <span class="char height">5 feet 10 inches tall</span>, and weighing <span class="char size">165 pounds</span> with <span class="char ehs">black hair and brown eyes</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">black</span>, <span class="char age">age 21-25</span>, <span class="char height">6 feet 3 inches tall</span>, <span class="char size">250 pounds</span>, wearing <span class="char clothing">a light grey hooded sweatshirt and grey sweatpants</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Hispanic</span>, <span class="char age">early 20’s</span>, <span class="char ehs">brown hair and brown eyes</span>, <span class="char height">5’08-5’10</span>, <span class="char size">thin build</span>, wearing <span class="char clothing">a green camouflage jacket</span>, NFD.</p>
+      <p class="description"><span class="char race">Hispanic</span> <span class="char gender">male</span>, <span class="char height">5’10” to 6’00” tall</span>, <span class="char age">20-22-years-old</span> and wearing <span class="char clothing">a black hoodie with white stripes down the sleeves</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, <span class="char height">5’ 10” tall</span>, <span class="char size">180 to 200 pounds</span>, wearing <span class="char clothing">a black shirt, black pants and an orange traffic safety vest</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Hispanic</span>, <span class="char age">age 40-42</span>, <span class="char height">5 feet 9 inches tall</span>, <span class="char size">190 pounds</span>, wearing <span class="char clothing">a pink checkered shirt</span> and carrying two bags.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Hispanic</span>, <span class="char height">6’0</span>, <span class="char size">slim build</span>, <span class="char ehs">black buzz-cut hair, goatee</span>, wearing <span class="char clothing">a dark green or black jacket and dark jeans</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span> with <span class="char ehs">shaved head</span>, approximately <span class="char age">28 to 30 years of age</span>, wearing <span class="char clothing">navy color sweat shirt with dark pants</span>.</p>
+      <p class="description"><span class="char gender">Male</span> <span class="char race">Black</span>, <span class="char age">5’8”</span>, unknown height and weight, approximately <span class="char age">21-25 years old</span>, wearing <span class="char clothing">grey sweat pants, white shirt</span>.</p>
+      <p class="description"><span class="char gender">Female</span>, <span class="char race">Black</span>, <span class="char age">35-40 years of age</span>, approximately <span class="char height">6 feet tall</span>, <span class="char size">thin build</span>, wearing <span class="char clothing">reddish-purple colored clothing</span>.</p>
+      <p class="description"><span class="char gender">Male</span> <span class="char race">Black</span>, <span class="char age">5’10”</span>, unknown height and weight, approximately <span class="char age">21-25 years old</span>, wearing <span class="char clothing">blue jeans, white tank top</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Hispanic</span>, <span class="char age">5’9</span>, <span class="char size">145lbs</span>, <span class="char size">slim build</span>, <span class="char ehs">black buzz-cut hair</span>, wearing <span class="char clothing">an unknown colored jacket and dark jeans</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, <span class="char age">5’9</span>, <span class="char size">145lbs</span>, <span class="char ehs">black shoulder-length dreads</span>, <span class="char size">slim build</span> wearing <span class="char clothing">a light blue hoodie and dark jeans</span>.</p>
+      <p class="description"><span class="char gender">Male</span> <span class="char race">Black</span>, <span class="char height">6’ in height</span>, approximately <span class="char size">175 lbs.</span>, approximately <span class="char age">19 to 21 years old</span>, wearing <span class="char clothing">grey sweat pants</span>.</p>
+      <p class="description"><span class="char age">16-18-year-old</span> <span class="char race">Hispanic</span> <span class="char gender">male</span> who is between <span class="char height">5 feet 2 inches and 5 feet 5 inches tall</span> and weighs <span class="char size">125 pounds</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, <span class="char age">25-30</span>, <span class="char height">6’00” to 6’02”</span>, <span class="char ehs">medium length curly hair</span>, wearing <span class="char clothing">a white sweat shirt and grey pants</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, <span class="char size">slim build</span>, <span class="char age">38-45 years old</span>, <span class="char ehs">short hair, clean shaven</span> and wearing <span class="char clothing">jeans and a white t-shirt</span>.</p>
+      <p class="description"><span class="char age">16-18-year-old</span> <span class="char race">Hispanic</span> <span class="char gender">male</span> who is between <span class="char height">5 feet and 5 feet 5 inches tall</span> and weighs <span class="char size">115 pounds</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Hispanic</span>, approximately <span class="char age">28 to 30 years old</span>, wearing <span class="char clothing">grey tank top and light colored shorts</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Hispanic</span>, <span class="char age">age 20</span>, <span class="char ehs">long black shoulder length hair</span>, wearing <span class="char clothing">a gray hoodie and a backpack</span>.</p>
+      <p class="description"><span class="char gender">Female</span> <span class="char race">Black</span> <span class="char ehs">BLK hair (possibly braided)</span> unknown age, <span class="char height">5-04</span> <span class="char size">100-110 pounds</span> wearing <span class="char clothing">a white top</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, <span class="char age">30-40 years old</span>, <span class="char height">6 feet tall</span>, <span class="char size">150 pounds</span>, wearing <span class="char clothing">a black hoodie and blue jeans</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, approximately <span class="char age">20 years old</span>, <span class="char height">5’9</span>, <span class="char size">130 lbs.</span>, wearing <span class="char clothing">a white shirt and dark pants</span>.</p>
+      <p class="description"><span class="char race">Black</span> <span class="char gender">male</span>, approximately <span class="char age">20 to 30 years old</span>, <span class="char height">5 feet, 10 inches tall</span>, with <span class="char ehs">a long ponytail</span>.</p>
+      <p class="description"><span class="char gender">Male</span> <span class="char race">Black</span>, <span class="char height">5’9”</span>, approximately <span class="char size">175 lbs.</span>, approximately <span class="char age">21-25 years old</span>, <span class="char clothing">all black clothing</span>.</p>
+      <p class="description"><span class="char race">Black</span> <span class="char gender">male</span>, approximately <span class="char age">14 to 16 years old</span>, <span class="char height">5 feet 8 inches tall</span> and weighing <span class="char size">180 pounds</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, <span class="char age">18-25</span>, <span class="char ehs">short curly hair, clean shaven</span>, wearing <span class="char clothing">a white t-shirt and dark pants</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, <span class="char age">18-25</span>, <span class="char ehs">short curly hair, clean shaven</span>, wearing <span class="char clothing">a white t-shirt and dark pants</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char gender">White</span>, <span class="char age"><span class="char age">23-30 years of age</span></span>, <span class="char ehs">Blond/Brown hair, facial stubble</span>, <span class="char clothing">short sleeved shirt</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Hispanic</span>, <span class="char size">160 lbs.</span>, <span class="char age">20-30 yrs.</span>, wearing <span class="char clothing">a hooded sweatshirt</span>, <span class="char identifiers">armed with a knife</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, <span class="char age">55 years old</span>, <span class="char identifiers">missing teeth</span>, <span class="char ehs">short hair style</span>, <span class="char clothing">black jacket, dark pants</span>.</p>
+      <p class="description">Three <span class="char gender">males</span>, <span class="char race">Hispanic</span>, <span class="char age">mid-20s to early 30s</span>, and wearing <span class="char clothing">blue shirts and black pants</span>.</p>
+      <p class="description">Two <span class="char gender">male</span> <span class="char race">Hispanics</span>, <span class="char age"><span class="char age">20-25 years of age</span></span>, <span class="char height">5-06</span>, both wore <span class="char clothing">dark blue hooded sweatshirts</span>.</p>
+      <p class="description"><span class="char race">Black</span> <span class="char gender">male</span> who is between <span class="char height">5 feet 11 inches and 6 feet tall</span> and wore <span class="char clothing">dark clothing</span>.</p>
+      <p class="description"><span class="char race">Black</span> <span class="char gender">male</span> who is between <span class="char height">5 feet 11 inches and 6 feet tall</span> and wore <span class="char clothing">dark clothing</span>.</p>
+      <p class="description"><span class="char race">Hispanic</span> <span class="char gender">male</span>, <span class="char height">5’10” to 6’00” tall</span>, <span class="char age">20-22-years-old</span> and wearing <span class="char clothing">an orange hoodie</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, <span class="char ehs">brown eyes</span>, approximately <span class="char height">5’8</span>, <span class="char size">170 lbs.</span> <span class="char size">medium build</span>, <span class="char ehs">dark skinned</span>.</p>
+      <p class="description"><span class="char race">Black</span> <span class="char gender">male</span> who wore <span class="char clothing">a black long-sleeved shirt, gray pants and a green backpack</span>.</p>
+      <p class="description"><span class="char gender">Male</span> <span class="char race">Black</span>, <span class="char ehs">brown eyes</span>, approximately <span class="char height">6’2</span>, <span class="char size">150 lbs.</span>, <span class="char size">thin build</span>, <span class="char ehs">dark skinned</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">black</span>, <span class="char size">6’2”</span>, <span class="char age">20 to 24 years old</span>, <span class="char clothing">light blue shirt, and dark color pants</span>.</p>
+      <p class="description"><span class="char age">20-30-year-old</span> <span class="char race">black</span> <span class="char gender">female</span> who wore <span class="char clothing">a green sweater and dark-colored pants</span>.</p>
+      <p class="description"><span class="char gender">Male</span> <span class="char race">Hispanic</span>, <span class="char height">5’10”</span> in height, approximately <span class="char size">150 lbs.</span>, <span class="char age">19 to 25 years old</span>.</p>
+      <p class="description"><span class="char gender">Male</span> <span class="char race">Hispanic</span>, <span class="char height">5’10”</span> in height, approximately <span class="char size">150 lbs.</span>, <span class="char age">19 to 25 years old</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Hispanic</span>, <span class="char ehs">dark complexion</span>, <span class="char age">age 25 to 29</span>, <span class="char ehs">shoulder length black hair</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Hispanic</span>, <span class="char age">20-25</span>, <span class="char size">5-9</span>, <span class="char ehs">black hair</span>, wearing <span class="char clothing">a black hooded sweatshirt</span>.</p>
+      <p class="description"><span class="char gender">Male</span> of unknown age and race, wearing <span class="char clothing">a blue hat and dark grey clothing</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Hispanic</span>, <span class="char clothing">beige hat, blue shirt, blue pants and wearing a backpack</span>.</p>
+      <p class="description"><span class="char gender">Male</span> <span class="char race">Black</span>, unknown height and weight, approximately <span class="char age">19 to 21 years old</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, wearing <span class="char clothing">black sweatpants, a black hoodie and a blue surgical mask</span>.</p>
+      <p class="description"><span class="char gender">Male</span> <span class="char race">Black</span>, <span class="char height">5’10”</span> in height, approximately <span class="char size">150 lbs.</span>, <span class="char age">19 to 25 years old</span>.</p>
+      <p class="description"><span class="char gender">Male</span> <span class="char race">Black</span>, <span class="char height">5-7 to 5-9</span>, <span class="char size">150lbs</span>, <span class="char clothing">black pants, black hoodie, dark shoes</span>.</p>
+      <p class="description"><span class="char gender">Male</span> <span class="char race">Black</span>, <span class="char height">5-7 to 5-9</span>, <span class="char size">150lbs</span>, <span class="char clothing">black pants, gray hoodie, dark shoes</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, wearing <span class="char clothing">red sweatpants, a red hoodie and a blue surgical mask</span>.</p>
+      <p class="description"><span class="char gender">Female</span>, <span class="char race">Black</span>, <span class="char age">35-40 years of age</span>, wearing <span class="char clothing">a burgundy colored top</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, approximately <span class="char height">5/10</span>/unknown weight/<span class="char age">19-21 years of age</span>.</p>
+      <p class="description"><span class="char gender">Female</span>, <span class="char race">black</span>, <span class="char height">5’3</span>, approx. <span class="char age">25 years of age</span>, wearing <span class="char clothing">white shirt</span>.</p>
+      <p class="description"><span class="char age">20-30-year-old</span> <span class="char race">black</span> <span class="char gender">male</span> who wore <span class="char clothing">a blue shirt and black pants</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char ehs">short hair, possible a crew cut</span>, wearing <span class="char clothing">a dark hoodie</span>.</p>
+      <p class="description"><span class="char race">Black</span> <span class="char gender">male</span> who wore <span class="char clothing">a gray sweatshirt</span> and drove the vehicle.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">black</span>, approx. <span class="char age">25 years of age</span>, wearing <span class="char clothing">dark clothing</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, approximately <span class="char height">5’8</span>/<span class="char size">160lbs</span>/<span class="char age">19-21 years of age</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, approximately <span class="char height">6’2</span>/<span class="char size">210</span>/<span class="char age">19-21 years of age</span>.</p>
+      <p class="description"><span class="char age">20-25-year-old</span> <span class="char race">Hispanic</span> <span class="char gender">male</span> who wore <span class="char clothing">a blue backpack</span>.</p>
+      <p class="description"><span class="char race">Black</span> <span class="char gender">male</span> who is <span class="char height">6 feet tall</span> and wore <span class="char clothing">black clothing</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">white</span>, <span class="char size">heavy set</span>, wearing a <span class="char clothing">black business suit</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Hispanic</span>, <span class="char age">20-25</span>, <span class="char height">5-7</span>, <span class="char clothing">dark hooded sweatshirt</span>.</p>
+      <p class="description"><span class="char age">20-year-old</span> <span class="char race">black</span> <span class="char gender">male</span> who wore a <span class="char clothing">gray sweatshirt</span>.</p>
+      <p class="description"><span class="char race">Hispanic</span> <span class="char gender">female</span> who is approximately <span class="char age">35 years old</span>.</p>
+      <p class="description"><span class="char age">20-30-year-old</span> <span class="char race">black</span> <span class="char gender">male</span> who wore <span class="char clothing">a gray shirt</span>.</p>
+      <p class="description"><span class="char race">Black</span> <span class="char gender">female</span>, approximately <span class="char age">25 to 30 years old</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, <span class="char age">age 30-35</span> and about <span class="char height">6 feet tall</span>.</p>
+      <p class="description"><span class="char gender">Male</span> in his <span class="char age">late 20s</span> wearing <span class="char clothing">a gray T-shirt</span>.</p>
+      <p class="description"><span class="char gender">Female</span>, <span class="char age">age: 20-25</span>, wearing <span class="char clothing">dark clothing</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>, <span class="char ehs">brown eyes, dark skinned</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char age">age 15 to 17</span> wearing <span class="char clothing">a hoodie</span>.</p>
+      <p class="description">An unidentified <span class="char gender">male</span>.</p>
+      <p class="description"><span class="char gender">Female</span>, <span class="char age">age: 20-25</span>.</p>
+      <p class="description"><span class="char gender">Female</span>, <span class="char race">Black</span>.</p>
+      <p class="description"><span class="char clothing">Dark hoodie</span>.</p>
+      <p class="description">Three <span class="char gender">males</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">Black</span>.</p>
+      <p class="description"><span class="char gender">Male</span>, <span class="char race">black</span>.</p>
+      <p class="description"><span class="char gender">Male</span> adult.</p>
+      <p class="description"><span class="char gender">Male</span> <span class="char race">Black</span>.</p>
+      <p class="description"><span class="char gender">Female</span>.</p>
+      <p class="description"><span class="char gender">Female</span>.</p>
+      <p class="description"><span class="char gender">Male</span>.</p>
+      <p class="description"><span class="char gender">Male</span>.</p>
+      <p class="description"><span class="char gender">Male</span>.</p>
+      <p class="description"><span class="char gender">Male</span>.</p>
+      <p class="description"><span class="char gender">Male</span>.</p>
+      <p class="description"><span class="char gender">Male</span>.</p>
+      <p class="description"><span class="char gender">Male</span>.</p>
+
+    </main>
+
+  </div>
+
+  <button id="backToTop" class="backToTop">Top</button>
+
+  <script src="scripts.js"></script>
+
+</body>
+</html>

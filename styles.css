@@ -1,0 +1,192 @@
+/* GENERAL */
+
+:root {
+  --gender: #E86F83;
+  --race: #E54729;
+  --age: #EBC36F;
+  --height: #665490;
+  --size: #80548E;
+  --ehs: #5479AB;
+  --clothing: #113644;
+  --identifiers: #BEBDC0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  line-height: 1.5;
+  font-family: "Cascadia Code", monospace;
+  background-color: #F2EFE3;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Antonio", sans-serif;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+
+/* LAYOUT */
+
+.wrapper {
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto auto;
+}
+  @media (min-width: 1000px) {
+    .wrapper {
+      grid-template-columns: 30% 70%;
+      grid-template-rows: auto;
+    }
+  }
+
+.panel,
+.descriptions {
+  padding: 4em;
+}
+
+/* PANEL */
+
+.panel {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+  @media (min-width: 1000px) {
+    .panel {
+      position: sticky;
+      top: 0;
+      height: 100vh;
+    }
+  }
+
+.title {
+  margin: 0;
+  font-size: 2em;
+}
+
+.intro {
+  margin: 0;
+  font-style: italic;
+}
+
+.legend fieldset {
+  display: flex;
+  gap: .5em;
+  flex-wrap: wrap;
+  padding: 1em;
+}
+
+.legendItem {
+  width: max-content;
+  /* margin: .5em 0; */
+  padding: .2em .7em .2em .5em;
+  border: 2px solid;
+  border-radius: 20px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.legendItem.gender { background-color: var(--gender); }
+.legendItem.race { background-color: var(--race); }
+.legendItem.age { background-color: var(--age); }
+.legendItem.height { background-color: var(--height); }
+.legendItem.size { background-color: var(--size); }
+.legendItem.ehs { background-color: var(--ehs); }
+.legendItem.clothing { background-color: var(--clothing); }
+.legendItem.identifiers { background-color: var(--identifiers); }
+
+.legendItem:not(.checked) {
+  background: none;
+  color: #000;
+}
+
+input[type="checkbox"] {
+  /* cursor: pointer; */
+  /* display: none; */
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
+input[type="checkbox"] + label::before {
+  margin-right: .5em;
+}
+
+input[type="checkbox"]:checked + label::before {
+  content: "✓";
+}
+
+input[type="checkbox"]:not(:checked) + label::before {
+  content: "•";
+}
+
+input:focus + label {
+  outline: 2px solid blue;
+  outline-offset: 5px;
+}
+
+label {
+  cursor: pointer;
+}
+
+.minimapLine {
+  border: 0;
+  height: .5px;
+  margin-top: 0;
+  margin-bottom: 2px;
+  background-color: #000;
+}
+
+.hrFade {
+  background-color: #ccc;
+}
+
+/* DESCRIPTIONS */
+
+.description {
+  color: #939393;
+}
+
+.char {
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 2px;
+  color: #000;
+}
+
+.gender { text-decoration-color: var(--gender); border-color: var(--gender); }
+.race { text-decoration-color: var(--race); border-color: var(--race); }
+.age { text-decoration-color: var(--age); border-color: var(--age); }
+.height { text-decoration-color: var(--height); border-color: var(--height); }
+.size { text-decoration-color: var(--size); border-color: var(--size); }
+.ehs { text-decoration-color: var(--ehs); border-color: var(--ehs); }
+.clothing { text-decoration-color: var(--clothing); border-color: var(--clothing); }
+.identifiers { text-decoration-color: var(--identifiers); border-color: var(--identifiers); }
+
+.fade {
+  text-decoration-color: currentcolor;
+  color: #939393;
+}
+
+/* BACK TO TOP */
+
+.backToTop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-family: "Cascadia Code", monospace;
+}
